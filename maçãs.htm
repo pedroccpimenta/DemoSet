@@ -1,0 +1,408 @@
+﻿<html>
+<head>
+<link rel="shortcut icon" href="logos/maça1.ico" />
+
+<script>
+
+var inter=[];
+var brano=[]
+var b=[]
+
+
+
+// Carlos Gardel
+b.push({url:'Carlos Gardel/Carlos Gardel - Siga El Corso.mp3', brano:"Siga el corso", inter:"Carlos Gardel"})
+b.push({url:'Carlos Gardel/Carlos Gardel - BANDONEON ARRABALERO.mp3', brano:"Bandoneon arrabalero", inter:"Carlos Gardel"})
+b.push({url:'Carlos Gardel/Carlos Gardel - Alma En Pena.mp3', brano:"Alma en pena", inter:"Carlos Gardel"})
+b.push({url:'Carlos Gardel/Carlos Gardel - EL DIA QUE ME QUIERAS.mp3', brano:"El dia que me quieras", inter:"Carlos Gardel"})
+b.push({url:'Carlos Gardel/Carlos Gardel - Madreselva.mp3', brano:"Madreselva", inter:"Carlos Gardel"})
+b.push({url:'Carlos Gardel/Carlos Gardel - YO NO SE QUE ME HAN HECHO TUS OJOS.mp3', brano:"Yo no se que me han hecho tus ojos", inter:"Carlos Gardel"})
+b.push({url:'Carlos Gardel/Carlos Gardel - Tu Vieja Ventana.mp3', brano:"Tu vieja ventana", inter:"Carlos Gardel"})
+
+
+// Alberto Gomez
+b.push({url:"ALBERTO GOMEZ/ALBERTO GOMEZ - ALMA DE BANDONEON.mp3",brano:"Alma de bandoneon", inter:"Alberto Gomez"})
+b.push({url:"ALBERTO GOMEZ/Alberto Gomez - Tipica Victor - Isla de Capri - 1935.mp3",brano:"Isla de Capri", inter:"Alberto Gomez"})
+
+
+// Ignacio Corsini
+b.push({url:"Ignacio Corsini/Ignacio Corsini - Alma en pena.mp3",brano:"Alma en pena", inter:"Ignacio Corsini"})
+b.push({url:"Ignacio Corsini/Ignacio Corsini - Soy un arlequin.mp3",brano:"Soy un Arlequin", inter:"Ignacio Corsini"})
+b.push({url:"Ignacio Corsini/Ignacio Corsini (con guitarra) 38 - El Adiós.mp3",brano:"El adiós", inter:"Ignacio Corsini"})
+b.push({url:"Ignacio Corsini/Ignacio Corsini V (con guitarra) 31 - Yo no sè que me han hecho tus ojos.mp3",brano:"Yo no se que me han hecho tus ojos", inter:"Ignacio Corsini"})
+
+
+// Agustin Magaldi
+it="Agustin Magaldi"
+b.push({url:"Agustin Magaldi/Agustín Magaldi - Paciencia.mp3",brano:"Paciencia", inter:it})
+b.push({url:"Agustin Magaldi/Agustín Magaldi - Oración.mp3",brano:"Oración", inter:it})
+b.push({url:"Agustin Magaldi/Agustín Magaldi - Mis Delirios.mp3",brano:"Mis delirios", inter:it})
+
+
+//JUan Maglio
+//it="Juan Maglio"
+// b.push({url:"Juan Maglio/vals/Juan Maglio Pacho V (Carlos Vivan) 1928 - Adoración.mp3",brano:"Adoración", inter:it})
+//b.push({url:"Juan Maglio/Orquesta Tipica Juan Maglio - Alma en pena (José Gallarza).mp3",brano:"Alma en pena", inter:it})
+
+
+// Osvaldo Fresedo
+b.push({url:"Osvaldo Fresedo/Osvaldo Fresedo - siga el corsononoise.mp3", brano:"Siga el corso", inter:"Osvaldo Fresedo"})
+b.push({url:"Osvaldo Fresedo/Osvaldo Fresedo - Alma en pena (Ernesto Famá).mp3", brano:"Alma en pena", inter:"Osvaldo Fresedo"})
+b.push({url:"Osvaldo Fresedo/Osvaldo Fresedo - Isla de Capri.mp3", brano:"Isla de Capri", inter:"Osvaldo Fresedo"})
+b.push({url:"Osvaldo Fresedo/Osvaldo Fresedo - Si no me engana el corazon.mp3", brano:"Si no me engaña el corazón", inter:"Osvaldo Fresedo"})
+
+
+// Francisco Canaro
+b.push({url:"xt/tt/TANGO-TUNES_02_2023/CANARO/Alma del bandoneon 8029_RP.mp3",brano:"Alma de bandoneon", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Francisco Canaro - El Adios (R. Maidá).mp3",brano:"El adiós", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Tango/Francisco Canaro - 40er/Francisco Canaro - Esta noche de luna.mp3",brano:"Esta noche de luna", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Vals/Canaro 30er/Quisiera amarte menos.mp3",brano:"Quisiera amarte menos", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Tango/Francisco Canaro - 20er/Charlo/Zaraza (Charlo).mp3",brano:"Zaraza", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Francisco Canaro - Sombras, nada más.mp3",brano:"Sombras, nada más", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Francisco Canaro - Yo no se que me han hecho tus ojos.mp3",brano:"Yo no se que me han hecho tus ojos", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Tango/Francisco Canaro - 40er/Francisco Canaro - En esta tarde gris.mp3",brano:"En esta tarde gris", inter:"Francisco Canaro"})
+b.push({url:"Francisco Canaro/Tango/Francisco Canaro - 50er/Alonso/Bandoneon arrabalero (Mario Alonso).mp3",brano:"Bandoneon arrabalero", inter:"Francisco Canaro"})
+
+
+
+
+
+// Rafael Canaro
+b.push({url:"Rafael Canaro/Rafael Canaro - Alma De Bandoneón (Mario Beltran).mp3",brano:"Alma de bandoneon", inter:"Rafael Canaro"})
+b.push({url:"Rafael Canaro/Rafael Canaro - Paciencia (Luis Scalon).mp3",brano:"Paciencia", inter:"Rafael Canaro"})
+
+
+
+// Edgardo Donato
+b.push({url:"XT/TT/Tango Tunes_06_02_2023/A000898-DONATO-AIFEl adios 12160_TT.mp3",brano:"El adiós", inter:"Edgardo Donato"})
+b.push({url:"Edgardo Donato/donato (alessio luppo) - el dia que me quieras.mp3",brano:"El dia que me quieras", inter:"Edgardo Donato"})
+
+
+// Francisco Lomuto
+it="Francisco Lomuto"
+b.push({url:'Francisco Lomuto/Francisco Lomuto - Charlo - Alma En Pena - 1928.mp3', brano:'Alma en pena', inter:it})
+b.push({url:'Francisco Lomuto/Francisco Lomuto - Vendras alguna vez 12442_RP.mp3', brano:'Vendras alguna vez', inter:it})
+b.push({url:'Francisco Lomuto/Madreselva 12441_RP.mp3', brano:'Madreselva', inter:it})
+b.push({url:'Francisco Lomuto/Francisco Lomuto - Soy un Arlequin (Charlo).mp3', brano:'Soy un Arlequin', inter:it})
+
+
+// Ricardo Tanturi
+it="Ricardo Tanturi"
+b.push({url:'Ricardo Tanturi/Vals/Ricardo Tanturi - Tu vieja ventana (Campos Videla).mp3', brano:'Tu vieja ventana', inter:it})
+b.push({url:'Ricardo Tanturi/Tanturi - Alma en pena-Roberto Videla.mp3', brano:'Alma en pena', inter:it})
+
+
+// Enrique Rodriguez
+it="Enrique Rodriguez"
+
+b.push({url:'Enrique Rodriguez/Enrique Rodriguez - Vendras Alguna Vez (Roberto Flores).mp3', brano:'Vendras alguna vez', inter:it})
+b.push({url:'Enrique Rodriguez/Enrique Rodriguez - Alma En Pena (Fernando Reyes).mp3', brano:'Alma en pena', inter:it})
+b.push({url:'Enrique Rodriguez/Si no me engaña el corazon-Roberto Flores.mp3', brano:'Si no me engaña el corazón', inter:it})
+b.push({url:'Bandoneon arrabalero/Enrique Rodriquez - Bandoneon arrabalero.mp3', brano:'Bandoneon arrabalero', inter:it})
+
+
+// Juan d'Arienzo
+ 
+it="Juan d'Arienzo"
+//b.push({url:"Juan d'Arienzo/Juan D'Arienzo y Libertad Lamarque - Y todavía te quiero.mp3", brano:'Y todavia te quiero', inter:it})
+b.push({url:"Juan d'Arienzo/Juan D´Arienzo y Libertad Lamarque - Y todavía te quiero.mp3", brano:'Y todavia te quiero', inter:it})
+
+
+
+b.push({url:"Juan d'Arienzo/Tango/Juan D' Arienzo - 40er/Juan d'Arienzo - Paciencia (A. Echague).mp3", brano:'Paciencia', inter:it})
+// b.push({url:"Juan d'Arienzo/Tango/Juan d´Arienzo - Paciencia (Enrique Carbel).mp3", brano:'Paciencia', inter:it})
+b.push({url:"Juan d'Arienzo/Cantemos corazon-Armando Laborde(23-08-1956).mp3", brano:'Cantemos corazón', inter:it})
+
+
+
+
+
+
+
+
+// Carlos di Sarli
+b.push({url:'Carlos di Sarli/Carlos Di Sarli - Roberto Rufino - Esta Noche De Luna - 1943.mp3', brano:'Esta noche de luna', inter:"Carlos di Sarli"})
+b.push({url:'Carlos di Sarli/Carlos di Sarli - Y todavia te quiero.mp3', brano:'Y todavia te quiero', inter:"Carlos di Sarli"})
+
+b.push({url:'Carlos di Sarli/1928-31/Carlos di Sarli - Soy un arlequin-Instrumental.mp3', brano:'Soy un Arlequin', inter:"Carlos di Sarli"})
+
+
+// Libertad Lamarques
+it="Libertad Lamarque"
+b.push({url:'Libertad Lamarque/Libertad Lamarque - En esta tarde gris.mp3', brano:'En esta tarde gris', inter:it})
+b.push({url:'Libertad Lamarque/Libertad Lamarque - Cantemos Corazón.mp3', brano:'Cantemos corazón', inter:it})
+b.push({url:'Libertad Lamarque/Libertad Lamarque - Sombras nada mas.mp3', brano:'Sombras, nada más', inter:it})
+b.push({url:'Libertad Lamarque/Libertad Lamarque - El Dia Que Me Quieras.mp3', brano:'El dia que me quieras', inter:it})
+
+
+
+
+
+// Angel d'Agostino
+it="Angel d'Agostino"
+b.push({url:"XT/TT/TANGO-TUNES_02_2023/DAGOSTINO/Madreselva 79967-1_RP.m4a", brano:"Madreselva", inter:it})
+
+
+
+
+
+// Rodolfo Biagi
+it = "Rodolfo Biagi"
+b.push({url:'Rodolfo Biagi/Rodolfo Biagi - zaraza.mp3', brano:'Zaraza', inter:"Rodolfo Biagi"})
+b.push({url:'XT/TT/TANGO-TUNES_02_2023/BIAGI/Yuyo verde 14414_TT.mp3', brano:'Yuyo verde', inter:"Rodolfo Biagi"})
+b.push({url:'Rodolfo Biagi/Vals/Rodolfo Biagi - adoración (Carlos Heredia).mp3', brano:'Adoración', inter:"Rodolfo Biagi"})
+
+
+
+
+
+
+// Anibal Troilo
+b.push({url:'XT/TT/Tango Tunes_27_09_2019/Siga el corso.mp3', brano:'Siga el corso', inter:"Anibal Troilo"})
+b.push({url:'Anibal Troilo/Anibal Troilo - Yuyo Verde (Floreal Ruiz).mp3', brano:'Yuyo verde', inter:"Anibal Troilo"})
+b.push({url:'Anibal Troilo/Anibal Troilo - Sombras Nada Más (Alberto Marino).mp3', brano:'Sombras, nada más', inter:"Anibal Troilo"})
+
+b.push({url:'XT/TT/Tango Tunes_27_09_2019/En esta tarde gris.mp3', brano:'En esta tarde gris', inter:"Anibal Troilo"})
+b.push({url:'Anibal Troilo/Anibal Troilo - Bandoneón Arrabalero (Roberto Goyeneche).mp3', brano:'Bandoneon arrabalero', inter:"Anibal Troilo"})
+
+
+
+
+
+
+// Osvaldo Pugliese
+b.push({url:"Osvaldo Pugliese/Osvaldo Pugliese - El Adiós.mp3",brano:"El adiós", inter:"Osvaldo Pugliese"})
+b.push({url:"Osvaldo Pugliese/Osvaldo Pugliese - Y Todavia Te Quiero.mp3",brano:"Y todavia te quiero", inter:"Osvaldo Pugliese"})
+b.push({url:"Osvaldo Pugliese/Osvaldo Pugliese - Esta Noche de Luna.mp3",brano:"Esta noche de luna", inter:"Osvaldo Pugliese"})
+
+b.push({url:"Osvaldo Pugliese/Osvaldo Pugliese Osvaldo Pugliese - Instrumental - El Día Que Me Quieras.mp3",brano:"El dia que me quieras", inter:"Osvaldo Pugliese"})
+b.push({url:"Osvaldo Pugliese/Osvaldo Pugliese - Yuyo verde.mp3",brano:"Yuyo verde", inter:"Osvaldo Pugliese"})
+b.push({url:"Osvaldo Pugliese/total/316-Bandoneon Arrabalero-Instrumental.mp3",brano:"Bandoneon arrabalero", inter:"Osvaldo Pugliese"})
+
+
+
+
+// Alfredo de Angelis
+b.push({url:"Alfredo de Angelis/Alfredo de Angelis - Sombras nada mas.mp3",brano:"Sombras, nada más", inter:"Alfredo de Angelis"})
+
+b.push({url:"Alfredo de Angelis/vals/Alfredo de Angelis - Sonar y Nada Mas (Carlos Dante y Julio Martel).mp3",brano:"Soñar y nada más", inter:"Alfredo de Angelis"})
+b.push({url:"Alfredo de Angelis/ALFREDO DE ANGELIS - SI NO ME ENGANA EL CORAZON - CARLOS DANTE.mp3",brano:"Si no me engaña el corazón", inter:"Alfredo de Angelis"})
+b.push({url:"Alfredo de Angelis/Oscar Larroca - Y todavia te quiero.mp3",brano:"Y todavia te quiero", inter:"Alfredo de Angelis"})
+b.push({url:"Alfredo de Angelis/Alfredo de Angelis - Soy un arlequin (Carlos Dante).mp3",brano:"Soy un Arlequin", inter:"Alfredo de Angelis"})
+
+
+
+// Tino Rossi
+it="Tino Rossi"
+b.push({url:"Italia/Tino Rossi/Tino Rossi - C'est À Capri - 1934.mp3",brano:"Isla de Capri", inter:it})
+b.push({url:"Italia/Tino Rossi/Tino Rossi - Catari Catari.mp3",brano:"Catari, Catari", inter:it})
+b.push({url:"Italia/Tino Rossi/Tino Rossi - Mona Lisa.mp3",brano:"Mona Lisa", inter:it})
+
+
+// Hugo Diaz
+it="Hugo Diaz"
+b.push({url:"Hugo Diaz/Hugo Diaz - El adiós - NF.mp3",brano:"El adiós", inter:it})
+b.push({url:"Hugo Diaz/hugo diaz - alma en pena.mp3", brano:"Alma en pena", inter:it})
+b.push({url:"Hugo Diaz/Hugo Diaz - Siga el corso.mp3", brano:"Siga el corso", inter:it})
+b.push({url:"Hugo Diaz/Hugo Diaz - El dia que me quieras.mp3", brano:"El dia que me quieras", inter:it})
+
+// Adriana Varela
+it="Adriana Varela"
+
+b.push({url:"adriana varela - tango en vivo/adriana varela - siga el corso.mp3", brano:"Siga el corso", inter:it})
+b.push({url:"adriana varela - tango en vivo/adriana varela - yuyo verde.mp3", brano:"Yuyo verde", inter:it})
+
+
+
+// Chavela Vargas
+it="Chavela Vargas"
+b.push({url:"Chavela Vargas/Chavela Vargas - Quisiera amarte menos.mp3",brano:"Quisiera amarte menos", inter:it})
+
+
+// Julio Jaramillo
+it="Julio Jaramillo"
+b.push({url:"Julio Jaramillo/Julio Jaramillo - Quisiera amarte menos.mp3",brano:"Quisiera amarte menos", inter:it})
+b.push({url:"Julio Jaramillo/Julio Jaramillo - Yo No Se Que Me Han Hecho Tus Ojos.mp3",brano:"Yo no se que me han hecho tus ojos", inter:it})
+
+// Los Cantores de Alba
+it="Los Cantores de Alba"
+b.push({url:"Los cantores de alba/Los Cantores de alba - Adoración.mp3",brano:"Adoración", inter:it})
+b.push({url:"Los cantores de alba/Los Cantores de Alba - Mis Delirios.mp3",brano:"Mis delirios", inter:it})
+b.push({url:"Los cantores de alba/Los Cantores de Alba - Yo No Sé Que Me Han Hecho Tus Ojos.mp3",brano:"Yo no se que me han hecho tus ojos", inter:it})
+
+
+
+// Martirio
+it="Martirio"
+b.push({url:"Martirio/Martirio - Quisiera amarte menos.mp3",brano:"Quisiera amarte menos", inter:it})
+b.push({url:"Martirio/Martirio - en esta tarde gris.mp3",brano:"En esta tarde gris", inter:it})
+
+// Pitingo
+it="Pitingo"
+b.push({url:"nata/quisiera amarte menos/Pitingo - Quisiera Amarte Menos.mp3",brano:"Quisiera amarte menos", inter:it})
+
+
+
+
+
+for (i in b)
+{	//console.log(i)
+	if (inter.includes(b[i].inter ))
+	{} 
+	else
+	{	inter.push(b[i].inter)
+	}
+
+	if (brano.includes(b[i].brano))
+	{}
+	else
+	{	brano.push(b[i].brano)
+		console.log ("=",i,b[i].brano)
+	}
+}
+
+brano.sort()
+
+
+
+function oload()
+{
+	th=document.getElementById("ta")
+
+	ar=document.createElement("TR")
+	ac=document.createElement("TD")
+
+	im=Math.floor(6*Math.random())
+	ac.innerHTML="<center><img src='logos/maça"+im+".png' title="+im+" width=40><br>"
+	ac.style="align:center"
+	switch (im)
+	{
+	case 0: case 3:
+		ac.innerHTML=ac.innerHTML+"(pine) <b>apple</b>"
+		break;
+	case 1:
+		ac.innerHTML=ac.innerHTML+"maçã (starking)"
+		break;
+	case 2:
+		ac.innerHTML=ac.innerHTML+"maçã (reineta)"
+		break;
+	case 4:
+		ac.innerHTML=ac.innerHTML+"maçã"
+		break;
+	case 5:
+		ac.innerHTML=ac.innerHTML+"(custard) <b>apple</b>"
+		break;
+	}
+
+
+	ar.appendChild(ac)
+
+	for (i in inter)
+	{	console.log(inter[i])
+		oac=document.createElement("TD")
+		oac.innerHTML='<img src="logos/'+inter[i]+'.png" title="'+inter[i]+'" width="50px">'
+		ar.appendChild(oac)
+
+	}
+	th.appendChild(ar)
+
+
+	for (j in brano)
+	{
+		ar=document.createElement("TR")
+		ac=document.createElement("TD")
+		ac.innerHTML=brano[j]
+		ar.appendChild(ac)
+
+		for (t in inter)
+		{	ac=document.createElement("TD")
+			ac.innerHTML="<center>-"
+			for (k in b)
+			{	if (b[k].brano==brano[j] && b[k].inter==inter[t])
+				{
+				//	ac.innerHTML='<center><button id="'+('b'+k)+'" onclick="aplay2(this)", value="'+encodeURIComponent(b[k].url)+'"> > </button>'
+					ac.innerHTML='<center><button id="'+('b'+k)+'" onclick="aplay2(this)", value="'+b[k].url+'"> > </button>'
+				}
+			}
+			ar.appendChild(ac)
+		}
+		
+
+		
+		th.appendChild(ar)
+	}
+
+
+
+}
+
+
+
+var	ph
+
+
+function aplay(url)
+{	console.log(url)	
+	ph.src=url
+	//ph.source=url
+	//	ph.play()
+	setTimeout(function(){ph.play()}, 8000)
+}
+
+delay=0
+
+function aplay2(th)
+{	//console.log("8",th.innerText)	
+	if ((!ph.paused) && th.innerText=="||")
+	{	ph.pause()
+		th.innerText=">"
+	}
+	else
+	{
+
+
+	ph.pause()
+
+	for (g in b)
+	{	//console.log("g:", g, b[g])
+		document.getElementById("b"+g).innerText=" > "
+		if (th.id == "b"+g)
+		{
+			th.innerText=" || "
+		}
+	}
+
+	document.getElementById("mp3url").value=th.value
+
+	ph.src=th.value
+	// alert (th.value)
+	setTimeout(function(){ph.play()}, delay)
+	}
+}
+
+
+</script>
+</head>
+<body style='font-family: roboto;' onload='oload()'>
+	<center>
+
+<table border=1 id=ta cellspacing="0">
+</table>
+ 
+
+
+	<table border=1 cellspacing="0" style='width:100%'>
+	<tr><td colspan=2 align=center>
+			<audio id="player" preload="auto" tabindex="0" controls="volume;face;equalizer;" type="audio/mpeg" style="width:100%;">
+        <source type="audio/mp3" src="">
+        Sorry, your browser does not support HTML5 audio.
+    </audio>
+    <input type=text id=mp3url style='width:99%;'>
+
+</table>
+</center>
+<script>
+	ph=document.getElementById("player");
+</script>
+</body>
+</head>

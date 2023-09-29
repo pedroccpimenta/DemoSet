@@ -1,0 +1,402 @@
+﻿<html>
+<head>
+<!--	<script src="http://localhost/Pedro/2021/CMMaia/BaZe/Baze@CMMaia/Highcharts-9.3.2/code/highcharts.js"></script>
+-->
+
+<link rel="shortcut icon" href="./metronome.ico" />
+
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script>
+
+	function bora(x)
+	{		ph.src=x;
+			pingh=x;
+			//alert(x);
+			k=0;
+			dd=[]
+
+			ps=[]
+	   	ss2=[]
+xx=x.split("/")
+totit =xx[xx.length-1] 
+totit=totit.replace(".mp3", "")
+totit=totit.replace("Orquesta Tipica", "OT")
+totit=totit.replace(" - Sem ruído", "")
+totit=totit.replace("(no noise)", "")
+totit=totit.replace(", Instrumental", "")
+
+
+ctitle=totit
+
+gh=setInterval(regt, 40)
+gk1=setInterval(function (){
+	colors = ['lime', '#808080','#101010', 'black', '#050505', '#E80C7A'];
+
+	plota(series, "chart1")
+	//plota(s2, "chart2")
+}, 2100)
+
+ss2=[]
+ps=[]
+dt=[]
+dd=[]
+gk2=0
+
+
+gk2=setInterval(function (){
+	//plota(series, "chart1")
+	colors = ['green', '#808080','#101010', 'black', '#050505', '#E80C7A'];
+
+	plota(s2, "chart2")
+
+	mn=Math.min.apply(Math, dt)
+	mx=Math.max.apply(Math, dt)
+		document.getElementById("leg3").innerHTML = "["+k+"] Min:"+mn+", Max:"+mx
+
+	if(mn!=mx)
+	{
+			mn2=mn-.2*(mx-mn)
+			mx2=mx+.2*(mx-mn)	
+	}
+		document.getElementById("leg3").innerHTML += " Lm:"+mn2+", LM:"+mx2 
+
+		nk=7
+		dl=(mx2-mn2)/nk;
+		document.getElementById("leg3").innerHTML += " &delta;: "+dl.toFixed(1) + " &epsilon;"+ (mx/mn).toFixed(1)
+
+		for (i in dd) dd[i]=0
+		for (i in dt)
+		{	//	console.log(i)
+				idx=Math.floor( (dt[i]-mn2)/dl )
+				if (isNaN(idx))
+				{}
+				else
+				{
+				//		console.log("idx:",idx)
+						if (typeof(dd[idx])=="undefined")
+						{ dd[idx]=0 }
+
+						dd[idx]=dd[idx]+1;
+				}
+		}	
+
+
+		for (i=0;i<dd.length;i++){
+		//	console.log(i)
+		 if (typeof(dd[i])=="undefined") dd[i]=0;
+		 }
+		if (typeof(dd[nk]=="undefined")) dd[nk]=0
+		//if (typeof(dd[10]=="undefined")) dd[10]=0
+ 		z2=[{name:"&Delta;s", data:dd}]
+		plota2(z2,"chart3")
+
+}, 2200)
+
+
+setTimeout(function(){ph.play()}, 2000)
+
+	}
+
+
+</script>
+</head>
+<body style='font-family: lato;'>
+
+
+<table style="width:100%" border=0>
+		<tr><td colspan=2>
+   <select id=zelp onchange="bora(this.value)">
+   	<option value='./mp3/Canto (Ernesto Famá).mp3'>Seleccione um tema</option>
+   	<option value='./mp3/Francisco Canaro - Poema (Maida).mp3'>Canaro Poema</option>
+   	<option value='./mp3/Francisco Canaro - Farolito de papel.mp3'>Canaro Farolito de Papel</option>
+   	<option value="./mp3/Sexteto Rayero - Al Estilo del '30 - Poema.mp3">Sexteto Reyero - Poema</option>
+   	
+    <option value="./mp3/TIpica Victor - Que Ranada, Instrumental (1928)(no noise).mp3">OTV - que ranada</option>
+    <option value='./mp3/Orquesta Tipica Juan Maglio - Alma en pena (José Gallarza).mp3'>Pacho - Alma en pena</option>
+    <option value='./mp3/Rodolfo Biagi - El Clavelito (Hugo Duval).mp3'>El Clavelito</option>
+    <option value='./mp3/OTV - Abrojalera.mp3'>Abrojalera</option>
+
+
+<!--   	<option value="./mp3/Rodolfo Biagi - Viejo Porton.mp3">R Biagi - Viejo portón</option>
+
+   	<option value='./mp3/Francisco Canaro - Ojos verdes (Francisco Amor) - Sem ruído.mp3'>Canaro - Ojos verdes</option>
+-->
+   	<option value='./mp3/Carlos Di Sarli - Tú... El Cielo Y Tú (Podestá).mp3'>Podestá - El cielo y tu</option>
+   	<option value='./mp3/Pedro Laurenz - Paisaje (Alberto Podesta).mp3'>Laurenz / Podestá - Paisaje</option>
+
+   	<option value='./mp3/Carlos di Sarli - Cantemos corazon.mp3'>di Sarli / Florio - Cantemos corazon</option>
+
+   	<option value='./mp3/Libertad Lamarque - Cantemos Corazón.mp3'>Libertad Lmarque - Cantemos Corazon</option>
+   	<option value="./mp3/482-Cantemos corazon-Armando Laborde(23-08-1956).mp3">Armando Laborde - Cantemos Corazon</option>
+
+   	
+   	<option value='./mp3/Canto (Ernesto Famá).mp3'>Canto - Canaro e Famá</option>
+   	<option value='./mp3/rodolfo biagi - 166 - en el lago azul - hugo duval -idem 1959.mp3'>En el lago azul</option>
+   	<option value='./mp3/Francisco Lomuto - Soy un Arlequin (Charlo).mp3'>Soy un Arlequin</option>
+   	<option value='./mp3/Carlos Di Sarli - Nueve Puntos.mp3'>Nueve Puntos</option>
+   	<option value='./mp3/Lucio Demare - Mañana zarpa un barco.mp3'>Mañana zarpa un barco
+   	<option value='./mp3/António Mafra - Sete e pico.mp3'>António Mafra - Sete e pico
+   	</option>
+    <option value='./mp3/Agustín Magaldi - Ilusión azul.mp3'>Agustín Magaldi - Ilusión azul</option>
+    <option value='./mp3/Anibal Troilo - Cachirulo.mp3'>Anibal Troilo - Cachirulo</option>
+
+   </select>
+
+		<td>
+ 	<audio id="audio2" preload="auto" tabindex="0" controls="true" type="audio/mpeg" style="width:100%;height: 30px;border-radius: 8px;">
+        <source type="audio/mp3" src="">
+        Sorry, your browser does not support HTML5 audio.
+    </audio>
+    <div style='width:100%;' id=ping></div>
+
+		<tr><td style='min-width:100px;' rowspan=2 align=center>
+				<!-- <input type="button" onclick='klearInt()' value="Stop"> -->
+				<div id=kes style='display:none;max-width: 98px;min-height: 300px;border: solid 1px green;'></div>
+
+				<div id=detes style='max-width: 100px;'></div>
+		<td colspan=2>
+<div id=chart1 style='width:%;border:1px dotted lime;min-height:250px;' align=center> ... ready</div>
+
+<tr><td style='width:50%;border:1px dotted lime;' valign="top">
+<div id=chart2 style='width:99%;min-height:350px;' align=center> ... ready</div>
+<td valign=top style='border:1px dotted lime'><div id=chart3 style='width:99%;min-height:300px;' align=center> ... ready</div><center><br>
+<div id=leg3></div>
+</table>
+<a href='../../milongadj20/audicomp/audicomp.htm' target='*'>audicomp</a>
+
+
+
+<script type="text/javascript">
+k=0
+ss2=[]
+dt=[]
+document.onkeyup = function(e) {
+  //console.log(e.code)
+  if ((e.code == "KeyX")) 
+  { klearInt()
+		// 	document.getElementById('detes').innerHTML=JSON.stringify(dt)
+		document.getElementById("kes").innerHTML= 	JSON.stringify(dt)
+	}
+
+  if ((e.code == "Space")||(e.code == "KeyZ")||(e.code == "KeyK") || (e.code == "KeyJ")||(((e.code == "KeyP")))&&(e.altKey)) 
+  {
+	  tf=new Date();
+	  ps.push([tf, 1])
+	  pf.push(tf)
+
+	//	document.getElementById("kes").innerHTML= 	k + ": mn:"+mn+", mx:"+mx+ ":"+(mx/mn).toFixed(1)
+
+		if (k>3)
+		{	  dt.push(pf[k-1]-pf[k-2])	
+				ss2.push([pf[k-1]-pf[k-2], pf[k]-pf[k-1]])	
+				s2=[{name:"&Delta;", data:ss2, marker:{symbol:"circle"}, lineWidth: 1}] 
+		}
+
+		k++
+	}
+}
+
+
+ps=[]
+series=[]
+s2=[]
+pf=[]
+dt=[]
+//pf1=[]
+//pf2=[]
+z2=[]
+function regt()
+{	 // console.log("--")
+	        tf=new Date();
+	        ps.push([tf, 0])
+ 					series=[{name:"Tempo", data:ps, marker:{symbol:"circle"} /*, format:{value:%HH-%MM-%SS}*/}]
+}
+
+function klearInt()
+{
+	clearInterval(gk1)
+	clearInterval(gh)
+	clearInterval(gk2)
+
+}
+
+/*
+gh=setInterval(regt, 40) */
+colors = ['lime', '#808080','#101010', 'black', '#050505', '#E80C7A'];
+ytitle=""
+ctitle="Título"
+cates=""
+legenda={}
+
+
+dd=[]
+dl=0
+mn2=0
+mx2=0
+function plota(series, ph)
+{   
+
+
+if (phh.paused &&  (dt.length >70))
+{  
+    //alert("STOP")
+    console.log('calling klearInt()')
+    klearInt()
+}
+
+
+//console.log("XART:",ph);
+	konector=true
+
+switch(ph)
+{
+case "chart2":
+    ch=document.getElementById(ph)
+    ch.style.height=(innerHeight/4).toFixed(0)
+    konector=false
+    //cates=null
+    //typex=null
+    if (typeof(s2[0])=="undefined")
+    	{return}
+   typex="datetime"
+case "chart1":
+    ch=document.getElementById(ph)
+    ch.style.height=(innerHeight/4).toFixed(0)
+    konector=false
+    typex="datetime"
+
+
+}    
+
+ Highcharts.chart(ph, {
+        style:{
+            "font-family":"Lato",
+            "fontfamily":"Lato"}  ,
+        colors: colors,
+        title: {
+            text: ctitle
+        },
+
+    /*    subtitle: {
+            text: 'Source: thesolarfoundation.com'
+        }, */
+
+        yAxis: {
+            title: {
+                text: ytitle
+            }
+           , min:null
+           //  max:250
+        },
+
+        xAxis: {
+ //           categories:cates,
+            /*accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+            }*/
+            type:typex
+        },
+
+    //    legend: legenda,
+
+        plotOptions: {
+            series: {
+                label: {
+                    connectorAllowed: konector
+                }
+                //, pointStart: 2018
+            }
+        },
+
+        series: series,
+
+        responsive: {
+            rules: [{
+                condition: {
+                    maxWidth: 500
+                }/*,
+                chartOptions: {
+                    legend: {
+                        layout: 'horizontal',
+                        align: 'center',
+                        verticalAlign: 'bottom'
+                    }
+                }*/
+            }]
+        }  
+    });
+}
+
+function plota2(series, ph)
+{   
+colors = ['orange', '#808080','#101010', 'black', '#050505', '#E80C7A'];
+
+//console.log("XART:",ph);
+
+
+ Highcharts.chart(ph, {
+        style:{
+            "font-family":"Lato",
+            "fontfamily":"Lato"}  ,
+        colors: colors,
+        title: {
+            text: ctitle
+        },
+
+    /*    subtitle: {
+            text: 'Source: thesolarfoundation.com'
+        }, */
+
+        yAxis: {
+            title: {
+                text: ytitle
+            }
+           , min:null
+           //  max:250
+        },
+
+       /* xAxis: {
+            categories:cates
+            /*accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+            }*/
+         //   type:'datetime'
+       // }, */
+
+        legend: legenda,
+
+        plotOptions: {
+            column: {
+                }
+                //, pointStart: 2018
+            
+        },
+
+        series: series,
+
+        responsive: {
+            rules: [{
+                condition: {
+                    maxWidth: 500
+                }/*,
+                chartOptions: {
+                    legend: {
+                        layout: 'horizontal',
+                        align: 'center',
+                        verticalAlign: 'bottom'
+                    }
+                }*/
+            }]
+        }  
+    });
+}
+
+    ph=document.getElementById("audio2")
+	phh=document.getElementById("audio2")
+	pingh=document.getElementById("ping")
+
+</script>
+
+</body>
+</html>
