@@ -1,0 +1,46 @@
+<html>
+<body>
+
+<h2>Consola de filtragem/eliminação de duplicados/Pré-audição/Meta-tandas</h2>
+
+(Combina everything + mp3 tag editor + inovação de mp3 tag merger + file mover/deleter)
+
+<table border=1>
+<TR><TD COLSPAN=5><TD COLSPAN=6>mp3 tag editor
+<tr><td>
+<td>Caminho<td>	File<Td>Size<td>Date<br>Modified<td>Artist<td>Cantor<td>Ano<td>Género<td>Lyrics<TD>Comentário (?)<td>Comentários
+<tr><td rowspan=2>
+<input type=checkbox> \pasta1
+	<td id='p1'  onclick='selekthis(this)'>(local)<td id='f1'  onclick='selekthis(this)'>Maestro - cara sucia
+		<td>3500<td><td  id='m1'  onclick='selekthis(this)'>Maestro<td>
+		<td><input type=text style='margin-bottom:0px;'  id='c1'  onclick='selekthis(this)' value='cantor'> 
+		<td><td><td><td>[David] blá blá blá<textarea>jk jdlkjd lkgj ldjg lkdjlkg jlkjdlglkdjglkjdg</textarea>
+		<td><input type=button value=Importa><input type=button value=Exporta>
+  <tr><td id='p2'  onclick='selekthis(this)'>Disco1\<td id='f2' onclick='selekthis(this)'>Maestro - cara sucia 1952<td>5678<td><td  id='m2'  onclick='selekthis(this)'>-----<td><td><input type=text style='margin-bottom:0px;'  id='c1'  onclick='selekthis(this)' value='Cantor'>
+		<td><td><td><td>[David] blá blá blá<textarea>jk jdlkjd lkgj ldjg lkdjlkg jlkjdlglkdjglkjdg</textarea>
+		<td><input type=button value=Importa><input type=button value=Exporta>
+<tr><td>
+<input type=checkbox> \pasta2
+</table>
+
+<script>
+function selekthis(x){
+console.log(x.id)
+cat=x.id.substr(0,1)
+console.log(cat)
+questo=x.id.substr(1,x.id.lenght)*1.
+for(i=1;i<=2;i++)
+{	console.log(i,questo)
+	if(questo==i)
+	{	x.style.background='limegreen'
+	}
+	else
+	{	document.getElementById(cat+i).style.background='white'
+	}
+}
+
+}
+</script>
+
+</body>
+</html>
