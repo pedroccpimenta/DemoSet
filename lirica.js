@@ -1,4 +1,842 @@
-var lirica=[]
+﻿var lirica=[]
+
+
+lirica.push({"faixa":"Oh Darling","lirica":"Oh Darling"})
+lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
+lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
+lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
+lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
+lirica.push({"faixa":"Mocosita","lirica":"Mocosita"}) 
+lirica.push({"faixa":"Paisaje","lirica":"Paisaje"})
+lirica.push({"faixa":"Mendocina","lirica":"Mendocina"})
+lirica.push({"faixa":"Jugando jugando","lirica":"Jugando jugando"})
+lirica.push({"faixa":"Buscandote","lirica":"Buscandote"})
+lirica.push({"faixa":"Sangre de mi sangre","lirica":"Sangre de mi sangre"})
+lirica.push({"faixa":"Valsinha","lirica":"Valsinha"})
+lirica.push({"faixa":"Valsecito de antes","lirica":"Valsecito de antes"})
+lirica.push({"faixa":"Una lagrima","lirica":"Una lagrima"})
+lirica.push({"faixa":"Valsecito criollo","lirica":"Valsecito criollo"})
+lirica.push({"faixa":"Sueño florido","lirica":"Sueño florido (INST)"})
+lirica.push({"faixa":"Aroma de amor","lirica":"Aroma de amor"})
+lirica.push({"faixa":"Serenata campera","lirica":"Serenata campera"})
+lirica.push({"faixa":"Loca de amor","lirica":"Loca de amor"})
+lirica.push({"faixa":"El ultimo adios","lirica":"El ultimo adios"})
+lirica.push({"faixa":"Pedacito de cielo","lirica":"Pedacito de cielo"})
+lirica.push({"faixa":"Maragata","lirica":"Maragata"})
+lirica.push({"faixa":"Tabernero","lirica":"Tabernero"})
+lirica.push({"faixa":"Esta noche me emborracho","lirica":"Esta noche me emborracho"})
+lirica.push({"faixa":"Bajo el cono azul","lirica":"Bajo el cono azul"})
+lirica.push({"faixa":"Quien tiene tu amor","lirica":"Quien tiene tu amor"})
+lirica.push({"faixa":"Dímelo ao oído","lirica":"Dímelo ao oído"})
+lirica.push({"faixa":"Yo naci para quererte","lirica":"Yo naci para quererte"})
+lirica.push({"faixa":"Mi cotorrito boemio","lirica":"Mi cotorrito boemio"})
+lirica.push({"faixa":"Las quarenta","lirica":"Las quarenta"})
+lirica.push({"faixa":"No quiero verte llorar","lirica":"No quiero verte llorar"})
+lirica.push({"faixa":"Nunca tuvo novio","lirica":"Nunca tuvo novio"})
+lirica.push({"faixa":"De puro guapo","lirica":"De puro guapo"})
+lirica.push({"faixa":"Tigre viejo","lirica":"-----"})
+
+
+ 
+lirica.push({"faixa":"Soñar y nada más","lirica":"No despiertes si sueñas amores<br>\
+Niña hermosa, que amar es soñar,<br>\
+Despertar es quebrar ilusiones<br>\
+Y hallar entre sombras, la amarga verdad.<br>\
+No despiertes si vives soñando<br>\
+Y en tu mente hay torrentes de sol,<br>\
+Si en tus sueños se encienden suspiros<br>\
+Que te cercan y acallan tu voz...<br>\
+ <br>\
+Soñar y nada más<br>\
+Con mundos de ilusión,<br>\
+Soñar y nada más<br>\
+Con un querer arrobador...<br>\
+Soñar que tuyo es él<br>\
+Y vive para ti,<br>\
+Soñar siempre soñar<br>\
+Que dicen que en amor<br>\
+Es triste despertar.<br>\
+Soñar y nada más<br>\
+Con noches de quietud,<br>\
+Que misteriosas van<br>\
+Cantando amor y beatitud,<br>\
+Volar a las estrellas<br>\
+De divinos resplandores<br>\
+Y en esa eternidad<br>\
+Vivir siempre un ideal...<br>\
+¡Soñar y nada más...!<br>\
+ <br>\
+No despiertes si sueñas quereres<br>\
+Que sin duda soñar es vivir,<br>\
+Mientras tu alma vislumbre ternuras<br>\
+Verás niña hermosa, que el mundo es feliz.<br>\
+Despertar es matar esperanzas<br>\
+Y enfrentar a la cruel realidad,<br>\
+Es por eso que quiero que sueñes<br>\
+Que soñando jamás llorarás.<br>\
+ <br>\
+Letra : Ivo Pelay  (Guillermo Juan Robustiano Pichot)<br>\
+Música : Francisco Canaro  (Francisco Canarozzo)"})
+
+
+lirica.push({"faixa":"Hasta siempre amor","lirica":"Hasta siempre amor<br>\
+Pasarás de otro brazo,<br>\
+Y dolerá el fracaso<br>\
+Igual que hoy.<br>\
+Hasta siempre amor<br>\
+Corazón como el mío,<br>\
+Que compartió tu hastío<br>\
+No encontrarás.<br>\
+Y entre la gente buscarás<br>\
+La mano amiga que te di,<br>\
+Y sólo así comprenderás<br>\
+Que por quererte te perdí.<br>\
+Hasta siempre amor<br>\
+Pasarás de otro brazo<br>\
+Y dolerá el fracaso...<br>\
+Igual, igual que hoy...!<br>\
+ <br>\
+Hasta siempre amor<br>\
+Hoy me sangra el recuerdo,<br>\
+Como una espina nueva<br>\
+Del corazón.<br>\
+Hasta siempre amor<br>\
+Cuando sueñes conmigo,<br>\
+En las noches de frío<br>\
+Ya no estaré.<br>\
+Y no me llames, si me ves<br>\
+A mí también con otro amor...<br>\
+Porque es inútil esperar<br>\
+Si la esperanza ya murió!<br>\
+Hasta siempre amor<br>\
+Pasarás de otro brazo<br>\
+Y dolerá el fracaso...<br>\
+Igual, igual que hoy...!<br>\
+ <br>\
+Letra : Federico Silva  (René Federico Silva Iraluz)<br>\
+Música : Donato Racciatti"})
+
+
+lirica.push({"faixa":"Quisiera amarte menos","lirica":"Primavera de mis veinte años<br>\
+Relicario de mi juventud,<br>\
+Un cariño ignorado soñaba<br>\
+¡Y ese sueño ya sé que eres tú!<br>\
+Cuántas veces rogaba al destino<br>\
+Ser esclavo de mi sueño azul,<br>\
+Hoy que sé lo que cuesta un cariño<br>\
+Ya no puedo con mi esclavitud.<br>\
+ <br>\
+Quisiera amarte menos<br>\
+No verte más quisiera,<br>\
+Salvarme de esta hoguera<br>\
+Que no puedo resistir.<br>\
+ <br>\
+No quiero este cariño<br>\
+Que no me da descanso,<br>\
+Pues sufro si te alcanzo<br>\
+Y lejos no sé vivir.<br>\
+ <br>\
+Quisiera amarte menos<br>\
+Porque esta ya no es vida,<br>\
+Mi vida está perdida<br>\
+De tanto quererte.<br>\
+ <br>\
+No sé si necesito<br>\
+Tenerte o perderte,<br>\
+Yo sé que te he querido<br>\
+Más de lo que he podido.<br>\
+ <br>\
+Quisiera amarte menos<br>\
+Buscando el olvido,<br>\
+Y en vez de amarte menos<br>\
+¡Te quiero mucho más...!<br>\
+ <br>\
+Ya lo sé que entre dos que se quieren<br>\
+El cariño distinto ha de ser,<br>\
+Mientras uno da entera su vida<br>\
+Otro sólo se deja querer.<br>\
+Ya lo sé y sin embargo no puedo<br>\
+Conformarme con quererte yo,<br>\
+Tengo miedo que nunca termine<br>\
+Esta dura condena de amor."})
+
+lirica.push({"faixa":"Poema","lirica":"Fue un ensueño de dulce amor,<br>\
+horas de dicha y de querer.<br>\
+Fue el poema de ayer,<br>\
+que yo soñé de dorado color.<br>\
+Vanas quimeras que el corazón<br>\
+no logrará descifrar jamás.<br>\
+¡Nido tan fugaz,<br>\
+fue un sueño de amor,<br>\
+de adoración!...<br>\
+<br>\
+Cuando las flores de tu rosal<br>\
+vuelvan más bellas a florecer,<br>\
+recordarás mi querer<br>\
+y has de saber<br>\
+todo mi intenso mal...<br>\
+<br>\
+De aquel poema embriagador<br>\
+ya nada queda entre los dos.<br>\
+¡Con mi triste adiós<br>\
+sentirás la emoción<br>\
+de mi dolor!..."})
+
+
+lirica.push({"faixa":"Sombras, nada más","lirica":"Quisiera abrir lentamente mis venas<br>\
+Mi sangre toda verterla a tus pies<br>\
+Para poderte demostrar<br>\
+Que más no puedo amar<br>\
+Y, entonces, morir después<br>\
+Y, sin embargo, tus ojos azules<br>\
+Azul que tienen el cielo y el mar<br>\
+Viven cerrados para mí<br>\
+Sin ver que estoy aquí<br>\
+Perdido en mi soledad<br>\
+Sombras nada más<br>\
+Acariciando mis manos<br>\
+Sombras nada más<br>\
+En el temblor de mi voz<br>\
+Pude ser feliz<br>\
+Y estoy en vida muriendo<br>\
+Y entre lágrimas viviendo<br>\
+El pasaje más horrendo<br>\
+De este drama sin final<br>\
+Sombras nada más<br>\
+Entre tu vida y mi vida<br>\
+Sombras nada más<br>\
+Entre tu amor y mi amor<br>\
+Qué breve fue tu presencia en mi hastío<br>\
+Qué tibias fueron tus manos, tu voz<br>\
+Como luciérnaga llegó tu luz<br>\
+Y disipó las sombras de mi rincón<br>\
+Y yo quedé como un duende temblando<br>\
+Sin el azul de tus ojos de mar<br>\
+Que se han cerrado para mí<br>\
+Sin ver que estoy aquí<br>\
+Perdido en mi soledad<br>\
+Sombras nada más<br>\
+Acariciando mis manos<br>\
+Sombras nada más<br>\
+En el temblor de mi voz<br>\
+Pude ser feliz<br>\
+Y estoy en vida muriendo<br>\
+Y entre lágrimas viviendo<br>\
+El pasaje más horrendo<br>\
+De este drama sin final<br>\
+Sombras nada más<br>\
+Entre tu vida y mi vida<br>\
+Sombras nada más<br>\
+Entre tu amor y mi amor"})
+
+
+
+lirica.push({"faixa":"Junto al mar","lirica":"Allá, junto al mar<br>\
+Le di mi corazón,<br>\
+Y entonces me supo amar,<br>\
+Con toda su pasión<br>\
+Que resultó ilusión.<br>\
+Y las olas del mar<br>\
+Con su jurar,<br>\
+Pronto arrastraron las dichas<br>\
+De nuestro gran amor.<br>\
+ <br>\
+Al mirar la inmensidad<br>\
+De este mar que fue traidor,<br>\
+Que sus olas traicioneras<br>\
+Me robaron el amor.<br>\
+Estas olas en que ayer<br>\
+Tan coquetas, vi llegar,<br>\
+Junto a mis pies, silenciosas<br>\
+Hoy se burlan de mi gran pesar.<br>\
+ <br>\
+Aunque fuiste traidor<br>\
+A tu lado yo estoy,<br>\
+Esperando aquel amor,<br>\
+Que nada sin el sol<br>\
+Y agranda mi dolor.<br>\
+Hoy pido con fervor<br>\
+¡Oh!, Mar traidor,<br>\
+Que me devuelvas la dicha<br>\
+De aquel perdido amor.<br>\
+ <br>\
+Letra : Vicente Planells del Campo<br>\
+Música : Lucio Antonio D´Agostino"})
+
+lirica.push({"faixa":"Samaritana","lirica":"Golpeando fuerte,<br>\
+Dejando en su rutina<br>\
+Frío de muerte,<br>\
+Que me asesina<br>\
+Sin compasión.<br>\
+ <br>\
+Mi cantar se ahoga con mi voz<br>\
+Que es una pena,<br>\
+Y nada me consuela<br>\
+De haber perdido,<br>\
+Lo que he querido<br>\
+Con tanto amor.<br>\
+ <br>\
+Letra y música :Luis Rubistein"})
+
+
+
+
+lirica.push({"faixa":"Un placer","lirica":"Linda mariposa<br>\
+Tú eres mi alegría<br>\
+Y tus colores de rosa<br>\
+Te hacen tan hermosa<br>\
+Que en el alma mía<br>\
+Tu imagen quedó.<br>\
+Por eso a tu reja<br>\
+Hoy vengo a cantarte<br>\
+Para decirte mi diosa<br>\
+Que eres muy hermosa<br>\
+Y no puedo olvidarte,<br>\
+Que antes de dejarte<br>\
+Prefiero la muerte<br>\
+Y que sólo con verte<br>\
+Es para mí un placer.<br>\
+ <br>\
+Sin tu amor ya no puedo vivir<br>\
+¡Oh! Ven pronto, no me hagas penar.<br>\
+De tus labios yo quiero sentir<br>\
+El placer que se siente al besar.<br>\
+Y por eso<br>\
+En mi canto te ruego<br>\
+Que apagues el fuego<br>\
+Que hay dentro de mí.<br>\
+ <br>\
+Oye, amada mía<br>\
+Tuyo es mi querer<br>\
+Es tuya hasta el alma mía<br>\
+Todas mis poesías<br>\
+Mis alegres días<br>\
+Hermosa mujer.<br>\
+Sale a tu ventana<br>\
+Hermosa galana<br>\
+Sale mi rosa temprana<br>\
+Que yo quiero hablarte<br>\
+Y quiero robarte<br>\
+Tu querer que es santo<br>\
+Porque te amo tanto<br>\
+Que no puedo más.<br>\
+ <br>\
+Y si el destino<br>\
+De ti me separa, nunca podré ser feliz<br>\
+Y antes prefiero morir.<br>\
+Porque tu cariño<br>\
+Es mi vida entera,<br>\
+Tú has de ser la postrera<br>\
+La dulce compañera, que ayer soñé.<br>\
+ <br>\
+Letra : Andrés V. Alietti  (Juan Andrés Caruso)<br>\
+Música : Vicente Romeo"})
+
+
+
+lirica.push({"faixa":"Lagrimas y flores","lirica":"Como un recuerdo santo<br>\
+Que endulza mi corazón,<br>\
+Conservo aquellas flores<br>\
+Que me hablan de nuestro ayer.<br>\
+Ocultas en un libro, dan<br>\
+Su cálido perfume, fiel,<br>\
+Mientras en mis angustias van<br>\
+Dejando un sello cruel.<br>\
+ <br>\
+Cuando en mi noche triste<br>\
+De tanto pensar en ti,<br>\
+En tanto que mi insomnio<br>\
+Me acosa muy pertinaz.<br>\
+Buscando apaciguar mi mal<br>\
+Con lágrimas ardientes, yo<br>\
+Las beso con ternura leal<br>\
+Transido de dolor.<br>\
+ <br>\
+Letra : Francisco Brancatti<br>\
+Música : Vicente Sipulla"})
+
+
+
+lirica.push({"faixa":"No me toquen ese vals","lirica":"Me estoy acostumbrando a no mirarte<br>\
+Me estoy acostumbrando a estar sin ti<br>\
+Ya no te necesito<br>\
+Tú ya no me haces falta<br>\
+Que bien se esta solito<br>\
+Que bien se vive así<br>\
+Me estoy acostumbrando a no mirarte<br>\
+Me estoy acostumbrando<br>\
+A estar sin ti<br>\
+<br>\
+Que labios maldecidos<br>\
+Porque quieren dañarme<br>\
+Si yo sin ti me muero<br>\
+Mi vida donde estas<br>\
+No me toquen ese vals porque me matan<br>\
+Ella me lo cantaba<br>\
+Como ella nadie más<br>\
+<br>\
+Si paso por Florida te recuerdo<br>\
+Si paso por Lavalle me es igual<br>\
+Que si estoy en Corrientes<br>\
+Que si estoy en Palermo<br>\
+Por todo Buenos Aires<br>\
+Conmigo siempre estas<br>\
+Que voy a acostumbrarme a no mirarte<br>\
+Que voy a acostumbrarme<br>\
+Dios que va<br>\
+<br>\
+Que labios maldecidos<br>\
+Porque quieren dañarme<br>\
+Si yo sin ti me muero<br>\
+Mi vida donde estas<br>\
+No me toquen ese vals porque me matan<br>\
+Ella me lo cantaba<br>\
+Como ella nadie más"})
+
+
+lirica.push({"faixa":"Hymne à l'Amour","lirica":"Le ciel bleu sur nous peut s'effondrer<br>\
+Et la Terre peut bien s'écrouler<br>\
+Peu m'importe si tu m'aimes<br>\
+Je me fous du monde entier<br>\
+Tant qu'l'amour innondera mes matins<br>\
+Tant qu'mon corps frémira sous tes mains<br>\
+Peu m'importe les problèmes<br>\
+Mon amour, puisque tu m'aimes<br>\
+J'irais jusqu'au bout du monde<br>\
+Je me ferais teindre en blonde<br>\
+Si tu me le demandais<br>\
+J'irais décrocher la Lune<br>\
+J'irais voler la fortune<br>\
+Si tu me le demandais<br>\
+Je renierais ma patrie<br>\
+Je renierais mes amis<br>\
+Si tu me le demandais<br>\
+On peut bien rire de moi<br>\
+Je ferais n'importe quoi<br>\
+Si tu me le demandais<br>\
+Si un jour, la vie t'arrache à moi<br>\
+Si tu meurs, que tu sois loin de moi<br>\
+Peu m'importe si tu m'aimes<br>\
+Car moi je mourrais aussi<br>\
+Nous aurons pour nous l'éternité<br>\
+Dans le bleu de toute l'immensité<br>\
+Dans le ciel, plus de problème<br>\
+Mon amour, crois-tu qu'on s'aime?<br>\
+Dieu réunit ceux qui s'aiment"})
+
+lirica.push({"faixa":"What a wonderful world","lirica":"I see trees of green<br>\
+Red roses too<br>\
+I see them bloom<br>\
+For me and you<br>\
+And I think to myself<br>\
+What a wonderful world<br>\
+I see skies of blue<br>\
+And clouds of white<br>\
+The bright blessed day<br>\
+The dark sacred night<br>\
+And I think to myself<br>\
+What a wonderful world<br>\
+The colors of the rainbow<br>\
+So pretty in the sky<br>\
+Are also on the faces<br>\
+Of people going by<br>\
+I see friends shaking hands<br>\
+Saying, \"How do you do?\"<br>\
+They're really saying<br>\
+I love you<br>\
+I hear babies cry<br>\
+I watch them grow<br>\
+They'll learn much more<br>\
+Than I'll ever know<br>\
+And I think to myself<br>\
+What a wonderful world<br>\
+Yes, I think to myself<br>\
+What a wonderful world<br>\
+Ooh, yes"})
+
+lirica.push({"faixa":"Pedra Filosofal","lirica":"Eles não sabem que o sonho<br>\
+É uma constante da vida<br>\
+Tão concreta e definida<br>\
+Como outra coisa qualquer<br>\
+Como esta pedra cinzenta<br>\
+Em que me sento e descanso<br>\
+Como este ribeiro manso<br>\
+Em serenos sobressaltos<br>\
+Como estes pinheiros altos<br>\
+Que em verde e oiro se agitam<br>\
+Como estas aves que gritam<br>\
+Em bebedeiras de azul<br>\
+Eles não sabem que o sonho<br>\
+É vinho, é espuma, é fermento<br>\
+Bichinho a lacre e sedento<br>\
+De focinho pontiagudo<br>\
+No perpétuo movimento<br>\
+Eles não sabem que o sonho<br>\
+É tela, é cor, é pincel<br>\
+Base, fuste ou capitel<br>\
+Arco em ogiva, vitral,<br>\
+Pináculo de catedral,<br>\
+Contraponto, sinfonia,<br>\
+Máscara grega, magia,<br>\
+Que é retorta de alquimista<br>\
+Mapa do mundo distante<br>\
+Rosa dos ventos, infante<br>\
+Caravela quinhentista<br>\
+Que é cabo da boa esperança<br>\
+Ouro, canela, marfim<br>\
+Florete de espadachim<br>\
+Bastidor, passo de dança<br>\
+Columbina e arlequim<br>\
+Passarola voadora<br>\
+Para-raios, locomotiva<br>\
+Barco de proa festiva<br>\
+Alto forno, geradora<br>\
+Cisão do átomo, radar<br>\
+Ultrassom, televisão<br>\
+Desembarque em foguetão<br>\
+Na superfície lunar<br>\
+Eles não sabem nem sonham<br>\
+Que o sonho comanda a vida<br>\
+E que sempre que o homem sonha<br>\
+O mundo pula e avança<br>\
+Como bola colorida<br>\
+Entre as mãos de uma criança<br>\
+(La la la ra la ra ra )"})
+
+lirica.push({"faixa":"Ain't that a shame","lirica":"You made me cry when you said goodbye<br>\
+Ain't that a shame<br>\
+My tears fell like rain<br>\
+Ain't that a shame<br>\
+You're the one to blame<br>\
+You broke my heart when you said we'll part<br>\
+Ain't that a shame<br>\
+My tears fell like rain<br>\
+Ain't that a shame<br>\
+You're the one to blame<br>\
+Oh well goodbye<br>\
+Although I'll cry<br>\
+Ain't that a shame<br>\
+My tears fell like rain<br>\
+Ain't that a shame<br>\
+You're the one to blame<br>\
+(Ain't that a shame)<br>\
+You're the one to blame<br>\
+You made me cry when you said goodbye<br>\
+Ain't that a shame<br>\
+My tears fell like rain<br>\
+Ain't that a shame<br>\
+You're the one to blame<br>\
+Oh well goodbye<br>\
+Although I'll cry<br>\
+Ain't that a shame<br>\
+My tears fell like rain<br>\
+Ain't that a shame<br>\
+You're the one to blame"})
+
+
+lirica.push({"faixa":"Lets twist again","lirica":"Come on everybody clap your hands<br>\
+Ah, you're looking good<br>\
+I'm gonna sing my song and you won't take long<br>\
+We're gonna do the twist and it goes like this<br>\
+Come on let's twist again like we did last summer<br>\
+Yeah, let's twist again like we did last year<br>\
+Do you remember when things were really hummin'?<br>\
+Yeah, let's twist again, twistin' time is here<br>\
+Round 'n around 'n up 'n down we go again<br>\
+Oh baby make me know you love me so and then<br>\
+Twist again like we did last summer<br>\
+Come on twist again, like we did last year<br>\
+(Twist, yow)<br>\
+Who's that, flyin' up there?<br>\
+Is it a bird? No<br>\
+Is it a plane? No<br>\
+Is it the twister? Yeah<br>\
+Yeah, twist again like we did last summer<br>\
+Come on let's twist again, like we did last year<br>\
+Do you remember when things were really hummin'?<br>\
+Come on let's twist again, twistin' time is here<br>\
+Round 'n around 'n up 'n down we go again<br>\
+Oh baby make me know you love me so and then<br>\
+Come on twist again like we did last summer<br>\
+Girl, let's twist again, like we did last year<br>\
+Come on twist again, twistin' time is here"})
+
+lirica.push({"faixa":"Mona Lisa","lirica":"Mona Lisa, Mona Lisa, men have named you<br>\
+You're so like the lady with the mystic smile<br>\
+Is it only 'cause you're lonely they have blamed you?<br>\
+For that Mona Lisa strangeness in your smile?<br>\
+<br>\
+Do you smile to tempt a lover, Mona Lisa?<br>\
+Or is this your way to hide a broken heart?<br>\
+Many dreams have been brought to your doorstep<br>\
+They just lie there and they die there<br>\
+<br>\
+Are you warm, are you real, Mona Lisa?<br>\
+Or just a cold and lonely lovely work of art?<br>\
+<br>\
+Do you smile to tempt a lover, Mona Lisa?<br>\
+Or is this your way to hide a broken heart?<br>\
+Many dreams have been brought to your doorstep<br>\
+They just lie there and they die there<br>\
+<br>\
+Are you warm, are you real, Mona Lisa?<br>\
+Or just a cold and lonely lovely work of art?<br>\
+<br>\
+Mona Lisa, Mona Lisa"})
+
+
+lirica.push({"faixa":"Milonguita","lirica":"¿Te acordás, Milonguita? Vos eras<br>\
+la pebeta más linda 'e Chiclana;<br>\
+la pollera cortona y las trenzas,<br>\
+y en las trenzas un beso de sol.<br>\
+Y en aquellas noches de verano,<br>\
+¿qué soñaba tu almita, mujer,<br>\
+al oír en la esquina algún tango<br>\
+chamuyarte bajito de amor?<br>\
+<br>\
+Estercita,<br>\
+hoy te llaman Milonguita,<br>\
+flor de noche y de placer,<br>\
+flor de lujo y cabaret.<br>\
+Milonguita,<br>\
+los hombres te han hecho mal<br>\
+y hoy darías toda tu alma<br>\
+por vestirte de percal.<br>\
+<br>\
+Cuando sales por la madrugada,<br>\
+Milonguita, de aquel cabaret,<br>\
+toda tu alma temblando de frío<br>\
+dices: ¡Ay, si pudiera querer!...<br>\
+Y entre el vino y el último tango<br>\
+p'al cotorro te saca un bacán...<br>\
+¡Ay, qué sola, Estercita, te sientes!<br>\
+Si llorás...¡dicen que es el champán!"})
+
+
+lirica.push({"faixa":"The twist","lirica":"Come on, baby<br>\
+Let's do the twist<br>\
+Come on, baby<br>\
+Let's do the twist<br>\
+Take me by my little hand<br>\
+And go like this<br>\
+E-yah, twist<br>\
+Baby, baby, twist<br>\
+Ooh yeah, just like this<br>\
+Come on, little miss<br>\
+And do the twist<br>\
+My daddy is sleepin'<br>\
+And mama ain't around<br>\
+Yeah, daddy's just sleepin'<br>\
+And mama ain't around<br>\
+We're gonna a-twist, a-twist, a-twistin'<br>\
+'Til we tear the house down<br>\
+Come on and twist<br>\
+Yeah, baby, twist<br>\
+Ooh yeah, just like this<br>\
+Come on, little miss<br>\
+And do the twist<br>\
+E-yah<br>\
+Yeah, you should see my little sis<br>\
+You should see my, my little sis<br>\
+She really knows how to rock<br>\
+She knows how to twist<br>\
+Come on and twist<br>\
+Yeah, baby, twist<br>\
+Ooh yeah, just like this<br>\
+Come on, little miss<br>\
+And do the twist<br>\
+Yeah<br>\
+That's all right<br>\
+Yeah, twist all night<br>\
+Twist<br>\
+('Round and 'round and 'round)"})
+
+
+lirica.push({"faixa":"En el lago azul","lirica":"La casita sobre el lago azul,<br>\
+el nido y luz de nuestro amor,<br>\
+fue testigo fiel de nuestro adiós<br>\
+y hoy llora en silencio por los dos<br>\
+<br>\
+<br>\
+Cuando faltes tú<br>\
+en el lago azul,<br>\
+mi quimera gris<br>\
+buscará tu amor.<br>\
+Y a mi corazón<br>\
+llamará el dolor,<br>\
+en el lago azul<br>\
+de mi soledad<br>\
+<br>\
+<br>\
+Siempre hay que pagar con gran dolor<br>\
+después de amar con gran pasión.<br>\
+La casita sobre el lago azul<br>\
+hoy llora en silencio por los dos."})
+
+lirica.push({"faixa":"Prisionero","lirica":"\
+    Libre es el viento\
+Que doma la distancia,\
+Baja a los valles\
+Y sube a las montañas.\
+Libre es el agua\
+Que se despeña y canta,\
+Y el pájaro fugaz\
+Que surge de ver\
+Una azul inmensidad...\
+ \
+Libre es el potro\
+Que al viento la melena,\
+Huele a las flores\
+Que es mata en la pradera.\
+Libre es el cóndor\
+Señor de su cimera,\
+Yo que no sé olvidar\
+Esclavo de un dolor\
+No tengo libertad...\
+ \
+Loco y cautivo\
+Cargado de cadenas,\
+Mi oscura cárcel\
+Me mata entre sus rejas.\
+Soy prisionero\
+De incurable pena,\
+Preso al recuerdo\
+De mi perdido bien.\
+ \
+Nada me priva\
+De andar por donde quiero,\
+Pero no puedo\
+Librarme del dolor.\
+Y pese a todo\
+Soy prisionero,\
+De los recuerdos\
+Que guarda el corazón.\
+    que guarda el corazón<br><bR>\
+    Música: Julio Carresone<bR>\
+Letra: Carlos Bahr"})
+
+
+lirica.push({"faixa":"senda florida",
+"lirica":".....<bR>"
+})
+
+lirica.push({"faixa":"Remolino",
+"lirica":"Vivo sin saber como puedo resistir <bR>"
+})
+
+lirica.push({"faixa":"Para que te quiero tanto",
+"lirica":"... <bR>"
+})
+
+lirica.push({"faixa":"Lagrimas de sangre",
+"lirica":"Dé todo lo más que pude darte<bR>"
+})
+
+lirica.push({"faixa":"Junto a tu corazón",
+"lirica":"Que noche orrible para mi<bR>"
+})
+
+lirica.push({"faixa":"Que no sepan las estrellas",
+"lirica":"El mar, orizonte y sempre el mar<bR>"
+})
+
+lirica.push({"faixa":"Solo compasion",
+"lirica":".....<bR>"
+})
+
+lirica.push({"faixa":"Partir é morrer um pouco","lirica":"Adeus parceiros das farras<br>dos copos e das noitadas<br>\
+    "})
+
+lirica.push({"faixa":"Embrujamiento","lirica":"Embrujamiento"})
+lirica.push({"faixa":"Gitana Rusa","lirica":"Embrujamiento"})
+
+lirica.push({"faixa":"O teu olhar","lirica":"Desde que vi os teus olhos"})
+
+
+lirica.push({"faixa":"Victrolera","lirica":"Victrolera"})
+lirica.push({"faixa":"Fuimos","lirica":"Fuimos"})
+lirica.push({"faixa":"Fruta amarga","lirica":"Fruta amarga"})
+
+
+lirica.push({"faixa":"Nos encontramos al pasas","lirica":"Nos encontramos al pasar"})
+
+lirica.push({"faixa":"Cuando miran tus ojos","lirica":"<br>\
+    <br>\
+    que mata o que redime<br>\
+    <br>\
+    <br>\
+    "})
+
+lirica.push({"faixa":"Contigo Siempre","lirica":"Porque ...<br>\
+    mi razon di viver<br>\
+    todo el rigor<br>\
+    de una pasion."})
+
+
+lirica.push({"faixa":"Que lindo es enamorarse","lirica":"Que lindo es enamorarse"})
+lirica.push({"faixa":"Pequeña","lirica":"Pequeña"})
+lirica.push({"faixa":"A Magaldi","lirica":"A Magaldi"})
+lirica.push({"faixa":"Se dice de mi","lirica":"Se dice de mi"})
+
+
+lirica.push({"faixa":"Besos brujos","lirica":"Dejame! No quiero que me beses!"})
+
+
+lirica.push({"faixa":"Maria Remedios","lirica":"Se llamaba María Remedios<br>\
+y en el barrio San Telmo nació.<br>\
+Fue guerrera de la independencia<br>\
+y en trances heroicos su arrojo mostró.<br>\
+Tuvo amores con un arribeño<br>\
+buen sargento, riojano de ley,<br>\
+que en la noche de su casamiento<br>\
+moría en la iglesia, cercana al virrey.<br>\
+<br>\
+<br>\
+Después de unos años del triste recuerdo<br>\
+marchó de su patria con un batallón.<br>\
+Y aquellos amores del pobre sargento<br>\
+se fueron borrando de su corazón.<br>\
+Vistió desde entonces igual que un soldado<br>\
+con botas, espuelas y gran chiripá.<br>\
+Y fue prisionera de los realistas<br>\
+en la residencia de la libertad."})
+
+
+lirica.push({"faixa":"A Magaldi","lirica":"Mañana de invierno, el sol se ha escondido,\
+Negando sus rayos, acaso marchó,\
+Hay lloros, lamentos, que habrá sucedido\
+Que el alma porteña, su temple quebró.\
+Mañana de invierno, que pones de duelo\
+Un alma en el cielo, que Dios recogió,\
+Qué pasa, pregunta, anhelante la gente\
+La gente responde, Magaldi murió.\
+ \
+“¿Por qué te fuiste, hermano?”\
+Ayer cantaste a Gardel,\
+Mas hoy, del enjambre humano\
+Tu canto se fue tras él.\
+Quebróse tu voz doliente\
+Partió en pos de emoción,\
+Y la flor del dolor se deshoja\
+Sembrando congojas, en mi corazón.\
+ \
+En pos del cortejo, las voces de bronce\
+De tus personajes, oraban por vos,\
+Acaso “Un lamento”, “El penado catorce”,\
+Que en “Son de campanas”, llamaban “Adiós”.\
+“Dios te salve m´hijo”, tal vez murmuraron\
+En tanto que “Nieve”, quebraba tu voz,\
+Cuando un crucifijo, ceñiste en tus manos\
+Cantándole al mundo, tu último adiós.\
+ \
+\
+Letra : Juan Bernardo Tiggi\
+\
+Música : Carlos Dante – Pedro Noda"})
+
+ 
+
+//Grabado por la orquesta de Alfredo De Ángelis con las voces de Carlos Dante y Julio Martel.
 
 
 lirica.push({"faixa":"Ilusion azul","lirica":"Altiva y soberbia cual diosa pagana<br>\
@@ -74,7 +912,7 @@ Ya ves que voy camino a la desolación,<br>\
 <br>\
 Quién sabe si mañana, me encuentres ya con vida<br>\
 Y en medio de mi pecho, la cruz del Redentor.<br>\
-<br><br>\
+<br>\
 Letra y música : Oscar Napolitano y Nolo López  (Manuel López)"})
 
 
@@ -117,7 +955,8 @@ sabrías qué es amor."})
 
 
 lirica.push({"faixa":"Lo que vieron tus ojos","lirica":"Lo que vieron tus ojos"})
-lirica.push({"faixa":"Quien eres tu","lirica":"Hermosa muñeca de talle gentil<br><br>\
+
+lirica.push({"faixa":"Quien eres tu","lirica":"Hermosa muñeca de talle gentil<br>\
 Trocito de cielo, capullo de abril,<br>\
 Lo mismo que el poeta, quisiera cantar<br>\
 Tu esbelta silueta, tu gracia sin par.<br>\
@@ -150,6 +989,44 @@ Todo lo que siento desde que te vi...<br>\
 Letra : Mario Battistella  (Mario Batti – Stella Zoppi)<br>\
 Música : Agustín Magaldi"})
 
+
+lirica.push({"faixa":"Vals de amor","lirica":"Amor, pichón de amor<br>\
+dejaste el nido solo y frío<br>\
+al volar para amar<br>\
+a otro amor que daba más calor<br>\
+si no vas a volver,<br>\
+que aprendas a querer<br>\
+y que sepas a quién,<br>\
+corazón de papel.<br>\
+<br>\
+Amor con cuánto amor<br>\
+podrás sentirte bien amado<br>\
+ay amor, pobre amor,<br>\
+cruel dolor de amar sin compasión<br>\
+dulce como una herida<br>\
+que quita la vida,<br>\
+tu amor se suicida,<br>\
+por eso me olvida.<br>\
+<br>\
+Amor, mi amor no quiso amar<br>\
+a nadie sino a ti<br>\
+porque a mí tu calor me hizo bien<br>\
+aunque me dio dolor<br>\
+hoy que el tiempo pasó<br>\
+te siento alrededor,<br>\
+amarte fue mejor<br>\
+que guardarte rencor.<br>\
+<br>\
+Amor, qué flor caliente<br>\
+roja y quieta para siempre<br>\
+dejaste latiendo en mi frente,<br>\
+pájaro que canta<br>\
+sol que se levanta,<br>\
+miedo que no espanta,<br>\
+melodiosa planta,<br>\
+amor humilde y tierno,<br>\
+olvido eterno,<br>\
+hoguera ardiendo en el invierno."})
 
 lirica.push({"faixa":"Quien sera","lirica":"La noche que en el baile<br>\
 tus ojos brujos se me clavaron,<br>\
@@ -214,6 +1091,224 @@ Solo quiero verte con el alma descubierta,<br>\
 afrontando todo por tener sinceridad<br>\
 Para que al marcharme con mis pobre flores muertas,<br>\
 lleve al menos de tus labios la verdad."})
+
+
+
+lirica.push({"faixa":"Alma de bandoneon","lirica":"Yo me burlé de vos<br>\
+Porque no te entendí<br>\
+Ni comprendí tu dolor...<br>\
+Tuve la sensación<br>\
+De que tu canto cruel<br>\
+Lo habías robao, bandoneón...<br>\
+Recién comprendo bien<br>\
+La desesperación<br>\
+Que te revuelve al gemir.<br>\
+Sos una oruga que quiso<br>\
+Ser mariposa, antes de morir...<br>\
+<br>\
+Fue tu voz, bandoneón<br>\
+La que me confió el dolor,<br>\
+Del fracaso<br>\
+Que hay en tu gemir.<br>\
+Voz que es fondo<br>\
+De la vida oscura<br>\
+Y sin perdón...<br>\
+Del que soñó volar<br>\
+Y arrastrar su ilusión<br>\
+¡Llorándola!...<br>\
+<br>\
+Igual que vos soñé...<br>\
+Igual que vos viví,<br>\
+Sin alcanzar mi ambición...<br>\
+Alma de bandoneón<br>\
+Alma que arrastro en mí,<br>\
+Voz de desdicha y de amor...<br>\
+Te buscaré al morir<br>\
+Te llamaré en mi adiós,<br>\
+Para pedirte perdón...<br>\
+Y al apretarte en mis brazos<br>\
+Darte en pedazos<br>\
+Mi corazón...<br>\
+<br>\
+Letra : Enrique Santos Discépolo y Luis César Amadori<br>\
+Música : Enrique Santos Discépolo<br>\
+de la película “El alma del bandoneón”, 1935."})
+
+
+lirica.push({"faixa":"Envidia","lirica":"Envidia, envidia siente el que sufre,\
+envidia siente el que espera\
+viendo que la vida entera\
+no es más que desilusión.\
+\
+Envidia, envidia siente el cobarde,\
+envidia siente el que muere,\
+el que mata y el que hiere,\
+porque no tendrá perdón.\
+\
+Envidia, envidia amarga y traidora,\
+envidia que grita y llora;\
+la que causa más dolor\
+es la envidia por amor.\
+\
+Yo he nacido bueno,\
+yo he nacido honrado,\
+mi cabeza altiva\
+nunca se ha doblado.\
+\
+Para el compañero\
+fue mi brazo amigo\
+y estreché la mano\
+del que fue enemigo.\
+\
+Nunca el triunfo de otro\
+me trajo una pena,\
+ni sentí amargura\
+por la dicha ajena;\
+y hoy, ante el espejo\
+cruel de mi pasado,\
+veo que cambiado\
+me tiene el rencor.\
+\
+Envidia, envidia tengo en mi seno;\
+envidia del que a tu lado\
+es feliz por ser amado\
+mientras muerdo mi pasión.\
+\
+Envidia de mis desvelos\
+envidia como el vencido,\
+porque jamás ha tenido\
+en la vida una ilusión.\
+\
+Envidia, envidia que me condena\
+a vivir con esta pena,\
+porque no hay mayor dolor\
+que la envidia por amor."})
+
+lirica.push({"faixa":"Seguime corazon","lirica":"Amigo corazón, vos has llorao<br>\
+apenas una duda te mordió,<br>\
+y estás como los maulas, arrugao,<br>\
+sin chance pa'seguir, la ruta del dolor.<br>\
+Al verte sollozar acobardao<br>\
+quisiera yo arrancarte de un tirón,<br>\
+y en este mundo ingrato, que sólo da tormentos,<br>\
+más libre que los vientos, vivir sin corazón.<br>\
+<br>\
+Yo no sé nada de cobardes agachadas<br>\
+porque en las  malas, mi serena juventud<br>\
+es como un cóndor con las alas desplegadas<br>\
+que siempre busca las alturas y la luz.<br>\
+No me hacen mella los amargos desengaños<br>\
+y si querés que no te arranque de un tirón,<br>\
+por el camino de las penas y los años<br>\
+sin lágrimas de maula, seguime corazón...<br>\
+<br>\
+Amigo corazón, si ves nublao<br>\
+tu cielo de esperanzas y de amor,<br>\
+las nubes son un mísero tinglao,<br>\
+rompelo y vas a ver que arriba brilla el sol...<br>\
+Si vos pensás seguir acobardao,<br>\
+un día sin dolor te arrancaré,<br>\
+y luego de arrojarte, cual pasto de las fieras,<br>\
+feliz con mis quimeras, sin vos yo seguiré...<br>\
+<br>\
+<br>\
+Letra: Jesús Fernández Blanco<br>\
+Música:Baldomero Suárez"})
+
+lirica.push({"faixa":"Isla de Capri","lirica":"Yo tuve un amor…sueño embriagador<br>\
+en una isla de Capri,<br>\
+paisaje azul rebosante de luz…<br>\
+Mi canción de amor dulce desgrané<br>\
+en el perfume de Capri…<br>\
+y mi querer en tus ojos canté…<br>\
+<br>\
+Labios de miel que besaron mis labios<br>\
+ojos de sol que me hicieron soñar,<br>\
+y en la emoción<br>\
+de sus besos tan sabios,<br>\
+desglosaba mi alma un cantar…<br>\
+y así los dos por senderos de dicha<br>\
+bajo este cielo radiante de amor,<br>\
+vivimos juntos un suave romance<br>\
+que duró lo que dura una flor…<br>\
+<br>\
+Y donde estarás ahora<br>\
+acordandote de mí,<br>\
+mientras mí querer te llora<br>\
+vuela mi emoción hacía tí…<br>\
+Labios de miel que besaron mis labios<br>\
+ojos de sol que me hicieron soñar,<br>\
+y en la emoción<br>\
+de sus besos tan sabios,<br>\
+desglosaba mi alma un cantar…"})
+
+lirica.push({"faixa":"La serenata de ayer","lirica":"Llegaba en coche a la ventana de la moza<br>\
+Y se embriagaba con glicinas y jazmines<br>\
+Traía un ansia de zorzal en los cantares<br>\
+Ponía el alma en las guitarras y violines<br>\
+A la hermosura quinceañera le dejaba<br>\
+El homenaje de su acento y de su amor<br>\
+Y se alejaba con el premio de un suspiro<br>\
+Una sonrisa, un \"muchas gracias\" y una flor<br>\
+En la lejana noche fue<br>\
+Canción de amor y fe<br>\
+En la vidala fue el dolor<br>\
+Del mozo trovador<br>\
+Con habaneras vino al barrio a suspirar<br>\
+Y al claro de la luna, su farol de plata<br>\
+Le pidió a la ingrata<br>\
+Que supiera amar<br>\
+La linda moza al despertar<br>\
+Al son de la canción<br>\
+Abría su alma y su balcón<br>\
+Poniéndose a soñar<br>\
+Y florecía la esperanza del cantor<br>\
+Al ver que la sonrisa de la porteñita<br>\
+Era una infinita promesa de amor<br>\
+Enmudeció la serenata para siempre<br>\
+Ya no anda en coche con guitarras y violines<br>\
+Siguió el camino de las buenas ventanitas<br>\
+Que se adornaba con glicinas y jazmines<br>\
+Se fue al ocaso con el coche en que llegaba<br>\
+Partió al recuerdo con Gabino, el payador<br>\
+Y se cerraron los balcones que se abrían<br>\
+Para brindarle un \"muchas gracias\" y una flor"})
+
+lirica.push({"faixa":"Novia mia","lirica":"Ya en el alma se habían dormido<br>\
+La esperanza, la fe y el amor,<br>\
+Todo ensueño se hallaba perdido<br>\
+Y tan sólo rondaba el dolor.<br>\
+Ni perfumes, ni dichas, ni glorias<br>\
+Anhelaba mi fiel corazón,<br>\
+Como un pájaro herido en la noche<br>\
+Así era mi vida sin más salvación.<br>\
+ <br>\
+Pero fue que al llegar una tarde<br>\
+Con el oro radiante del sol,<br>\
+Se encendieron mis ojos y al verte<br>\
+Revivieron ternuras de amor.<br>\
+Bajo el arco sereno del cielo<br>\
+Nuestro encuentro fue una bendición,<br>\
+Novia alegre que ya no esperaba<br>\
+Dulce novia de mi salvación<br>\
+ <br>\
+Yo sabía de toda la angustia<br>\
+De las horas de amargo rencor,<br>\
+De la noches tan crueles del alma<br>\
+Yo sabía el profundo dolor.<br>\
+Tu querer es la luz de la vida<br>\
+Que hoy enciende mi fe y mi sentir,<br>\
+Es la fuerza incesante y divina<br>\
+Que tanto me alienta a cantar y a vivir.<br>\
+<br>\
+<br>\
+Letra y música : Alberto Gómez  (Egidio Alberto Adducci)<br>\
+Grabado por la Orquesta Típica Víctor con la voz de Alberto Gómez.<br>\
+Grabado por Alberto Gómez con acompañamiento de guitarras. (gentileza del amigo Renato Camus. 12-2011)"})
+
+ 
+
+ 
 
 lirica.push({"faixa":"Como el hornero","lirica":"Hace su nido el hornero<br>\
 a lo largo del camino,<br>\
@@ -311,7 +1406,7 @@ pues lo dice su canción:<br>\
 que no hay distancias para fatigar<br>\
 los bueyes de la ilusión.<br>\
 <bR><i>Quien diga que no hay querencia<br>\
-que lo pregunte a la ausencia.</i><br><br>\
+que lo pregunte a la ausencia.</i><br>\
 Y sigue el pobre con su carretón<br>\
 la huella del cañadón.<br>\
 <br>\
@@ -329,7 +1424,7 @@ pues lo dice su canción:<br>\
 que no hay pantano para detener<br>\
 el carro del corazón.<br>\
 <br><i>Mal viento es el de la ausencia<br>\
-cuando sopla en la querencia.</i><br><br>\
+cuando sopla en la querencia.</i><br>\
 Y sigue el pobre con su carretón<br>\
 la huella del cañadón."})
 
@@ -353,7 +1448,7 @@ porque soy sentimental<br>\
 es su voz la de un amigo<br>\
 que revive los motivos<br>\
 de mi drama pasional.<br>\
-<br><br>\
+<br>\
 Por el ojal de la herida, que es un recuerdo<br>\
 se cuela la voz amarga del bandoneón<br>\
 y se confunde la pena<br>\
@@ -420,7 +1515,7 @@ Nidi d'amore e di felicità<br>\
 La mia piccola rondine partì<br>\
 Senza lasciarmi un bacio<br>\
 Senza un addio partì<br>\
-<br><br>\
+<br>\
 Non ti scordar di me<br>\
 La vita mia legata a te<br>\
 Io t'amo sempre più<br>\
@@ -430,7 +1525,7 @@ La vita mia legata a te<br>\
 C'è sempre un nido nel mio cor per te<br>\
 Non ti scordar di me<br>\
 Non ti scordar di me!<br>\
-<br><br>\
+<br>\
 Non ti scordar di me<br>\
 La vita mia legata a te<br>\
 C'è sempre un nido nel mio cor per te<br>\
@@ -513,7 +1608,7 @@ Qu'Il souffre et meurt<br>\
 Peuple debout, chante ta deliverance<br>\
 Noel, Noel, Chantons le Rédempteur<br>\
 Noel, Noel, Chantons le Rédempteur<br>\
-<br><br>\
+<br>\
 O Holy Night!<br>\
 The stars are brightly shining<br>\
 It is the night of the dear Savior's birth!<br>\
@@ -577,8 +1672,41 @@ Que en mi pecho formara el dolor.<br>\
 <br>\
 <br>\
 <br>\
-http://www.hermanotango.com.ar/LetrasTangos/EL%20TROVERO%20%20vals.htm<br>\
+http://www.hermanotango.com.ar/LetrasTangos/EL TROVERO vals.htm<br>\
 Letra y música : Rafael Tuegols y Agustín Irusta  (Agustín Cipriano Irusta)"})
+
+
+lirica.push({"faixa":"Duerme mi niña","lirica":"Duerme mi niña!...<br>\
+Que los ángeles tu sueño velarán.<br>\
+¡Sueña mi vida!...<br>\
+Tú también eres un ángel celestial.<br>\
+Si mañana no me encuentras<br>\
+Junto a ti al despertar,<br>\
+Mira al cielo, corazón y me verás.<br>\
+¡Duerme mi niña!...<br>\
+Que los ángeles tu sueño velarán.<br>\
+<br>\
+Tú, tal vez no puedas comprender,<br>\
+Aún, tal vez,<br>\
+No sepas de resignación, ni paz;<br>\
+Pero al fin, cuando te diga la verdad,<br>\
+Sabrás lo mucho que te amé<br>\
+Y entonces te consolará, Dios;<br>\
+No, no quiero que me llores, no.<br>\
+Adiós, mi bien,<br>\
+Nunca te olvides de rogar por mí,<br>\
+Pero qué... <br>\
+Qué estoy dicieno de partir,<br>\
+Dónde hallaré felicidad, sin ti.<br>\
+<br>\
+Coda:<br>\
+¡Duerme mi niña!...<br>\
+Que los ángeles tu sueño velarán...<br>\
+<br>\
+Letra : Víctor Prestipino  (Víctor Eduardo Prestipino)<br>\
+Música : Mario Canaro  (Mario Canarozzo)"})
+
+
 
 
 lirica.push({"faixa":"Luna de arrabal","lirica":"Muchachos, hoy que es noche clara y estival<br>\
@@ -690,7 +1818,7 @@ sin par,<br>\
 yo sé que has de sufrir<br>\
 por mí,<br>\
 yo sé que has de llorar...<br>\
-<br><br>\
+<br>\
 Otras letras de Ángel Marino"})
 
 lirica.push({"faixa":"Unitaria","lirica":"Unitaria del moño celeste<br>\
@@ -804,29 +1932,6 @@ Enrique Cadícamo"})
 
 
 
-lirica.push({"faixa":"Sangre de mi sangre","lirica":"Sangre de mi sangre"})
-lirica.push({"faixa":"Valsinha","lirica":"Valsinha"})
-lirica.push({"faixa":"Valsecito de antes","lirica":"Valsecito de antes"})
-lirica.push({"faixa":"Una lagrima","lirica":"Una lagrima"})
-lirica.push({"faixa":"Valsecito criollo","lirica":"Valsecito criollo"})
-lirica.push({"faixa":"Sueño florido","lirica":"Sueño florido (INST)"})
-lirica.push({"faixa":"Aroma de amor","lirica":"Aroma de amor"})
-lirica.push({"faixa":"Serenata campera","lirica":"Serenata campera"})
-lirica.push({"faixa":"Loca de amor","lirica":"Loca de amor"})
-lirica.push({"faixa":"El ultimo adios","lirica":"El ultimo adios"})
-lirica.push({"faixa":"Pedacito de cielo","lirica":"Pedacito de cielo"})
-lirica.push({"faixa":"Maragata","lirica":"Maragata"})
-lirica.push({"faixa":"Tabernero","lirica":"Tabernero"})
-lirica.push({"faixa":"Esta noche me emborracho","lirica":"Esta noche me emborracho"})
-lirica.push({"faixa":"Bajo el cono azul","lirica":"Bajo el cono azul"})
-lirica.push({"faixa":"Quien tiene tu amor","lirica":"Quien tiene tu amor"})
-lirica.push({"faixa":"Dímelo ao oído","lirica":"Dímelo ao oído"})
-lirica.push({"faixa":"Yo naci para quererte","lirica":"Yo naci para quererte"})
-lirica.push({"faixa":"Mi cotorrito boemio","lirica":"Mi cotorrito boemio"})
-lirica.push({"faixa":"Las quarenta","lirica":"Las quarenta"})
-lirica.push({"faixa":"No quiero verte llorar","lirica":"No quiero verte llorar"})
-lirica.push({"faixa":"Nunca tuvo novio","lirica":"Nunca tuvo novio"})
-lirica.push({"faixa":"De puro guapo","lirica":"De puro guapo"})
 lirica.push({"faixa":"Cuatro palabras","lirica":"Noche sin calma y sin estrellas<br>\
 Tú tan sólo, escuchas mi canción,<br>\
 Mis manos ya no buscan<br>\
@@ -853,10 +1958,6 @@ Tu retrato con cuatro palabras:<br>\
 Letra y música : Miguel Bucino (Miguel Eusebio Bucino)"})
 
 
-lirica.push({"faixa":"Paisaje","lirica":"Paisaje"})
-lirica.push({"faixa":"Mendocina","lirica":"Mendocina"})
-lirica.push({"faixa":"Jugando jugando","lirica":"Jugando jugando"})
-lirica.push({"faixa":"Buscandote","lirica":"Buscandote"})
 
 
 lirica.push({"faixa":"Metido","lirica":"Me siento con el alma enamorada<br>\
@@ -1299,7 +2400,7 @@ Ne me quitte pas<br>\
 Ne me quitte pas<br>\
 Ne me quitte pas<br>\
 Ne me quitte pas<br>\
-<br><br>\
+<br>\
 Moi, je t'offrirai<br>\
 Des perles de pluie<br>\
 Venues de pays<br>\
@@ -1317,7 +2418,7 @@ Ne me quitte pas<br>\
 Ne me quitte pas<br>\
 Ne me quitte pas<br>\
 Ne me quitte pas<br>\
-<br><br>\
+<br>\
 Je t'inventerai<br>\
 Des mots insensés<br>\
 Que tu comprendras<br>\
@@ -1432,11 +2533,11 @@ Je suis malade parfaitement malade<br>\
 Tu arrives on ne sait jamais quand<br>\
 Tu repars on ne sait jamais où<br>\
 Et ça va faire bientôt deux ans<br>\
-Que tu t'en fous...<br><br>\
+Que tu t'en fous...<br>\
 Comme à un rocher, comme à un pêcher<br>\
 Je suis accroché à toi<br>\
 Je suis fatiguée, je suis épuisée<br>\
-De faire semblant d'être heureuse quand ils sont là<br><br>\
+De faire semblant d'être heureuse quand ils sont là<br>\
 Je bois toutes les nuits, mais tous les whiskies<br>\
 Pour moi, ont le même goût<br>\
 Et tous les bateaux portent ton drapeau<br>\
@@ -1494,7 +2595,7 @@ Farò giocar."})
 
 
 
-lirica.push({"faixa":"Disse-te Adeus", "lirica":"Disse-te adeus... não me lembro<br>em que dia de Setembro<br>só sei que era madrugada;<br><br>\
+lirica.push({"faixa":"Disse-te Adeus", "lirica":"Disse-te adeus... não me lembro<br>em que dia de Setembro<br>só sei que era madrugada;<br>\
 a rua estava deserta<br>e até a lua discreta<br>\
 fingiu que não deu por nada<br>\
 <br>\
@@ -1654,7 +2755,7 @@ De amor, que recojo<br>\
 Con mi corazón."})
 
 
-lirica.push({"faixa":"La López Pereyra", "lirica":"io quisiera olvidarte<br>\Me es imposible<br>\Mi bien, mi bien<br>\Tu imagen me persigue<br>\Tuya es mi vida<br>\Mi amor también<br>\Y cuando pensativo<br>\Yo solo estoy<br>\Deliro con la falsía<br>\Con que ha pagado<br>\Tu amor, mi amor<br>\
+lirica.push({"faixa":"La López Pereyra", "lirica":"Yo quisiera olvidarte<br>\Me es imposible<br>\Mi bien, mi bien<br>\Tu imagen me persigue<br>\Tuya es mi vida<br>\Mi amor también<br>\Y cuando pensativo<br>\Yo solo estoy<br>\Deliro con la falsía<br>\Con que ha pagado<br>\Tu amor, mi amor<br>\
 <br>\Si yo pudiera tenerte<br>\
 A mi lado todo el día<br>\
 De mis ocultos amores<br>\
@@ -2106,10 +3207,6 @@ Vai dar tempo p'ra aprender<br>\
 Vai dar jeito p'ra viver<br>\
 O teu primeiro amor"})
 
-lirica.push({"faixa":"O dia em que me queiras","lirica":"Eu sinto nos meus sonhos<br>\
-<br>\
-	"})
-
 
 lirica.push({"faixa":"Veinte años","lirica":"Qué te importa que te ame<br>\
 Si tú no me quieres ya<br>\
@@ -2184,6 +3281,10 @@ La noche que me quieras"})
 
 lirica.push({"faixa":"El dia que me quieras","lirica":lirica[lirica.length-1]["lirica"]}) 
 lirica.push({"faixa":"El dia que mi quieras","lirica":lirica[lirica.length-1]["lirica"]}) 
+lirica.push({"faixa":"O dia que me queiras","lirica":"Eu sinto nos meus sonhos<br>\
+<br>\
+    "})
+
 
 
 lirica.push({"faixa":"Quando os outros te batem, beijo-te eu","lirica":"Se bem que não me ouviste e foste embora<br>\
@@ -2446,20 +3547,16 @@ Letra: Eduardo Bianco"})
 
 
 
-lirica.push({"faixa":"Tigre viejo","lirica":"-----"})
-
-
-lirica.push({"faixa":"Farolito de papel","lirica":"Farolito de papel"})
-lirica.push({"faixa":"Leguisamo solo","lirica":"Leguisamo solo"})
 
 lirica.push({"faixa":"Paciencia!","lirica":"Anoche, de nuevo te vieron mis ojos;<br>\
-anoche, de nuevo te tuve a mi lao.<br>\
+anoche, de nuevo te tuve a mi la(d)o.<br>\
 ¡Pa qué te habré visto si, después de todo,<br>\
 fuimos dos extraños mirando el pasao!<br>\
 <br>Ni vos sos la misma, ni yo soy el mismo...<br>\
 ¡Los años! ... ¡La vida!... ¡Quién sabe lo qué!...<br>\
 De una vez por todas mejor la franqueza:<br>\
 yo y vos no podemos volver al ayer.<br>\
+<br>\
 <br>Paciencia... La vida es así.<br>\
 Quisimos juntarnos por puro egoísmo<br>\
 y el mismo egoísmo nos muestra distintos.<br>\
@@ -2468,6 +3565,7 @@ Paciencia... La vida es así.<br>\
 Ninguno es culpable, si es que hay una culpa.<br>\
 Por eso, la mano que te di en silencio<br>\
 no tembló al partir.<br>\
+<br>\
 <br>Haremos de cuenta que todo fue un sueño,<br>\
 que fue una mentira habernos buscao;<br>\
 así, buenamente, nos queda el consuelo<br>\
@@ -2476,15 +3574,8 @@ de seguir creyendo que no hemos cambiao.<br>\
 cuando eras del barrio el sol familiar.<br>\
 Quiero verte siempre linda como entonces:<br>\
 lo que pasó anoche fue un sueño no más.<br>\
-<br>Música: Juan D'Arienzo<br>\
+<br><br>Música: Juan D'Arienzo<br>\
 Letra: Francisco Gorrindo"})
-
-
-lirica.push({"faixa":"Al verla pasar","lirica":"Al verla pasar"})
-
-//lirica.push({"faixa":"Nada más","lirica":"Nada más"})
-
-lirica.push({"faixa":"Isla de Capri","lirica":"Isla de Capri"})
 
 
 
@@ -2606,8 +3697,6 @@ No tienen ausencia, no tienen adiós!"})
 
 
 
-lirica.push({"faixa":"Fruta amarga","lirica":"Fruta amarga"})
-
 
 lirica.push({"faixa":"Que lento corre el tren","lirica":"Corre el tren que va a encontrarte,<br>\
 pero mas el ansia mía,<br>\
@@ -2632,37 +3721,38 @@ que lento corre el tren,<br>\
 que ganas de llegar."})
 
 
-lirica.push({"faixa":"Fuimos","lirica":"Fuimos"})
-lirica.push({"faixa":"Soy un arlequin","lirica":"Soy un arlequín\
-Un arlequín que salta y baila,\
-Para ocultar\
-Su corazón lleno de pena.\
-\
-\
-Me clavó en la cruz\
-Tu folletín de Magdalena,\
-Porque soñé\
-Que era Jesús y te salvaba...\
-\
-\
-Me engañó tu voz\
-Tu llorar de arrepentida sin perdón.\
-Eras mujer... pensé en mi madre\
-¡Y me clavé!\
-\
-\
-Viví en tu amor, una esperanza\
-La inútil ansia de tu salvación.\
-¡Perdoname si fui bueno!\
-Si no sé más que sufrir...\
-\
-\
-Si he vivido entre las risas\
-Por quererte redimir.\
-¡Cuánto dolor!\
-Que hace reír.\
-\
-\
+
+
+lirica.push({"faixa":"Soy un arlequin","lirica":"Soy un arlequín<br>\
+Un arlequín que salta y baila,<br>\
+Para ocultar<br>\
+Su corazón lleno de pena.<br>\
+<br>\
+<br>\
+Me clavó en la cruz<br>\
+Tu folletín de Magdalena,<br>\
+Porque soñé<br>\
+Que era Jesús y te salvaba...<br>\
+<br>\
+<br>\
+Me engañó tu voz<br>\
+Tu llorar de arrepentida sin perdón.<br>\
+Eras mujer... pensé en mi madre<br>\
+¡Y me clavé!<br>\
+<br>\
+<br>\
+Viví en tu amor, una esperanza<br>\
+La inútil ansia de tu salvación.<br>\
+¡Perdoname si fui bueno!<br>\
+Si no sé más que sufrir...<br>\
+<br>\
+<br>\
+Si he vivido entre las risas<br>\
+Por quererte redimir.<br>\
+¡Cuánto dolor!<br>\
+Que hace reír.<br>\
+<br>\
+<br>\
 Letra y música : Enrique Santos Discépolo"})
 
 
@@ -2737,8 +3827,6 @@ mi vida sin aliento,<br>\
 y pienso que jamás<br>\
 ha de llegar."})
 
-lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
-lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
 lirica.push({"faixa":"Pedacito di cielo","lirica":"La casa tenía una reja<br>\
 pintada con quejas y cantos de amor.<br>\
@@ -2812,6 +3900,10 @@ Letra : Mario Batistella  (Mario Batti–Stella Zoppi)<br>\
 Música : Mario Melfi  (Antonio Mario Melfi)"})
 
 lirica.push({"faixa":"Remembranzas","lirica":lirica[lirica.length-1]["lirica"]}) 
+
+
+
+
 
 lirica.push({"faixa":"Ojos verdes","lirica":"Son tus ojos verde mar<br>\
 El mar de la ilusión<br>\
@@ -3089,24 +4181,6 @@ Música : José Dames"})
 
 
 lirica.push({"faixa":"Que ranada","lirica":"(Instrumental)"})
-
-lirica.push({"faixa":"Victrolera","lirica":"Victrolera"})
-
-
-lirica.push({"faixa":"Nos encontramos al pasas","lirica":"Nos encontramos al pasar"})
-
-lirica.push({"faixa":"Cuando miran tus ojos","lirica":"<br>\
-	<br>\
-	que mata o que redime<br>\
-	<br>\
-	<br>\
-	"})
-
-lirica.push({"faixa":"Contigo Siempre","lirica":"Porque ...<br>\
-	mi razon di viver<br>\
-	todo el rigor<br>\
-	de una pasion."})
-
 
 lirica.push({"faixa":"Nada más","lirica":"No quiero nada, nada más<br>\
 Que no me dejes frente a frente con la vida.<br>\
@@ -3618,7 +4692,8 @@ Con este amor clavado en mí<br>\
 Como una maldición"})
 
 
-lirica.push({"faixa":"O teu olhar","lirica":"Desde que vi os teus olhos"})
+
+
 
 lirica.push({"faixa":"me besó y se fue","lirica":"Ayer en un banco de la vieja plaza<br>\
 Que adorna mi pueblo donde yo nací,<br>\
@@ -3746,18 +4821,6 @@ Música : Ricardo Malerba y Dante Smurra"})
 
 
 
-lirica.push({"faixa":"Embrujamiento","lirica":"Embrujamiento"})
-lirica.push({"faixa":"Gitana Rusa","lirica":"Embrujamiento"})
-
-
-lirica.push({"faixa":"Que lindo es enamorarse","lirica":"Que lindo es enamorarse"})
-lirica.push({"faixa":"Pequeña","lirica":"Pequeña"})
-lirica.push({"faixa":"A Magaldi","lirica":"A Magaldi"})
-lirica.push({"faixa":"Se dice de mi","lirica":"Se dice de mi"})
-
-
-lirica.push({"faixa":"Besos brujos","lirica":"Dejame! No quiero que me beses!"})
-
 
 lirica.push({"faixa":"Quadras soltas II","lirica":
 	"Sabendo que em tua ausência<br>Prazer algum me conforta<br>\
@@ -3827,8 +4890,6 @@ lirica.push({"faixa":"Eu queria cantar-te um fado","lirica":"Eu queria cantar-te
  	Tu tens um fado, eu tenho outro<br>\
  	Triste fado temos nós"})
 
-lirica.push({"faixa":"Partir é morrer um pouco","lirica":"Adeus parceiros das farras<br>dos copos e das noitadas<br>\
- 	"})
 
 lirica.push({"faixa":"Canta coração","lirica":"O meu coração que chora<br>\
 	tão cansado de esperar<br>\
@@ -3913,21 +4974,6 @@ que la luna se escondió."
 })
 
 
-lirica.push({"faixa":"Lagrimas de sangre",
-"lirica":"Dé todo lo más que pude darte<bR>"
-})
-
-lirica.push({"faixa":"Junto a tu corazón",
-"lirica":"Que noche orrible para mi<bR>"
-})
-
-lirica.push({"faixa":"Que no sepan las estrellas",
-"lirica":"El mar, orizonte y sempre el mar<bR>"
-})
-
-lirica.push({"faixa":"Solo compasion",
-"lirica":".....<bR>"
-})
 
 lirica.push({"faixa":"yuyo verde",
 "lirica":"Callejón... callejón...<br>\
@@ -4055,18 +5101,7 @@ viví tu juventud.<br>\
 Letra firmada con el seudónimo Luis Mario."})
 
 
-lirica.push({"faixa":"senda florida",
-"lirica":".....<bR>"
-})
 
-
-lirica.push({"faixa":"Remolino",
-"lirica":"Vivo sin saber como puedo resistir <bR>"
-})
-
-lirica.push({"faixa":"Para que te quiero tanto",
-"lirica":"... <bR>"
-})
 
 lirica.push({"faixa":"Adiós corazón","lirica":"Adiós, corazón...<br>\
 Te decían los muchachos.<br>\
@@ -4100,9 +5135,8 @@ Viva radiante como hoy...<br>\
 Letra : Héctor Sapelli  (Héctor Ángel Sapelli Marrero)<br>\
 Música : Lalo Echegoncelay  (Víctor Eduardo Etchegoncelhay Jaureguiberry)"})
 
-
-
 lirica.push({"faixa":"Adios corazon","lirica":lirica[lirica.length-1]["lirica"]}) 
+
 lirica.push({"faixa":"Mi novia de ayer","lirica":"Dónde estarás dulce novia que fue<br>\
 Dueña de mi ternura,<br>\
 Hoy como ayer eres tú<br>\
@@ -6547,8 +7581,6 @@ tu imagen marcada con el fuego de amor.<br>\
 <br>Música y Letra: Francisco Canaro"}) 
 
 
-lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
-lirica.push({"faixa":"Mocosita","lirica":"Mocosita"}) 
 
 
 lirica.push({"faixa":"Engáñame nomás","lirica":"Engáñame nomás<br>\
@@ -6761,7 +7793,4 @@ Y esas ganas tremendas de llorar<br>\
 que a veces nos inundan sin razón,<br>\
 y el trago de licor que obliga a recordar<br>\
 si el alma está en 'orsai', che bandoneón."})
-
-
-/*  lirica.push({"faixa":"*","lirica":""}) */
 
