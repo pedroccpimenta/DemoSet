@@ -6,10 +6,127 @@ lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
 lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
-lirica.push({"faixa":"Mocosita","lirica":"Mocosita"}) 
-lirica.push({"faixa":"Paisaje","lirica":"Paisaje"})
+
+
+lirica.push({"faixa":"Desde el_alma (vals)","lirica":"Hermano cuerpo estás<br>\
+cansado desde el cerebro a la misericordia<br>\
+del paladar al valle del deseo<br>\
+<br>\
+cuando me dices / alma ayúdame<br>\
+siento que me conmuevo hasta el agobio<br>\
+que el mismísimo aire es vulnerable<br>\
+<br>\
+hermano cuerpo has trabajado<br>\
+a músculo y a estómago y a nervios<br>\
+a riñones y a bronquios y a diafragma<br>\
+<br>\
+cuando me dices / alma ayúdame<br>\
+sé que estás condenado / eres materia<br>\
+y la materia tiende a desfibrarse<br>\
+<br>\
+hermano cuerpo te conozco<br>\
+fui tu huésped y anfitrión de tus dolores<br>\
+modesta rampa de tu sexo ávido<br>\
+<br>\
+cuando me pides / alma ayúdame<br>\
+siento que el frío me envilece<br>\
+que se me van la magia y la dulzura<br>\
+<br>\
+hermano cuerpo eres fugaz<br>\
+coyuntural efímero instantáneo<br>\
+tras un jadeo acabarás inmóvil<br>\
+<br>\
+y yo que normalmente soy la vida<br>\
+me quedaré abrazada a tus huesitos<br>\
+incapaz de ser alma sin tus vísceras.<br>\
+Mario Benedetti"}) 
+
+
+
+lirica.push({"faixa":"Adiós Adiós Corazón","lirica":"“Y no seré de nadie<br>\
+camino del olvido<br>\
+te digo adiós... <br>\
+mi dulce amor...”<br>\
+ <br>\
+¡Era tan cruel aquel adiós de despedida<br>\
+tan fuerte, que vibró mi corazón!<br>\
+Que al evocar tus ojos,<br>\
+Tu voz, de suave tono,<br>\
+Mi enorme pena me venció,<br>\
+Y sólo sé que te lloré desconsolado<br>\
+Como se llora así... ¡Un gran amor!...<br>\
+ <br>\
+Adiós... Adiós corazón<br>\
+Repetiré todas las horas,<br>\
+Adiós... Adiós corazón<br>\
+Dónde estás?... ¡Óyeme!...<br>\
+¡No puede ser, alma mía<br>\
+que mis labios te nombren<br>\
+que no vuelvas un día!<br>\
+Adiós... Adiós corazón<br>\
+Ya no vendrás,<br>\
+¡Mi gran amor!...<br>\
+ <br>\
+Los años han pasado<br>\
+Tu nombre es un recuerdo,<br>\
+Lo más preciado para mí.<br>\
+Serás la flor, el aire, el sol que me acaricia<br>\
+Que me hablan de tu amor... de ayer... de ti.<br>\
+No ha de borrar el tiempo<br>\
+El musical y suave,<br>\
+Embrujamiento de tu voz.<br>\
+Sólo tu adiós, aquel adiós de despedida<br>\
+Por siempre me hablará de nuestro amor.<br>\
+<br>\
+"}) 
+
+
 lirica.push({"faixa":"Mendocina","lirica":"Mendocina"})
-lirica.push({"faixa":"Jugando jugando","lirica":"Jugando jugando"})
+lirica.push({"faixa":"Jugando jugando","lirica":"Al vernos, nomás<br>\
+Ya reímos los dos<br>\
+Y sin tiempo a pensar<br>\
+Dimos vida a la emoción<br>\
+Tus ojitos, después besaba<br>\
+Y en mi boca, feliz soñabas<br>\
+Jugando, nomás<br>\
+Comenzamos los dos<br>\
+Y jugando, llegó el amor<br>\
+Jugando te encontré<br>\
+Jugando te besé<br>\
+Y así nomás, jugando<br>\
+De pronto comprobé<br>\
+Que cada día más<br>\
+Me estabas tú gustando<br>\
+Contigo yo aprendí a soñar<br>\
+Contigo yo aprendí a reír<br>\
+Me siento tan dichoso<br>\
+Que si fuera un sueño<br>\
+Temo despertar sin ti<br>\
+Jugando te escuché<br>\
+Jugando te miré<br>\
+Y así nomás, jugando<br>\
+De pronto el corazón<br>\
+Me dijo que por ti<br>\
+Me estaba enamorando<br>\
+Y hoy sé que te amo tanto, amor<br>\
+Como jamás soñé querer<br>\
+Jugando todo fue<br>\
+Y así fue que encontré<br>\
+Tu amor<br>\
+Jugando te escuché<br>\
+Jugando te miré<br>\
+Y así nomás, jugando<br>\
+De pronto el corazón<br>\
+Me dijo que por ti<br>\
+Me estaba enamorando<br>\
+Y hoy sé que te amo tanto, amor<br>\
+Como jamás soñé querer<br>\
+Jugando todo fue<br>\
+Y así fue que encontré<br>\
+Tu amor<br>\
+"})
+
+
 lirica.push({"faixa":"Buscandote","lirica":"Buscandote"})
 lirica.push({"faixa":"Sangre de mi sangre","lirica":"Sangre de mi sangre"})
 lirica.push({"faixa":"Valsinha","lirica":"Valsinha"})
@@ -32,10 +149,521 @@ lirica.push({"faixa":"Yo naci para quererte","lirica":"Yo naci para quererte"})
 lirica.push({"faixa":"Mi cotorrito boemio","lirica":"Mi cotorrito boemio"})
 lirica.push({"faixa":"Las quarenta","lirica":"Las quarenta"})
 lirica.push({"faixa":"No quiero verte llorar","lirica":"No quiero verte llorar"})
-lirica.push({"faixa":"Nunca tuvo novio","lirica":"Nunca tuvo novio"})
+
+
+
+lirica.push({"faixa":"Fecho o meu jardim","lirica":"Eu te respondo mesmo assim cantando<br>\
+Exacerbando os sonhos meus de então:<br>\
+Lágrimas frias, creias ou não creias<br>\
+Tantas chorei-as que fiz um Jordão<br>\
+<br>\
+Tu me perguntas por que, solitário<br>\
+Inda mais vário sou que um beija-flor<br>\
+Ai, quantas vezes cumprindo o fadário<br>\
+Fui ao calvário do falsário amor!<br>\
+<br>\
+Quando a primeira confessei que amava<br>\
+E ela jurava eterno afeto a mim<br>\
+Senti minh'alma tão feliz, vaidosa<br>\
+Mais orgulhosa que a de um querubim<br>\
+Para ofertar-lhe desprendi a rosa<br>\
+A mais formosa do espiritual jardim<br>\
+<br>\
+Rosas, camélias, dálias, açucenas<br>\
+Lírios, verbenas, cravos, resedás<br>\
+Íris, violetas, manacás, mil flores<br>\
+Tantos primores dispensei em vão<br>\
+Jardim não teve nenhuma rainha<br>\
+Como a que eu tinha no meu coração<br>\
+<br>\
+Vieste tarde! Nem agora existe<br>\
+Um golvo triste de funéreo dó<br>\
+De tantas flores que eram meus carinhos<br>\
+Só vejo espinhos, folhas secas só<br>\
+<br>\
+O amor-perfeito que eu tinha em meu peito<br>\
+Perdeu a vida, emurcheceu por fim<br>\
+Mas essa flor modou-se, emurchecida<br>\
+Numa ferida que viceja em mim<br>\
+Eis minha vida, a minha história é esta<br>\
+Nada mais resta, fecho o meu jardim"})
+
+
+lirica.push({"faixa":"A rua dos meus ciúmes","lirica":"Na rua dos meus ciúmes<br>\
+Onde eu morei e tu moras<br>\
+Vi-te passar fora de horas<br>\
+Com a tua nova paixão<br>\
+<br>\
+De mim não esperes queixumes<br>\
+Quer seja desta ou daquela<br>\
+Pois sinto só pena dela<br>\
+E até lhe dou meu perdão<br>\
+Na rua dos meus ciúmes<br>\
+Deixei o meu coração<br>\
+<br>\
+Ainda que me custe a vida<br>\
+Pensarei com ar sereno<br>\
+Que esse teu ombro moreno<br>\
+Beijos de amor vão queimar<br>\
+<br>\
+Saudades, são fé perdida<br>\
+São folhas mortas ao vento<br>\
+Que eu piso sem um lamento<br>\
+Na tua rua, ao passar<br>\
+Ainda que me custe a vida<br>\
+Não hás-de ver-me chorar"})
+
+
+lirica.push({"faixa":"Olvidame","lirica":"Cuando estuve convencido<br>\
+Que me habías abandonado,<br>\
+Con un poco de amargura<br>\
+Y sin saber yo el porqué,<br>\
+Aquella noche en mi pieza<br>\
+En el rincón más oscuro,<br>\
+Hermanao en mi tragedia<br>\
+A escondidas te lloré.<br>\
+<br>\
+No me acuerdo si eras mala,<br>\
+Ni me acuerdo si eras buena,<br>\
+Sólo sé que en la pobreza<br>\
+De mi triste soledad,<br>\
+Fuiste el sol de mi vida<br>\
+De esta vida tan amarga,<br>\
+Que será peor que nunca<br>\
+Porque nunca ya vendrás.<br>\
+<br>\
+Me lo dice amargamente, mi conciencia,<br>\
+Me lo echa siempre en cara, mi pobreza,<br>\
+Que era mucha tu belleza<br>\
+Para este humilde rincón.<br>\
+<br>\
+Por eso nunca podré reprocharte<br>\
+Que le busques rumbo a tu vida,<br>\
+Porque a mi lado tendrías<br>\
+Sólo el beso del dolor.<br>\
+<br>\
+Porque la vida es mezquina<br>\
+Tiene alma de usurera,<br>\
+Te da un poco de alegría<br>\
+Pa´ cobrarte con dolor.<br>\
+<br>\
+Por eso es que buenamente<br>\
+Te perdono y te consuelo,<br>\
+A vos te toca olvidarme<br>\
+A mí pensar por los dos.<br>\
+<br>\
+Letra y música : Miguel Bucino  (Miguel Eusebio Bucino)<br>\
+Grabado por la orquesta de Juan D´Arienzo con la voz de Alberto Echagüe. (estribillo)<br>\
+Grabado por la orquesta de Francisco Canaro con la voz de Roberto Maida. (1938)<br>"})
+
+
+lirica.push({"faixa":"Paisaje","lirica":"Te compré una tarde paisaje lejano,<br>\
+el marco dorado y el tema otoñal.<br>\
+Te colgué en el muro frente a su retrato,<br>\
+frente a su retrato que ya no está más.<br>\
+<br>\
+Es tal vez por eso que recién me angustian<br>\
+tu tono velado, tu sombra, tu gris,<br>\
+tu cielo techado de nubes y bruma,<br>\
+tu parque llorando con lluvia de abril.<br>\
+<br>\
+¿Quién será, quien será<br>\
+que en tu tela pintó<br>\
+la quietud otoñal del pinar?<br>\
+¿Y esa luz de olvido,<br>\
+y el confín perdido,<br>\
+y el camino herido de azul<br>\
+y la soledad?<br>\
+<br>\
+¿Quién será que una vez<br>\
+te encontró como sos<br>\
+y logró comprender tu color?<br>\
+¿Qué alma, qué alma buena<br>\
+vio la pena, pena<br>\
+de la nube gris,<br>\
+del camino azul,<br>\
+del dolor de abril?<br>\
+<br>\
+Soledad de nadie colgada del muro.<br>\
+Hoy sé que mi vida lo mismo que vos<br>\
+sólo es un paisaje lejano y oscuro<br>\
+sin plata de ensueño, sin oro de amor.<br>\
+<br>\
+Somos... sí, lo mismo, con igual destino.<br>\
+Garúa borrosa de un día de abril.<br>\
+Un nido vacío y un viejo camino<br>\
+y un aire de ausencia muy triste y muy gris."})
+
+
+lirica.push({"faixa":"Temblando","lirica":"Linda estaba la tarde en que la vide,<br>\
+el patio de su rancho acomodando<br>\
+y aunque guapo pa'todo me sentía,<br>\
+no pude hablarle y me quedé temblando.<br>\
+<br>\
+Estaba como nunca la había visto,<br>\
+vestido livianito de zaraza,<br>\
+con el pelo volcao sobre los hombros<br>\
+era una virgen que encontré en la casa.<br>\
+<br>\
+Ni ella ni yo, ninguno dijo nada,<br>\
+con sus ojazos me siguió quemando,<br>\
+dejó la escoba que tenía en la mano,<br>\
+me quiso hablar y se quedó temblando.<br>\
+<br>\
+Era el recuerdo del amor primero,<br>\
+amor nacido en una edad temprana,<br>\
+como esas flores rústicas del campo<br>\
+que nacen de la noche a la mañana.<br>\
+<br>\
+Amor que está oculto en los adobes<br>\
+de su rancho paterno tan sencillo<br>\
+y en la corteza del ombú del patio<br>\
+escrito con la punta del cuchillo.<br>\
+<br>\
+Me di vuelta pisando despacito,<br>\
+como quien desconfía de una trampa,<br>\
+envolviendo recuerdos y emociones<br>\
+entre las listas de mi poncho pampa.<br>\
+<br>\
+No sé que me pasó, monté a caballo<br>\
+y me fui galopiando a ríenda suelta,<br>\
+con todos los recuerdos y emociones<br>\
+que en las listas del poncho saqué envueltas.<br>\
+<br>\
+Linda estaba la tarde en que la vide,<br>\
+el patio de su rancho acomodando.<br>\
+La tarde en que guapo me sentía<br>\
+no pude hablarle y me quedé temblando."})
+
+
+lirica.push({"faixa":"Nunca tuvo novio","lirica":"Pobre solterona te has quedado<br>\
+Sin ilusión, sin fe...<br>\
+Tu corazón de angustias se ha enfermado,<br>\
+Puesta de sol es hoy tu vida trunca.<br>\
+Sigues como entonces, releyendo<br>\
+El novelón sentimental,<br>\
+En el que una niña aguarda en vano<br>\
+Consumida por un mal de amor.<br>\
+<br>\
+En la soledad<br>\
+De tu cuarto de soltera está el dolor.<br>\
+Triste realidad<br>\
+Es el fin de tu jornada sin amor...<br>\
+Lloras y al llorar<br>\
+Van las lágrimas temblando tu emoción;<br>\
+En las hojas de tu viejo novelón<br>\
+Te ves sin fuerzas palpitar.<br>\
+Deja de llorar<br>\
+Por el príncipe soñado que no fue<br>\
+Hasta a ti a volcar<br>\
+El rimero melodioso de su voz.<br>\
+Tras el ventanal,<br>\
+Mientras pega la llovizna en el cristal<br>\
+Con tus ojos más nublados de dolor<br>\
+Soñás un paisaje de amor.<br>\
+<br>\
+Nunca tuvo novio, ¡pobrecita!<br>\
+¿Por qué el amor no fue<br>\
+A su jardin de humilde muchachita<br>\
+A reanimar las flores de sus años?.<br>\
+¡Yo, con mi montón de desengaños<br>\
+Igual que vos, vivo sin luz,<br>\
+Sin una caricia venturosa<br>\
+Que haga olvidar mi cruz!"})
+
+
+lirica.push({"faixa":"Te odio y te quiero","lirica":"Me muerdo los labios para no llamarte<br>\
+Me queman tus besos, me sigue tu voz<br>\
+Pensando que hay otro que pueda besarte<br>\
+Se llena mi pecho de rabia y rencor<br>\
+<br>\
+Prendida en la fiebre brutal de mi sangre<br>\
+Te llevo muy dentro, muy dentro de mí<br>\
+Te niego, te busco, te odio y te quiero<br>\
+Y tengo en el pecho un infierno por ti<br>\
+<br>\
+Te odio y te quiero<br>\
+Porque a ti te debo<br>\
+Mis horas amargas<br>\
+Mis horas de miel<br>\
+Te odio y te quiero<br>\
+Fuiste el milagro<br>\
+La espina que duele<br>\
+Y el beso de amor<br>\
+Por eso te odio<br>\
+Por eso te quiero<br>\
+Con toda la fuerza<br>\
+De mi corazón<br>\
+<br>\
+No quiero nombrarte y busco en las copas<br>\
+El vino de olvido que nunca se da<br>\
+Pensando arrancarte, busco en otras bocas<br>\
+El fuego que borre tu beso inmortal<br>\
+<br>\
+Y todo es inútil, ni copas ni besos<br>\
+Pueden separarte, separarte de mí<br>\
+Te llevo en mi sangre, te odio y te quiero<br>\
+Y tengo en el pecho un infierno por ti<br>\
+<br>\
+Te odio y te quiero<br>\
+Porque a ti te debo<br>\
+Mis horas amargas<br>\
+Mis horas de miel<br>\
+<br>\
+Te odio y te quiero<br>\
+Fuiste el milagro<br>\
+La espina que duele<br>\
+Y el beso de amor<br>\
+<br>\
+Por eso te odio<br>\
+Por eso te quiero<br>\
+Con toda las fuerzas<br>\
+De mi corazón"})
+
+lirica.push({"faixa":"Dos años","lirica":"La noche que te fuiste<br>\
+Creí que moriría<br>\
+Creí que no podría vivir sin tu querer<br>\
+Y luego mucho tiempo lloré<br>\
+Por tu cariño<br>\
+Como si fuera un niño<br>\
+Sin luz y sin calor<br>\
+<br>\
+Recuerdo todavía<br>\
+Cuando salí a buscarte<br>\
+Y luego, al no encontrarte, sentí pena y dolor<br>\
+Al escuchar tu nombre correr<br>\
+De boca en boca<br>\
+Entre la risa loca del mundo del placer<br>\
+<br>\
+Hoy se cumplen dos años<br>\
+De que tú te marchaste<br>\
+Si vieras tú qué lindo<br>\
+Está el hijo que dejaste<br>\
+Él cree que tú eras de amor<br>\
+Y encantos, llena<br>\
+Y que, por ser muy buena, te recogió el Señor<br>\
+<br>\
+Por eso es que no quiero<br>\
+Que vuelvas a mi puerta<br>\
+Él cree que estás muerta<br>\
+Y así es mucho mejor<br>\
+Cuando alguien le pregunta por ti<br>\
+Dice con celo<br>\
+\"Mamita era muy linda, y ahora está en el cielo\"<br>\
+<br>\
+Hoy se cumplen dos años<br>\
+De que tú te marchaste<br>\
+Si vieras tú qué lindo<br>\
+Está el hijo que dejaste<br>\
+Él cree que tú eras de amor<br>\
+Y encantos, llena<br>\
+Y que, por ser muy buena, te recogió el Señor<br>\
+<br>\
+Por eso es que no quiero<br>\
+Que vuelvas a mi puerta<br>\
+Él cree que estás muerta<br>\
+Y así es mucho mejor<br>\
+Cuando alguien le pregunta por ti<br>\
+Dice con celo<br>\
+\"Mamita era muy linda, y ahora está en el cielo\"<br>\
+Cuando alguien le pregunta por ti<br>\
+Dice con celo<br>\
+\"Mamita era muy linda, y ahora está en el cielo\""})
+
+
 lirica.push({"faixa":"De puro guapo","lirica":"De puro guapo"})
+
+
+
+
+
+
+lirica.push({"faixa":"Verdes eran tus ojos","lirica":"Verdes como los llanos eran tus ojos<br>\
+Verdes, como dicen que es la esperanza<br>\
+Verdes como la mar cuando en las tardes<br>\
+Vierte el sol su postrer rayo de grana<br>\
+<br>\
+Y eran así dos lagos y serenos<br>\
+Puse en ellos la nave de mi vida<br>\
+Y en el frío arenal de tus desprecios<br>\
+Se ahogaba la ilusión de cada día<br>\
+<br>\
+Hoy que los dos estamos lejos, lejos<br>\
+Cubierta nuestra faz por la mentira<br>\
+Hoy, ya puedo gritar que eran tus ojos<br>\
+El solo faro que alumbró mi vida<br>\
+Hoy ya puedo gritar que eran tus ojos<br>\
+El solo faro que alumbró mi vida<br>\
+<br>\
+<br>\
+Eran así dos lagos y serenos<br>\
+Puse en ellos la nave de mi vida<br>\
+Y en el frío arenal de tus desprecios<br>\
+Se ahogaba la ilusión de cada día<br>\
+<br>\
+Hoy que los dos estamos lejos, lejos<br>\
+Cubierta nuestra faz por la mentira<br>\
+Hoy ya puedo gritar que eran tus ojos<br>\
+El solo faro que alumbró mi vida<br>\
+Hoy ya puedo gritar que eran tus ojos<br>\
+El solo faro que alumbró mi vida"})
+
+
+lirica.push({"faixa":"Que nadie sepa mi sufrir","lirica":"No te asombres si te digo lo que fuiste<br>\
+Un ingrato con mi pobre corazón<br>\
+Porque el fuego de tus lindos ojos negros<br>\
+Alumbraron el camino de otro amor<br>\
+Y pensar que te adoraba tiernamente<br>\
+Que a tu lado como nunca me sentí<br>\
+Y por estas cosas raras de la vida<br>\
+Sin el beso de tu boca yo me vi<br>\
+Amor de mis amores, amor mío<br>\
+¿Qué me hiciste?<br>\
+Que no puedo conformarme<br>\
+Sin poderte contemplar<br>\
+Ya que pagaste mal a mi cariño tan sincero<br>\
+Lo que conseguirás<br>\
+Que no te nombre nunca más<br>\
+Amor de mis amores<br>\
+Si dejaste de quererme<br>\
+No hay cuidado, que la gente<br>\
+De eso no se enterará<br>\
+Que gano con decir que un hombre cambio mi suerte<br>\
+Se burlarán de mí<br>\
+Que nadie sepa<br>\
+Mi sufrir<br>\
+Playa Limbo y Dinamita<br>\
+No te asombres si te digo lo que fuiste<br>\
+Un ingrato con mi pobre corazón<br>\
+Porque el fuego de tus lindos ojos negros<br>\
+Alumbraron el camino de otro amor<br>\
+Y pensar que te adoraba tiernamente<br>\
+Que a tu lado como nunca me sentí<br>\
+Y por estas cosas raras de la vida<br>\
+Sin el beso de tu boca yo me vi<br>\
+Amor de mis amores<br>\
+Si dejaste de quererme<br>\
+No hay cuidado, que la gente<br>\
+De eso no se enterará<br>\
+Que gano con decir<br>\
+Que un hombre cambió mi suerte<br>\
+Se burlarán de mí<br>\
+Que nadie sepa mi sufrir"})
+
+
+
 lirica.push({"faixa":"Tigre viejo","lirica":"-----"})
 
+
+lirica.push({"faixa":"Odiame","lirica":"Ódiame por piedad yo te lo pido<br>\
+Ódiame sin medida ni clemencia<br>\
+Odio quiero más que indiferencia<br>\
+Porque el rencor quiere menos que el olvido<br>\
+<br>\
+Ódiame por piedad yo te lo pido<br>\
+Ódiame sin medida ni clemencia<br>\
+Odio quiero más que indiferencia<br>\
+Porque el rencor quiere menos que el olvido<br>\
+<br>\
+Si tú me odias quedare yo convencido<br>\
+De que me amaste mujer con insistencia<br>\
+Pero ten presente de acuerdo a la experiencia<br>\
+Que tan sólo se odia lo querido<br>\
+<br>\
+Pero ten presente de acuerdo a la experiencia<br>\
+Que tan sólo se odia lo querido<br>\
+<br>\
+<br>\
+¿Que vale más? yo humilde y tú orgullosa<br>\
+¿O vale más tu débil hermosura?<br>\
+Piensa que en el fondo de la fosa<br>\
+Llevaremos la misma vestidura<br>\
+¿Que vale más? yo humilde y tú orgullosa<br>\
+¿O vale más tu débil hermosura?<br>\
+Piensa que en el fondo de la fosa<br>\
+Llevaremos la misma vestidura<br>\
+<br>\
+Si tú me odias quedaré yo convencido<br>\
+De que me amaste mujer con insistencia<br>\
+Pero ten presente de acuerdo a la experiencia<br>\
+Que tan sólo se odia lo querido<br>\
+Pero ten presente de acuerdo a la experiencia<br>\
+Que tan sólo se odia lo querido"})
+
+
+lirica.push({"faixa":"No me lo digas","lirica":"No me lo digas, lo veo en tu mirada<br>\
+que ha muerto tu cariño, que no me queda nada<br>\
+No me lo digas, ahorremos la torpeza<br>\
+de dar explicaciones, que llenen de tristeza<br>\
+<br>\
+Es preferible, si el amor asedia<br>\
+cubrir de velo y olvido el corazón<br>\
+Evitaremos así que la tragedia<br>\
+se filtre en nuestras almas, como una maldición<br>\
+<br>\
+Yo comprendo que todo acabó, que es inútil nuestro engaño<br>\
+el amor que sentimos murió, y hoy ya somos dos extraños<br>\
+De qué vale seguir si al final, hallaremos más grotesco el adiós<br>\
+olvidemos que ayer fue un embrujo de amor, el querer de los dos<br>\
+<br>\
+No me lo digas, mejor que tus sonrojos<br>\
+lo está mostrando tu alma, sonriéndote en los ojos<br>\
+No me lo digas, cualquier palabra tuya<br>\
+sería en este instante, un grito de aleluya<br>\
+<br>\
+Otros amores llegaron con su aurora<br>\
+a nuestras vidas trayendo un nuevo edén<br>\
+Sin un reproche por sendas bien distintas<br>\
+vos te marchas ahora, y yo me iré también<br>\
+<br>\
+Yo comprendo que todo acabó, que es inútil nuestro engaño<br>\
+el amor que sentimos murió, y hoy ya somos dos extraños<br>\
+De qué vale seguir si al final, hallaremos más grotesco el adiós<br>\
+olvidemos que ayer fue un embrujo de amor, el querer de los dos"})
+
+lirica.push({"faixa":"Farolito de papel","lirica":"En tus grupos me ensarté<br>\
+y en tu arrullo me dormí<br>\
+y dormido me quedé<br>\
+solo, pato... y hecho un gil.<br>\
+Esta noche me encontré<br>\
+la cartita del adiós<br>\
+en la almohada donde ayer<br>\
+me juraste eterno amor.<br>\
+Farolito de papel,<br>\
+que alumbraste mi bulín<br>\
+con la luz amiga y fiel<br>\
+de amoroso berretín.<br>\
+Otro lado alumbrás hoy,<br>\
+te apagaste para mí.<br>\
+Y yo a oscuras aquí estoy,<br>\
+solo, pato... y hecho un gil.<br>\
+<br>\
+Solo quedé...<br>\
+¡Yo no tenía más que a vos!...<br>\
+Pato... porque<br>\
+¡eras mi mundo de ilusión!<br>\
+Vuelvo a prender<br>\
+el triste pucho del ayer,<br>\
+para aliviar<br>\
+esta amargura brava<br>\
+que hoy me das...<br>\
+<br>\
+Vos sos linda, vos tenés<br>\
+pinta fina... y engrupís.<br>\
+Vos un mundo prometés<br>\
+y sin dar te despedís.<br>\
+Vos el traje te adornás<br>\
+con mi otario corazón,<br>\
+y los de otros, que al pasar<br>\
+tu reflejo encandiló...<br>\
+Pero, al fin, apenas sos<br>\
+Farolito de Papel<br>\
+y una noche en lo mejor<br>\
+chamuscada has de caer.<br>\
+Cargarás también tu cruz<br>\
+cuando sepan que tenés<br>\
+mucho humo y poca luz,<br>\
+Farolito de Papel..."})
 
  
 lirica.push({"faixa":"Soñar y nada más","lirica":"No despiertes si sueñas amores<br>\
@@ -733,12 +1361,83 @@ lirica.push({"faixa":"Lagrimas de sangre",
 })
 
 lirica.push({"faixa":"Junto a tu corazón",
-"lirica":"Que noche orrible para mi<bR>"
+"lirica":"Qué noche horrible para mí.<br>\
+Todo en mi cuarto es frío;<br>\
+Te debo todo, amor, a ti...<br>\
+Desolación y hastío.<br>\
+Mi vida entera te la di<br>\
+Y este cariño mío...<br>\
+Pichón herido que buscó nido y calor<br>\
+Junto a tu corazón.<br>\
+<br>\
+Hoy como ayer<br>\
+Mis pobres ojos han quedado sin luz<br>\
+Y en mis desvelos solamente estás tú<br>\
+Como una burla a mi dolor...<br>\
+Hoy como ayer<br>\
+Vuelvo a quedar tan solo...<br>\
+Fue tanto el daño que me hiciste<br>\
+Cuando olvidando mi querer te fuiste...<br>\
+Hoy como ayer<br>\
+Envuelto en sombras otra vez quedaré<br>\
+Y entre esas sombras una sombra seré<br>\
+Para acordarme más de ti...<br>\
+Hoy como ayer<br>\
+¡hoy como ayer te quiero!<br>\
+Me arrastraré por mil senderos<br>\
+Y seguirás viviendo en mí.<br>\
+<br>\
+Si alguna vez tu corazón<br>\
+Se aturde en el pasado,<br>\
+No pienses, vida, en mi rencor<br>\
+Por lo que me has dejado...<br>\
+Yo seguiré con este amor<br>\
+Sangrándose a mi lado...<br>\
+Y una mortaja con mis lágrimas haré<br>\
+Para ese muerto ayer."
 })
 
-lirica.push({"faixa":"Que no sepan las estrellas",
-"lirica":"El mar, orizonte y sempre el mar<bR>"
-})
+lirica.push({"faixa":"Que no sepan las estrellas", "lirica":"El mar...!<br>\
+¡Horizonte!... Y siempre el mar<br>\
+que en la oscura inmensidad<br>\
+ruge y brama con dolor...<br>\
+Tal vez...<br>\
+Tiene celos de tu amor,<br>\
+y hecho espumas su furor<br>\
+nos pretende separar.<br>\
+Y el mar...<br>\
+No comprende que eres mía,<br>\
+y que al puerto de la vida<br>\
+mi querer te ha de llevar.<br>\
+<br>\
+Duerme... Sueña...<br>\
+Que no sepan las estrellas<br>\
+que una de ellas, fugitiva,<br>\
+se ocultó en mi corazón.<br>\
+Alma mía... no despiertes...<br>\
+Porque sé que he de perderte<br>\
+y morir será mejor.<br>\
+No despiertes,<br>\
+ensombrece tus pupilas<br>\
+pues la noche te vigila<br>\
+y la luna alerta está...<br>\
+Duerme... Sueña...<br>\
+Que ni el mar, ni las estrellas<br>\
+ni la luna, ni la noche,<br>\
+de mí te alejarán.<br>\
+<br>\
+El mar...<br>\
+Salta y grita en su ansiedad,<br>\
+mas su furia no podrá<br>\
+conquistar tu corazón.<br>\
+Y al ver...<br>\
+Que la playa cerca está<br>\
+y sus olas morirán<br>\
+a tus pies sin ilusión.<br>\
+El mar...<br>\
+Rodará con sus abismos,<br>\
+repitiendo que te ha visto<br>\
+en mis brazos despertar."})
 
 lirica.push({"faixa":"Solo compasion",
 "lirica":".....<bR>"
@@ -753,7 +1452,15 @@ lirica.push({"faixa":"Gitana Rusa","lirica":"Embrujamiento"})
 lirica.push({"faixa":"O teu olhar","lirica":"Desde que vi os teus olhos"})
 
 
-lirica.push({"faixa":"Victrolera","lirica":"Victrolera"})
+lirica.push({"faixa":"La Victrolera","lirica":"Victrolera noviecita de mi vida<br>\
+por que te fuiste un dia<br>\
+y huiste con otro amor<br>\
+si yo tanto te queria<br>\
+que eras alma y vida mia<br>\
+volve volve victrolera<br>\
+que me mata el dolor"})
+
+
 lirica.push({"faixa":"Fuimos","lirica":"Fuimos"})
 lirica.push({"faixa":"Fruta amarga","lirica":"Fruta amarga"})
 
@@ -3566,7 +4273,7 @@ Ninguno es culpable, si es que hay una culpa.<br>\
 Por eso, la mano que te di en silencio<br>\
 no tembló al partir.<br>\
 <br>\
-<br>Haremos de cuenta que todo fue un sueño,<br>\
+Haremos de cuenta que todo fue un sueño,<br>\
 que fue una mentira habernos buscao;<br>\
 así, buenamente, nos queda el consuelo<br>\
 de seguir creyendo que no hemos cambiao.<br>\

@@ -525,7 +525,7 @@ function wbrano(x){
     			if (loops!='looptanda')	
     			{	tanda++;
     				if (loops!='noloop')
-    				{	if(tanda >= c[0].length){
+    				{	if(tanda >= c.length){
     					tanda=0
     					brano=1
     					}
