@@ -3356,7 +3356,9 @@ Fue noche amarga del corazón<br>\
 Deja esas cartas<br>\
 Vuelve a tu antigua ilusión<br>\
 Junto al dolore que abre una herida<br>\
-llega la vida traendo otro amor ..."})
+llega la vida traendo otro amor ...<br>\
+<hr color=lime>\
+<a href='https://www.todotango.com/historias/cronica/183/Desde-el-alma-Desde-el-alma-un-vals-criollo-y-romantico/' target='*'>https://www.todotango.com/historias/cronica/183/Desde-el-alma-Desde-el-alma-un-vals-criollo-y-romantico/</a>"})
 
 
 lirica.push({"faixa":"sin palabras", "lirica":"Nació de ti...<br>\
