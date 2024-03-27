@@ -8,7 +8,7 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
-lirica.push({"faixa":"Desde el_alma (vals)","lirica":"Hermano cuerpo estás<br>\
+lirica.push({"faixa":"Desde el alma (vals)","lirica":"Hermano cuerpo estás<br>\
 cansado desde el cerebro a la misericordia<br>\
 del paladar al valle del deseo<br>\
 <br>\
@@ -3335,10 +3335,29 @@ Como se o mar e o vento<br>\
 Nascessem dentro da gente"});
 
 lirica.push({"faixa":"Desde el alma", "lirica":"Alma, si tanto te han herido<br>\
-Porque te niegas al olvido<br>Porque prefieres<br>Llorar lo que has perdido<br>Buscar lo que has querido<br>Llamar lo que murio<br>Vives inutilmente triste<br>Y se que nunca mereciste<br>Pagar con penas<br>La culpa de ser buena<br>Tan buena como fuiste<br>Por amor<br>Fue lo que empezo una vez<br>Lo que despues dejo de ser<br>Lo que al final<br>Por culpa de un error<br>Fue noche amarga del corazon<br>Deja esa carga<br>Vuelve a tu antigua ilusión…"})
+Porque te niegas al olvido<br>\
+Porque prefieres<br>\
+Llorar lo que has perdido<br>\
+Buscar lo que has querido<br>\
+Llamar lo que murió<br>\
+<br>\
+Vives inutilmente triste<br>\
+Y sé que nunca mereciste<br>\
+Pagar con penas<br>\
+La culpa de ser buena<br>\
+Tan buena como fuíste<br>\
+Por amor<br>\
+Fue lo que empezó una vez<br>\
+Lo que despues dejó de ser<br>\
+Lo que al final<br>\
+Por culpa de un error<br>\
+Fue noche amarga del corazón<br>\
+<br>\
+Deja esas cartas<br>\
+Vuelve a tu antigua ilusión<br>\
+Junto al dolore que abre una herida<br>\
+llega la vida traendo otro amor ..."})
 
-lirica.push({"faixa":"Desde el alma!", "lirica":"Alma, si tanto te han herido<br>\
-Porque te niegas al olvido<br>Porque prefieres<br>Llorar lo que has perdido<br>Buscar lo que has querido<br>Llamar lo que murio<br>Vives inutilmente triste<br>Y se que nunca mereciste<br>Pagar con penas<br>La culpa de ser buena<br>Tan buena como fuiste<br>Por amor<br>Fue lo que empezo una vez<br>Lo que despues dejo de ser<br>Lo que al final<br>Por culpa de un error<br>Fue noche amarga del corazon<br>Deja esa carga<br>Vuelve a tu antigua ilusión…"})
 
 lirica.push({"faixa":"sin palabras", "lirica":"Nació de ti...<br>\
 buscando una canción que nos uniera,<br>\
