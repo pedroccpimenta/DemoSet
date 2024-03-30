@@ -8,6 +8,74 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+
+lirica.push({"faixa":"Mentindo","lirica":"Sim, eu sou feliz,<br>\
+Sem amar ninguém,<br>\
+Sim, desejo rir, brincar, sonhar, cantar, sorrir,<br>\
+Nada pode me impedir.<br>\
+<br>\
+Eu amei alguém,<br>\
+Que me fez sofrer,<br>\
+E pra nunca mais chorar deixei de amar,<br>\
+E assim, hoje eu vivo a cantar.<br>\
+<br>\
+Quem teve um amor,<br>\
+E esse amor não conseguiu esquecer,<br>\
+Não, não pode entender por que sorrindo,<br>\
+Hoje eu vivo a cantar.<br>\
+<br>\
+Quem amou alguém,<br>\
+E passou por tudo quanto eu passei,<br>\
+Ao ouvir há de ver que estou mentindo,<br>\
+Talvez chore a cantar.<br>\
+<br>\
+Sou feliz ..."}) 
+
+
+lirica.push({"faixa":"Y todavia te quiero","lirica":"Cada vez que te tengo en mis brazos<br>\
+Que miro tus ojos, que escucho tu voz<br>\
+Y que pienso en mi vida en pedazos<br>\
+El pago de todo lo que hago por vos<br>\
+Me pregunto: ¿por qué no termino<br>\
+Con tanta amargura, con tanto dolor?<br>\
+Si a tu lado no tengo destino<br>\
+¿Por qué no me arranco del pecho este amor?<br>\
+¿Por qué<br>\
+Si mentís una vez<br>\
+Si mentís otra vez<br>\
+Y volvés a mentir?<br>\
+¿Por qué<br>\
+Yo te vuelvo a abrazar<br>\
+Yo te vuelvo a besar<br>\
+Aunque me hagas sufrir?<br>\
+Yo sé<br>\
+Que es tu amor una herida<br>\
+Que es la cruz de mi vida<br>\
+Y mi perdición<br>\
+¿Por qué<br>\
+Me atormento por vos<br>\
+Y mi angustia por vos<br>\
+Es peor cada vez?<br>\
+¿Y por qué con el alma en pedazos<br>\
+Me abrazo a tus brazos<br>\
+Si no me querés?<br>\
+Yo no puedo vivir como vivo<br>\
+Lo sé, lo comprendo con toda razón<br>\
+Si a tu lado tan solo recibo<br>\
+La amarga caricia de tu compasión<br>\
+Sin embargo, ¿por qué yo no grito<br>\
+Que es toda mentira, mentira tu amor<br>\
+Y por qué de tu amor necesito<br>\
+Si en él solo encuentro martirio y dolor?<br>\
+¿Por qué<br>\
+Me atormento por vos<br>\
+Y mi angustia por vos<br>\
+Es peor cada vez?<br>\
+¿Y por qué con el alma en pedazos<br>\
+Me abrazo a tus brazos<br>\
+Si no me querés?"}) 
+
+
 lirica.push({"faixa":"Desde el alma (vals)","lirica":"Hermano cuerpo estás<br>\
 cansado desde el cerebro a la misericordia<br>\
 del paladar al valle del deseo<br>\
@@ -744,6 +812,132 @@ Igual, igual que hoy...!<br>\
 Letra : Federico Silva  (René Federico Silva Iraluz)<br>\
 Música : Donato Racciatti"})
 
+lirica.push({"faixa":"Hasta siempre, amor!","lirica":
+lirica[lirica.length-1].lirica
+})
+
+lirica.push({"faixa":"The windmills of your mind","lirica":"The windmills of your mind<br>\
+… Round, like a circle in a spiral<br>\
+Like a wheel within a wheel<br>\
+Never ending or beginning<br>\
+On an ever-spinning reel<br>\
+Like a snowball down a mountain<br>\
+Or a carnival balloon<br>\
+Like a carousel that's burning<br>\
+Running rings around the moon<br>\
+<br>\
+… Like a clock whose hands are sweeping<br>\
+Past the minutes of its face<br>\
+And the world is like an apple<br>\
+Whirling silently in space<br>\
+Like the circles that you find<br>\
+In the windmills of your mind.<br>\
+<br>\
+… Like a tunnel that you follow<br>\
+To a tunnel of it's own<br>\
+Down a hollow to a cavern<br>\
+Where the sun has never shone<br>\
+Like a door that keeps revolving<br>\
+In a half-forgotten dream<br>\
+Or the ripples from a pebble<br>\
+Someone tosses in a stream<br>\
+<br>\
+… Like a clock whose hands are sweeping<br>\
+Past the minutes of its face<br>\
+And the world is like an apple<br>\
+Whirling silently in space<br>\
+Like the circles that you find<br>\
+In the windmills of your mind.<br>\
+<br>\
+… Keys that jingle in your pocket<br>\
+Words that jangle in your head<br>\
+Why did summer go so quickly<br>\
+Was it something that you said<br>\
+Lovers walk along the shore<br>\
+And leave their footprints in the sand<br>\
+Is the sound of distant drumming<br>\
+Just the fingers of your hand<br>\
+<br>\
+… Pictures hanging in a hallway<br>\
+And a fragment of this song<br>\
+Half-remembered names and faces<br>\
+But to whom do they belong<br>\
+When you knew that it was over<br>\
+Were you suddenly aware<br>\
+That the autumn leaves were turning<br>\
+To the color of her hair<br>\
+<br>\
+… Like a circle in a spiral<br>\
+Like a wheel within a wheel<br>\
+Never ending or beginning<br>\
+On an ever-spinning reel<br>\
+As the images unwind<br>\
+Like the circles that you find<br>\
+In the windmills of your mind.<br>\
+<br>\
+… Pictures hanging in a hallway<br>\
+And the fragment of this song<br>\
+Half-remembered names and faces<br>\
+But to whom do they belong<br>\
+When you knew that it was over<br>\
+Were you suddenly aware<br>\
+That the autumn leaves were turning<br>\
+To the color of her hair<br>\
+<br>\
+… Like a circle in a spiral<br>\
+Like a wheel within a wheel<br>\
+Never ending or beginning<br>\
+On an ever-spinning reel<br>\
+As the images unwind<br>\
+Like the circles that you find<br>\
+In the windmills of your mind."
+})
+
+lirica.push({"faixa":"Attendez que ma joie revienne","lirica":"Attendez que ma joie revienne<br>\
+Et que se meure le souvenir<br>\
+De cet amour de tant de peine<br>\
+Qui n'en finit pas de mourir<br>\
+Avant de me dire je t'aime<br>\
+Avant que je puisse vous le dire<br>\
+Attendez que ma joie revienne<br>\
+Qu'au matin je puisse sourire<br>\
+Laissez-moi, le chagrin m'emporte<br>\
+Et je vogue sur mon délire<br>\
+Laissez-moi, ouvrez cette porte<br>\
+Laissez-moi, je vais revenir<br>\
+<bR>\
+J'attendrai que ma joie revienne<br>\
+Et que soit mort le souvenir<br>\
+De cet amour de tant de peine<br>\
+Pour lequel j'ai voulu mourir<br>\
+J'attendrai que ma joie revienne<br>\
+Qu'au matin je puisse sourire<br>\
+Que le vent ait séché ma peine<br>\
+Et la nuit calmé mon délire<br>\
+Il est, paraît-il, un rivage<br>\
+Où l'on guérit du mal d'aimer<br>\
+Les amours mortes y font naufrage<br>\
+Épaves noires du passé<br>\
+<br>\
+Si tu veux que ma joie revienne<br>\
+Qu'au matin, je puisse sourire<br>\
+Vers ce pays où meurt la peine<br>\
+Je t'en prie, laisse-moi partir<br>\
+Il faut de mes amours anciennes<br>\
+Que périsse le souvenir<br>\
+Pour que libérée de ma chaîne<br>\
+Vers toi, je puisse revenir<br>\
+Alors, je t'en fais la promesse<br>\
+Ensemble nous irons cueillir<br>\
+Au jardin fou de la tendresse<br>\
+La fleur d'amour qui va s'ouvrir<br>\
+<br>\
+Mais c'est trop tôt pour dire je t'aime<br>\
+Trop tôt pour te l'entendre dire<br>\
+La voix que j'entends, c'est la sienne<br>\
+Ils sont vivants, mes souvenirs<br>\
+Pardonne-moi: c'est lui que j'aime<br>\
+Le passé ne veut pas mourir"})
 
 lirica.push({"faixa":"Quisiera amarte menos","lirica":"Primavera de mis veinte años<br>\
 Relicario de mi juventud,<br>\
