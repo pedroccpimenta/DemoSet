@@ -8,6 +8,105 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+lirica.push({"faixa":"Quiero verte una vez más","lirica":"Tarde que me invita a conversar<br>\
+Con los recuerdos<br>\
+Pena de esperarte y de llorar<br>\
+En este encierro<br>\
+<br>\
+Tanto en mi amargura te busqué<br>\
+Sin encontrarte<br>\
+Dime vida, ¿cuándo moriré?<br>\
+Para olvidarte<br>\
+<br>\
+Quiero verte una vez más<br>\
+Amada mía<br>\
+Y extasiarme en el mirar<br>\
+De tus pupilas<br>\
+Quiero verte una vez más<br>\
+Aunque me digas<br>\
+Que ya todo terminó<br>\
+Y es inútil remover<br>\
+Las cenizas de un amor<br>\
+<br>\
+Quiero verte una vez más<br>\
+Estoy tan triste<br>\
+Que no puedo recordar<br>\
+Por qué te fuiste<br>\
+Quiero verte una vez más<br>\
+Y en mi agonía<br>\
+Un alivio sentiré<br>\
+Y olvidado en un rincón<br>\
+Más tranquilo moriré<br>\
+<br>\
+Sangre que ha vertido el corazón<br>\
+Al evocarte<br>\
+Fiebre que me abrasa la razón<br>\
+Sin olvidarte<br>\
+<br>\
+Quiero verte una vez más<br>\
+Estoy, estoy tan triste<br>\
+Que no puedo recordar amor<br>\
+Por qué te fuiste<br>\
+Quiero verte una vez más<br>\
+Y en mi agonía<br>\
+Un alivio sentiré<br>\
+Y olvidado en un rincón<br>\
+Más tranquilo moriré<br>\
+<br>\
+Un alivio sentiré<br>\
+Y olvidado en mi rincón<br>\
+Más tranquilo moriré"}) 
+
+
+lirica.push({"faixa":"Mocosita","lirica":"Vencido, con el alma amargada,<br>\
+sin esperanzas, saciado de la vida,<br>\
+solloza en su bulín<br>\
+el pobre payador,<br>\
+sin hallar un consuelo a su dolor.<br>\
+Colgada de un clavo, la guitarra...<br>\
+en un rincón la tiene abandonada...<br>\
+De sus amigos<br>\
+ya no le importa nada...<br>\
+Tirado en la catrera no hace más que llorar.<br>\
+<br>\
+En alguna ocasión<br>\
+sólo se escucha esta canción:<br>\
+<br>\
+'<i>Mocosita,<br>\
+no me dejés morir, volvé al cotorro,<br>\
+que no puedo vivir.<br>\
+¡Si supieras las veces que he soñado<br>\
+que de nuevo te tenía a mi lado!<br>\
+Mocosita,<br>\
+no seas tan cruel, no me abandones...<br>\
+Quiero verte otra vez...<br>\
+Mocosita,<br>\
+no me dejes, que me mata poco a poco tu desdén.</i>'<br>\
+<br>\
+Dormía tranquilo el conventillo,<br>\
+nada turbaba el silencio de la noche<br>\
+cuando se oyó sonar<br>\
+allá en la oscuridad<br>\
+el disparo de una bala fatal.<br>\
+Corrieron ansiosos los vecinos<br>\
+que presentían el final de aquel drama<br>\
+y se encontraron,<br>\
+tirado en una cama,<br>\
+en un charco de sangre, al pobre payador.<br>\
+Pero, antes de morir,<br>\
+alguien le oyó cantar así:<br>\
+<br>\
+'<i>Mi Mocosita,<br>\
+no me dejés morir, volvé al cotorro,<br>\
+que no puedo vivir.<br>\
+¡Si supieras las veces que he soñado<br>\
+que de nuevo te tenía a mi lado!<br>\
+Mocosita,<br>\
+no seas tan cruel, no me abandones...<br>\
+Quiero verte otra vez...<br>\
+Mocosita,<br>\
+no me dejes, que me mata poco a poco tu desdén.</i>"
+}) 
 
 lirica.push({"faixa":"Mentindo","lirica":"Sim, eu sou feliz,<br>\
 Sem amar ninguém,<br>\
@@ -195,7 +294,30 @@ Tu amor<br>\
 "})
 
 
-lirica.push({"faixa":"Buscandote","lirica":"Buscandote"})
+lirica.push({"faixa":"Buscandote","lirica":"Vagar<br>\
+Con el cansancio de mi eterno andar<br>\
+Tristeza amarga de la soledad<br>\
+Ansias enormes de llegar<br>\
+<br>\
+Sabrás<br>\
+Que por la vida fui buscándote<br>\
+Que mis ensueños sin querer rompí<br>\
+Y en algún cruce los dejé<br>\
+<br>\
+Mi andar apresuré<br>\
+Con la esperanza de encontrarte a ti<br>\
+Largos caminos hilvané<br>\
+Leguas y leguas recorrí<br>\
+<br>\
+Después<br>\
+Que entre tus brazos pueda descansar<br>\
+Si lo prefieres volveré a marchar<br>\
+Por mi camino de ayer<br>\
+<br>\
+<a href='https://www.todotango.com/musica/tema/8295/Buscandote/' target='*'>www.todotango.com</a>"
+})
+
+
 lirica.push({"faixa":"Sangre de mi sangre","lirica":"Sangre de mi sangre"})
 lirica.push({"faixa":"Valsinha","lirica":"Valsinha"})
 lirica.push({"faixa":"Valsecito de antes","lirica":"Valsecito de antes"})
@@ -816,8 +938,41 @@ lirica.push({"faixa":"Hasta siempre, amor!","lirica":
 lirica[lirica.length-1].lirica
 })
 
-lirica.push({"faixa":"The windmills of your mind","lirica":"The windmills of your mind<br>\
-… Round, like a circle in a spiral<br>\
+lirica.push({"faixa":"The windmills of your mind","lirica":"<b>Les moulins de mon coœur</b><br>\
+... comme<br>\
+une pierre que l'on jette dans l'eau vive d'un ruisseau<br>\
+Qui laisse derrière elle des milliers de ronds dans l'eau<br>\
+Comme un manège de lune avec ses chevaux d'étoiles<br>\
+Comme un anneau de Saturne, un ballon de Carnaval<br>\
+Comme le chemin de ronde que font sans cesse les heures<br>\
+Le voyage autour du monde d'un tournesol dans sa fleur<br>\
+Tu fais tourner de ton nom tous les moulins de mon cœur<br>\
+<br>\
+Comme un écheveau de laine entre les mains d'un enfant<br>\
+Ou les mots d'une rengaine pris dans les harpes du vent<br>\
+Comme un tourbillon de neige, comme un vol de goélands<br>\
+Sur des forêts de Norvège, sur des moutons d'océan<br>\
+Comme le chemin de ronde que font sans cesse les heures<br>\
+Le voyage autour du monde d'un tournesol dans sa fleur<br>\
+Tu fais tourner de ton nom tous les moulins de mon cœur<br>\
+<br>\
+Ce jour-là près de la source, Dieu sait ce que tu m'as dit<br>\
+Mais l'été finit sa course, l'oiseau tomba de son nid<br>\
+Et voilà que sur le sable nos pas s'effacent déjà<br>\
+Et je suis seul à la table qui résonne sous mes doigts<br>\
+Comme un tambourin qui pleure sous les gouttes de la pluie<br>\
+Comme les chansons qui meurent aussitôt qu'on les oublie<br>\
+Et les feuilles de l'automne rencontrent des ciels moins bleus<br>\
+Et ton absence leur donne la couleur de tes cheveux<br>\
+<br>\
+Une pierre que l'on jette dans l'eau vive d'un ruisseau<br>\
+Et qui laisse derrière elle des milliers de ronds dans l'eau<br>\
+Au vent des quatre saisons, tu fais tourner de ton nom<br>\
+Tous les moulins de mon cœur<br>\
+<br>\
+<br>\
+<b>The windmills of your mind</b><br>\
+… round, like a circle in a spiral<br>\
 Like a wheel within a wheel<br>\
 Never ending or beginning<br>\
 On an ever-spinning reel<br>\
