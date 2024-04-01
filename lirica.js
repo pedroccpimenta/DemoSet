@@ -8,6 +8,129 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+lirica.push({"faixa":"Dis quand reviendras-tu","lirica":"Voilà combien de jours, voilà combien de nuits,<br>\
+Voilà combien de temps que tu es reparti,<br>\
+Tu m'as dit cette fois, c'est le dernier voyage,<br>\
+Pour nos coeurs déchirés, c'est le dernier naufrage,<br>\
+Au printemps, tu verras, je serai de retour,<br>\
+Le printemps, c'est joli pour se parler d'amour,<br>\
+Nous irons voir ensemble les jardins refleuris,<br>\
+Et déambulerons dans les rues de Paris,<br>\
+<br>\
+Dis, quand reviendras-tu,<br>\
+Dis, au moins le sais-tu,<br>\
+Que tout le temps qui passe,<br>\
+Ne se rattrape guère,<br>\
+Que tout le temps perdu,<br>\
+Ne se rattrape plus,<br>\
+<br>\
+Le printemps s'est enfui depuis longtemps déjà,<br>\
+Craquent les feuilles mortes, brûlent les feux de bois,<br>\
+A voir Paris si beau dans cette fin d'automne,<br>\
+Soudain je m'alanguis, je rêve, je frissonne,<br>\
+Je tangue, je chavire, et comme la rengaine,<br>\
+Je vais, je viens, je vire, je me tourne, je me traîne,<br>\
+Ton image me hante, je te parle tout bas,<br>\
+Et j'ai le mal d'amour, et j'ai le mal de toi,<br>\
+<br>\
+Dis, quand reviendras-tu,<br>\
+Dis, au moins le sais-tu,<br>\
+Que tout le temps qui passe,<br>\
+Ne se rattrape guère,<br>\
+Que tout le temps perdu,<br>\
+Ne se rattrape plus,<br>\
+<br>\
+J'ai beau t'aimer encore, j'ai beau t'aimer toujours,<br>\
+J'ai beau n'aimer que toi, j'ai beau t'aimer d'amour,<br>\
+Si tu ne comprends pas qu'il te faut revenir,<br>\
+Je ferai de nous deux mes plus beaux souvenirs,<br>\
+Je reprendrai la route, le monde m'émerveille,<br>\
+J'irai me réchauffer à un autre soleil,<br>\
+Je ne suis pas de celles qui meurent de chagrin,<br>\
+Je n'ai pas la vertu des femmes de marins,<br>\
+<br>\
+Dis, quand reviendras-tu,<br>\
+Dis, au moins le sais-tu,<br>\
+Que tout le temps qui passe,<br>\
+Ne se rattrape guère,<br>\
+Que tout le temps perdu,<br>\
+Ne se rattrape plus"})
+
+lirica.push({"faixa":"Dis quand reviendras-tu (v2)","lirica":lirica[lirica.length-1].lirica}) 
+lirica.push({"faixa":"Dis quand reviendras-tu (v3)","lirica":lirica[lirica.length-1].lirica}) 
+
+lirica.push({"faixa":"Dame brune","lirica":"Pour une longue dame brune<br>\
+J'ai inventé<br>\
+Une chanson au clair de la lune<br>\
+Quelques couplets<br>\
+Si jamais elle l'entend un jour<br>\
+Elle saura<br>\
+Que c'est une chanson d'amour<br>\
+Pour elle et moi<br>\
+<br>\
+Je suis la longue dame brune<br>\
+Que tu attends<br>\
+Je suis la longue dame brune<br>\
+Et je t'entends<br>\
+Chante encore au clair de la lune<br>\
+Je viens vers toi<br>\
+Ta guitare, orgue de fortune<br>\
+Guide mes pas<br>\
+<br>\
+Pierrot m'avait prêté sa plume<br>\
+Ce matin-là<br>\
+À ma guitare de fortune<br>\
+J'ai pris le la<br>\
+Je me suis pris pour un poète<br>\
+En écrivant<br>\
+Les mots qui passaient par ma tête<br>\
+Comme le vent<br>\
+<br>\
+Pierrot t'avait prêté sa plume<br>\
+Cette nuit-là<br>\
+À ta guitare de fortune<br>\
+Tu pris le la<br>\
+Et je t'ai pris pour un poète<br>\
+En écoutant<br>\
+Les mots qui passaient par ta tête<br>\
+Comme le vent<br>\
+<br>\
+J'ai habillé la dame brune<br>\
+Dans mes pensées<br>\
+D'un morceau de voile de brume<br>\
+Et de rosée<br>\
+J'ai fait son lit contre ma peau<br>\
+Pour qu'elle soit bien<br>\
+Bien à l'abri et bien au chaud<br>\
+Entre mes mains<br>\
+<br>\
+Habillée de voile de brume<br>\
+Et de rosée<br>\
+Je suis la longue dame brune<br>\
+De ta pensée<br>\
+Chante encore au clair de la lune<br>\
+Je viens vers toi<br>\
+A travers les monts et les dunes<br>\
+J'entends ta voix<br>\
+<br>\
+Pour une longue dame brune<br>\
+J'ai inventé<br>\
+Une chanson au clair de la lune<br>\
+Quelques couplets<br>\
+Je sais qu'elle l'entendra un jour<br>\
+Qui sait demain<br>\
+Pour que cette chanson d'amour<br>\
+Finisse bien<br>\
+<br>\
+Bonjour, je suis la dame brune<br>\
+J'ai tant marché<br>\
+Bonjour, je suis la dame brune<br>\
+Je t'ai trouvé<br>\
+Fais-moi place au creux de ton lit<br>\
+Je serai bien<br>\
+Bien au chaud et bien à l'abri<br>\
+Contre tes reins"})
+
 lirica.push({"faixa":"Dichas que vivi","lirica":"Dichas gratas de un amor<br>\
 Tan puro sin melancolías,<br>\
 Que se ha muerto<br>\
