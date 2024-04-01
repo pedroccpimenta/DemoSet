@@ -8,6 +8,26 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+lirica.push({"faixa":"Dichas que vivi","lirica":"Dichas gratas de un amor<br>\
+Tan puro sin melancolías,<br>\
+Que se ha muerto<br>\
+En mi vida paria<br>\
+Cual rosa de un día.<br>\
+Dichas que viví y no volverán,<br>\
+Dichas gratas que mis ojos<br>\
+En silencio llorarán.<br>\
+ <br>\
+Dicha mía<br>\
+Que vivió un instante<br>\
+Para no olvidarla,<br>\
+Y en las notas<br>\
+En este vals triste<br>\
+Vengo a recordarla.<br>\
+Dichas de mi ayer<br>\
+Que murió y se fue,<br>\
+Dichas gratas<br>\
+Que a vivir de nuevo<br>\
+Yo no volveré."})
 
 lirica.push({"faixa":"Esclavo","lirica":"No sé si es la tragedia de vivir así<br>\
 con esta pena mía,<br>\
