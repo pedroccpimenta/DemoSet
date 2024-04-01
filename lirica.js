@@ -8,6 +8,35 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+
+lirica.push({"faixa":"Esclavo","lirica":"No sé si es la tragedia de vivir así<br>\
+con esta pena mía,<br>\
+que ha dibujado esta mueca sombría<br>\
+que nubla mis ojos y apaga mi voz.<br>\
+Tal vez porque en el suelo deshojada está<br>\
+mi pálida esperanza,<br>\
+sólo me queda mi vieja añoranza<br>\
+borracha de hastío lo mismo que yo.<br>\
+<br>\
+Mil veces he tratado de olvidar<br>\
+y busco distraer mi pobre vida,<br>\
+quisiera demostrar que no es verdad<br>\
+que en vez de corazón tengo una herida.<br>\
+Mas ya no tengo fuerzas para ahogar<br>\
+el lúgubre fantasma de mi pena<br>\
+y vivo esclavo, así, de mi condena<br>\
+sin poderme libertar.<br>\
+<br>\
+Por eso cuando pienso que me vida es<br>\
+un mar de desencantos,<br>\
+donde las aguas revueltas del llanto<br>\
+no fueron surcadas por barco, jamás.<br>\
+Me oprime la nostalgia de otro cielo azul,<br>\
+lejano y placentero,<br>\
+y un sol brillante de amor tempranero,<br>\
+de cálidos rayos y besos de luz."
+})
+
 lirica.push({"faixa":"Quiero verte una vez más","lirica":"Tarde que me invita a conversar<br>\
 Con los recuerdos<br>\
 Pena de esperarte y de llorar<br>\
