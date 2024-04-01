@@ -108,7 +108,7 @@ Más tranquilo moriré"})
 
 
 lirica.push({"faixa":"Mocosita","lirica":"Vencido, con el alma amargada,<br>\
-sin esperanzas, saciado de la vida,<br>\
+sin esperanzas, astiado de la vida,<br>\
 solloza en su bulín<br>\
 el pobre payador,<br>\
 sin hallar un consuelo a su dolor.<br>\
