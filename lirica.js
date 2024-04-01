@@ -56,6 +56,7 @@ Ne se rattrape guère,<br>\
 Que tout le temps perdu,<br>\
 Ne se rattrape plus"})
 
+lirica.push({"faixa":"Dis, quand reviendras-tu","lirica":lirica[lirica.length-1].lirica}) 
 lirica.push({"faixa":"Dis quand reviendras-tu (v2)","lirica":lirica[lirica.length-1].lirica}) 
 lirica.push({"faixa":"Dis quand reviendras-tu (v3)","lirica":lirica[lirica.length-1].lirica}) 
 
