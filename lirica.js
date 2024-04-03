@@ -98,26 +98,26 @@ Ne se rattrape plus<br>\
 Many days have gone by and so many dark nights<br>\
 Look at how long it's been since you told me goodbye<br>\
 You said this voyage would be my very last<br>\
-When I come back yo you, we will forget the past<br>\
+When I come back to you, we will forget the past<br>\
 <br>\
 In the spring you will see, I will be at your side<br>\
 Oh the Spring is sublime when the world comes alive<br>\
-We'll go walk together through gardens and flowers<br>\
-And stroll on and on, through the streets of Paris<br>\
+We'll go walking together through gardens and flowers<br>\
+And stroll harm in harm, through the streets of Paris<br>\
 <br>\
 Say, when will you return<br>\
 Say, do you know yourself?<br>\
 And all the time that passes will not return again<br>\
 All the time we have lost and nothing will remain<br>\
 <br>\
-The springtime disappeared a long time ago know<br>\
+The springtime disappeared a long time ago now<br>\
 The leaves are falling with small curls around<br>\
 To see Paris divine on a late autumn day<br>\
 But then I must lay down, I swoon and I sway<br>\
 I shake, I tremble, and as the song goes<br>\
 I come, I go, I spin, I turn all so slow<br>\
 Your image haunts me, I whisper to your<br>\
-And it hurts me so much I don't know what to dolor<br>\
+And it hurts me so much I don't know what to do<br>\
 <br>\
 Say, when will you return<br>\
 Say, do you know yourself?<br>\
