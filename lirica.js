@@ -8,6 +8,42 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+lirica.push({"faixa":"Alberto Castellanos","lirica":"Cuando llegaste al nido, tus ojos soñadores<br>\
+clavaste en mi muñeca vestida de Pierrot<br>\
+y alzándola en tus brazos, como una madrecita,<br>\
+dijiste: \"Pobrecita, no tiene corazón\".<br>\
+Tus manos diligentes hurgaron todo el cuarto<br>\
+y con un pedacito muy rojo de papel,<br>\
+un corazón le hiciste, un corazón pequeño,<br>\
+que clavaste en su pecho con un lindo alfiler.<br>\
+<br>\
+Muñequita de trapo<br>\
+vestida de Pierrot,<br>\
+nunca tendrá tu pecho,<br>\
+amores ni ilusión,<br>\
+nunca podrás vivir<br>\
+nunca podrás querer,<br>\
+muñequita de trapo,<br>\
+corazón de papel.<br>\
+<br>\
+Pasaron cuatro meses de sueños y de idilio<br>\
+y vos, que en ese pecho tenés un corazón,<br>\
+igual que golondrina volaste hacia otro nido<br>\
+sin preocuparte nada por lo que atrás quedó.<br>\
+No importa, pobre cosa de carne pasajera,<br>\
+te apagarás un día lo mismo que un quinqué<br>\
+y en cambio mi muñeca será siempre la misma<br>\
+con su pecho sin alma que hiere un alfiler.<br>\
+<br>\
+Muñequita de trapo<br>\
+vestida de Pierrot,<br>\
+aunque no tengas alma<br>\
+te quiero sólo a vos,<br>\
+pues sé que para siempre<br>\
+habrás de serme fiel,<br>\
+muñequita de trapo,<br>\
+corazón de papel."}) 
+
 lirica.push({"faixa":"Dis quand reviendras-tu","lirica":"Voilà combien de jours, voilà combien de nuits,<br>\
 Voilà combien de temps que tu es reparti,<br>\
 Tu m'as dit cette fois, c'est le dernier voyage,<br>\
