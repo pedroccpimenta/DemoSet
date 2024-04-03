@@ -44,7 +44,8 @@ habrás de serme fiel,<br>\
 muñequita de trapo,<br>\
 corazón de papel."}) 
 
-lirica.push({"faixa":"Dis quand reviendras-tu","lirica":"Voilà combien de jours, voilà combien de nuits,<br>\
+lirica.push({"faixa":"Dis quand reviendras-tu","lirica":"<b>Dis quand reviendras-tu</b><br>\
+Voilà combien de jours, voilà combien de nuits,<br>\
 Voilà combien de temps que tu es reparti,<br>\
 Tu m'as dit cette fois, c'est le dernier voyage,<br>\
 Pour nos coeurs déchirés, c'est le dernier naufrage,<br>\
@@ -90,7 +91,52 @@ Dis, au moins le sais-tu,<br>\
 Que tout le temps qui passe,<br>\
 Ne se rattrape guère,<br>\
 Que tout le temps perdu,<br>\
-Ne se rattrape plus"})
+Ne se rattrape plus<br>\
+<br>\
+<br>\
+<b>Say, when will you return</b><br>\
+Many days have gone by and so many dark nights<br>\
+Look at how long it's been since you told me goodbye<br>\
+You said this voyage would be my very last<br>\
+When I come back yo you, we will forget the past<br>\
+<br>\
+In the spring you will see, I will be at your side<br>\
+Oh the Spring is sublime when the world comes alive<br>\
+We'll go walk together through gardens and flowers<br>\
+And stroll on and on, through the streets of Paris<br>\
+<br>\
+Say, when will you return<br>\
+Say, do you know yourself?<br>\
+And all the time that passes will not return again<br>\
+All the time we have lost and nothing will remain<br>\
+<br>\
+The springtime disappeared a long time ago know<br>\
+The leaves are falling with small curls around<br>\
+To see Paris divine on a late autumn day<br>\
+But then I must lay down, I swoon and I sway<br>\
+I shake, I tremble, and as the song goes<br>\
+I come, I go, I spin, I turn all so slow<br>\
+Your image haunts me, I whisper to your<br>\
+And it hurts me so much I don't know what to dolor<br>\
+<br>\
+Say, when will you return<br>\
+Say, do you know yourself?<br>\
+And all the time that passes will not return again<br>\
+All the time we have lost and nothing will remain<br>\
+<br>\
+Even though I love you and will love you always<br>\
+I love none but you for the rest of my days<br>\
+If you don't understand that you must return soon<br>\
+You and I will become blue shadows on the moon <br>\
+Then I'll take the road, see the sea and the land <br>\
+Maybe find another sun to warm my cold hands<br>\
+I am not one of those willing to die for love<br>\
+I could never be a sailor's faithful wife<br>\
+<br>\
+Say, when will you return<br>\
+Say, do you know yourself?<br>\
+And all the time that passes will not return again<br>\
+All the time we have lost and nothing will remain"})
 
 lirica.push({"faixa":"Dis, quand reviendras-tu","lirica":lirica[lirica.length-1].lirica}) 
 lirica.push({"faixa":"Dis quand reviendras-tu (v2)","lirica":lirica[lirica.length-1].lirica}) 
