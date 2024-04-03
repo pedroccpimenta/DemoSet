@@ -47,12 +47,12 @@ corazón de papel."})
 lirica.push({"faixa":"Dis quand reviendras-tu","lirica":"<b>Dis quand reviendras-tu</b><br>\
 Voilà combien de jours, voilà combien de nuits,<br>\
 Voilà combien de temps que tu es reparti,<br>\
-Tu m'as dit cette fois, c'est le dernier voyage,<br>\
-Pour nos coeurs déchirés, c'est le dernier naufrage,<br>\
-Au printemps, tu verras, je serai de retour,<br>\
+Tu m'as dit <i>cette fois, c'est le dernier voyage</i><br>\
+(Pour nos coeurs déchirés, c'est le dernier naufrage)<br>\
+<i>Au printemps, tu verras, je serai de retour,<br>\
 Le printemps, c'est joli pour se parler d'amour,<br>\
 Nous irons voir ensemble les jardins refleuris,<br>\
-Et déambulerons dans les rues de Paris,<br>\
+Et déambulerons dans les rues de Paris...</i><br>\
 <br>\
 Dis, quand reviendras-tu,<br>\
 Dis, au moins le sais-tu,<br>\
@@ -97,13 +97,12 @@ Ne se rattrape plus<br>\
 <b>Say, when will you return</b><br>\
 Many days have gone by and so many dark nights<br>\
 Look at how long it's been since you told me goodbye<br>\
-You said this voyage would be my very last<br>\
+You said <i>this voyage would be my very last<br>\
 When I come back to you, we will forget the past<br>\
-<br>\
 In the spring you will see, I will be at your side<br>\
 Oh the Spring is sublime when the world comes alive<br>\
 We'll go walking together through gardens and flowers<br>\
-And stroll harm in harm, through the streets of Paris<br>\
+And stroll harm in harm, through the streets of Paris...</i><br>\
 <br>\
 Say, when will you return<br>\
 Say, do you know yourself?<br>\
