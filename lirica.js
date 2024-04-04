@@ -59,7 +59,7 @@ Dis, au moins le sais-tu,<br>\
 Que tout le temps qui passe,<br>\
 Ne se rattrape guère,<br>\
 Que tout le temps perdu,<br>\
-Ne se rattrape plus,<br>\
+Ne se rattrape plus.<br>\
 <br>\
 Le printemps s'est enfui depuis longtemps déjà,<br>\
 Craquent les feuilles mortes, brûlent les feux de bois,<br>\
@@ -68,14 +68,14 @@ Soudain je m'alanguis, je rêve, je frissonne,<br>\
 Je tangue, je chavire, et comme la rengaine,<br>\
 Je vais, je viens, je vire, je me tourne, je me traîne,<br>\
 Ton image me hante, je te parle tout bas,<br>\
-Et j'ai le mal d'amour, et j'ai le mal de toi,<br>\
+Et j'ai le mal d'amour, et j'ai le mal de toi.<br>\
 <br>\
 Dis, quand reviendras-tu,<br>\
 Dis, au moins le sais-tu,<br>\
 Que tout le temps qui passe,<br>\
 Ne se rattrape guère,<br>\
 Que tout le temps perdu,<br>\
-Ne se rattrape plus,<br>\
+Ne se rattrape plus.<br>\
 <br>\
 J'ai beau t'aimer encore, j'ai beau t'aimer toujours,<br>\
 J'ai beau n'aimer que toi, j'ai beau t'aimer d'amour,<br>\
@@ -84,7 +84,7 @@ Je ferai de nous deux mes plus beaux souvenirs,<br>\
 Je reprendrai la route, le monde m'émerveille,<br>\
 J'irai me réchauffer à un autre soleil,<br>\
 Je ne suis pas de celles qui meurent de chagrin,<br>\
-Je n'ai pas la vertu des femmes de marins,<br>\
+Je n'ai pas la vertu des femmes de marins.<br>\
 <br>\
 Dis, quand reviendras-tu,<br>\
 Dis, au moins le sais-tu,<br>\
@@ -893,7 +893,7 @@ Que vuelvas a mi puerta<br>\
 Y así es mucho mejor<br>\
 Cuando alguien le pregunta por ti<br>\
 Dice con celo<br>\
-\"Mamita era muy linda, y ahora está en el cielo\"<br>\
+\"<i>Mamita era muy linda, y ahora está en el cielo</i>\"<br>\
 <br>\
 Hoy se cumplen dos años<br>\
 De que tú te marchaste<br>\
@@ -909,10 +909,10 @@ Que vuelvas a mi puerta<br>\
 Y así es mucho mejor<br>\
 Cuando alguien le pregunta por ti<br>\
 Dice con celo<br>\
-\"Mamita era muy linda, y ahora está en el cielo\"<br>\
+\"<i>Mamita era muy linda, y ahora está en el cielo</i>\"<br>\
 Cuando alguien le pregunta por ti<br>\
 Dice con celo<br>\
-\"Mamita era muy linda, y ahora está en el cielo\""})
+\"<i>Mamita era muy linda, y ahora está en el cielo</i>\""})
 
 
 lirica.push({"faixa":"De puro guapo","lirica":"De puro guapo"})
