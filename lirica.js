@@ -7,6 +7,41 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+lirica.push({"faixa":"Don't let me be misunderstood","lirica":"… Baby, can you understand me now?<br>\
+Sometimes I get a little mad<br>\
+Don't you know, no one alive can always be an angel<br>\
+When things go wrong, I seem to go bad<br>\
+… I'm just a soul whose intentions are good<br>\
+Oh Lord, please don't let me be misunderstood<br>\
+… Yeah, baby, sometimes I'm so carefree<br>\
+With a joy that's hard to hide<br>\
+Yeah, and other times it seems that<br>\
+All I ever have is worry<br>\
+And then you're bound to see my other side<br>\
+… Oh, I'm just a soul whose intentions are good<br>\
+Oh Lord, please don't let me be misunderstood<br>\
+… Well If I get edgy, I want you to know<br>\
+I never mean to take it out on you<br>\
+Life has its problems, I get more than my share<br>\
+But there's one thing that I would never do<br>\
+… Oh, I'm just a soul whose intentions are good<br>\
+Oh Lord, please don't let me be misunderstood<br>\
+… Well If I get edgy, I want you to know<br>\
+I never mean to take it out on you<br>\
+Life has its problems, I get more than my share<br>\
+But there's one thing that I would never do<br>\
+'Cause I love you<br>\
+Oh<br>\
+… Oh, now don't you know I'm human<br>\
+I got my faults just like anyone<br>\
+And sometimes I lie awake, alone, regretting<br>\
+Some foolish thing, some sinful thing I've done<br>\
+… I'm just a soul whose intentions are good<br>\
+Oh Lord, please don't let me be misunderstood<br>\
+I said, I'm just a soul whose intentions are good<br>\
+Oh Lord, please don't let me be misunderstood<br>\
+Oh, I'm just a soul whose intentions are good<br>\
+Oh Lord, please don't let me be misunderstood"}) 
 
 lirica.push({"faixa":"Alberto Castellanos","lirica":"Cuando llegaste al nido, tus ojos soñadores<br>\
 clavaste en mi muñeca vestida de Pierrot<br>\
