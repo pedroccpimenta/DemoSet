@@ -7,6 +7,36 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+lirica.push({"faixa":"Naci en el alamo","lirica":"O tengo lugar<br>\
+Y no tengo paisaje<br>\
+Yo menos tengo patria<br>\
+Con mis dedos hago el fuego<br>\
+Y con mi corazon te canto<br>\
+Las cuerdas de mi corazon lloran<br>\
+<br>\
+O tengo lugar<br>\
+Y no tengo paisaje<br>\
+Yo menos tengo patria<br>\
+Con mis dedos hago el fuego<br>\
+Y con mi corazon te canto<br>\
+Las cuerdas de mi corazon lloran<br>\
+<br>\
+Naci en alamo<br>\
+Naci en alamo<br>\
+No tengo lugar<br>\
+Y no tengo paisaje<br>\
+Yo menos tengo patria<br>\
+<br>\
+O tengo lugar<br>\
+Y no tengo paisaje<br>\
+Yo menos tengo patria<br>\
+<br>\
+Naci en alamo<br>\
+Naci en alamo<br>\
+No tengo lugar<br>\
+Y no tengo paisaje<br>\
+Yo menos tengo patria"}) 
+
 lirica.push({"faixa":"Don't let me be misunderstood","lirica":"… Baby, can you understand me now?<br>\
 Sometimes I get a little mad<br>\
 Don't you know, no one alive can always be an angel<br>\
