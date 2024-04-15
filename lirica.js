@@ -7,6 +7,36 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+lirica.push({"faixa":"Core 'ngrato","lirica":"Catari, Catari<br>\
+Pecchè me dici sti parole amare<br>\
+Pecchè me parle e 'o core<br>\
+Me turmiento Catari?<br>\
+Num te scurdà ca t'aggio date 'o core, Catari<br>\
+Nun te scurdà!<br>\
+Catari, Catari, che vene a dicere<br>\
+Stu parlà, che me dà spaseme?<br>\
+Tu nun 'nce pienze a stu dulore mio<br>\
+Tu num 'nce pienze tu nun te ne cura<br>\
+Core, core 'ngrato<br>\
+T'aie pigliato 'a vita mia<br>\
+Tutt' è passato<br>\
+E nun'nce pienze cchiù!<br>\
+Catari, Catari<br>\
+Tu nun 'o saie ca'nfin'int' a na chiesa<br>\
+Io so' trasuto e aggio priato a Dio, Catari<br>\
+E l'aggio ditto pure a 'o cunfessore:<br>\
+I' sto a fuffrì<br>\
+Pe' chella llà!<br>\
+Sto a suffrì<br>\
+Sto a suffrì, nun se po' credere<br>\
+Sto a suffrì tutte li strazie!<br>\
+E 'o cunfessore ch'è persona santa<br>\
+M'ha ditto: Figlio mio, lassala sta', lassala sta'<br>\
+Core, core 'ngrato<br>\
+T' aie pigliato 'a vita mia<br>\
+Tutt' è passato<br>\
+E nun'nce pienze cchiù!"}) 
+
 lirica.push({"faixa":"Naci en el alamo","lirica":"O tengo lugar<br>\
 Y no tengo paisaje<br>\
 Yo menos tengo patria<br>\
