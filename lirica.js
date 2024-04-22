@@ -161,7 +161,7 @@ Craquent les feuilles mortes, brûlent les feux de bois,<br>\
 A voir Paris si beau dans cette fin d'automne,<br>\
 Soudain je m'alanguis, je rêve, je frissonne,<br>\
 Je tangue, je chavire, et comme la rengaine,<br>\
-Je vais, je viens, je vire, je me tourne, je me traîne,<br>\
+Je vais, je viens, je vire, je tourne, je me traîne,<br>\
 Ton image me hante, je te parle tout bas,<br>\
 Et j'ai le mal d'amour, et j'ai le mal de toi.<br>\
 <br>\
