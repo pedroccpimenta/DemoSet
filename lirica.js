@@ -230,7 +230,108 @@ I could never be a sailor's faithful wife<br>\
 Say, when will you return<br>\
 Say, do you know yourself?<br>\
 And all the time that passes will not return again<br>\
-All the time we have lost and nothing will remain"})
+All the time we have lost and nothing will remain<br>\
+<br>\
+<br>\
+Sag, wann bist Du bei mir<br>\
+Seit du gegangen bist, wie lange ist das her!<br>\
+Wieviele Nächte schon, ich weiß die Zahl nicht mehr.<br>\
+Du sagtest: 'Einmal nur laß ich dich noch allein,<br>\
+das wird fü unser Glück die letzte Prüfung sein.<br>\
+Im Frühling, du wirst seh'n, bin ich wieder bei dir,<br>\
+und für zwei wird das schön, die sich lieben wie wir.<br>\
+Dann geh'n wir Hand in Hand durch all die Blütenpracht<br>\
+und bummeln so wie einst durch ganz Paris bei Nacht.<br>\
+Sag, wann bist du bei mir?<br>\
+Wann, bitte, sag es mir!<br>\
+Ich glaub' nicht, daß du weißt,<br>\
+wie sehr ich auf dich warte.<br>\
+Ich seh' die Zeit vergeh'n<br>\
+auf Nimmerwiederseh;n!<br>\
+Der frühling kam und ging, die Sommersonne schien,<br>\
+nun raschelt welkes Laub, und Holz brennt im Kamin.<br>\
+Wie schön war sonst Paris, der Herbst in dieser Stadt!<br>\
+Ich träume und ich frier', ich fühle mich so matt.<br>\
+Ich schwanke hin und her, ich weiß nicht ein und aus,<br>\
+mein Denken geht im Kreis, ich find' nicht mehr heraus.<br>\
+Bei Tag und nachts im Traum seh' ich dein Bild vor mir -<br>\
+Ich bin vor Liebe krank und sehn' mich krank nach dir...<br>\
+Sag, wann bist du bei mir?<br>\
+Wann, bitte, sag es mir!<br>\
+Ich glaub' nicht, daß du weißt,<br>\
+wie sehr ich auf dich warte.<br>\
+Ich seh' die Zeit vergeh'n<br>\
+auf Nimmerwiederseh;n!<br>\
+Ich lieb' dich immer noch, ich lieb' dich immerzu,<br>\
+ich lieb' nur dich allein, wie sehr, das weißt nur du!<br>\
+Doch siehst du das nicht ein und bist nun bald bei mir,<br>\
+Dann mach' ich aus uns zwei'n mein schönstes Souvenir<br>\
+und mach' mich auf den Weg - du weißt, ich reise gern -<br>\
+und richte meinen Kurs nach einem andern Stern.<br>\
+Vor Kummer sterb' ich nicht, da kennst du mich genau,<br>\
+ich hab' nicht die Geduld einer Seemannsfrau!<br>\
+Sag, wann bist du bei mir?<br>\
+Wann, bitte, sag es mir!<br>\
+Du mußt das doch versteh'n:<br>\
+Die Zeit, die wir verlieren,<br>\
+sie wird verweh'n, vergeh'n,<br>\
+auf Nimmerwiederseh'n."})
+
+
+
+lirica.push({"faixa":"Sag, Wann Bist Du Bei Mir","lirica":"\
+<b>Sag, wann bist Du bei mir</b><br>\
+<br>\
+<br>\
+Seit du gegangen bist, wie lange ist das her!<br>\
+Wieviele Nächte schon, ich weiß die Zahl nicht mehr.<br>\
+Du sagtest: 'Einmal nur laß ich dich noch allein,<br>\
+das wird fü unser Glück die letzte Prüfung sein.<br>\
+Im Frühling, du wirst seh'n, bin ich wieder bei dir,<br>\
+und für zwei wird das schön, die sich lieben wie wir.<br>\
+Dann geh'n wir Hand in Hand durch all die Blütenpracht<br>\
+und bummeln so wie einst durch ganz Paris bei Nacht.<br>\
+<br>\
+Sag, wann bist du bei mir?<br>\
+Wann, bitte, sag es mir!<br>\
+Ich glaub' nicht, daß du weißt,<br>\
+wie sehr ich auf dich warte.<br>\
+Ich seh' die Zeit vergeh'n<br>\
+auf Nimmerwiederseh;n!<br>\
+<br>\
+Der frühling kam und ging, die Sommersonne schien,<br>\
+nun raschelt welkes Laub, und Holz brennt im Kamin.<br>\
+Wie schön war sonst Paris, der Herbst in dieser Stadt!<br>\
+Ich träume und ich frier', ich fühle mich so matt.<br>\
+Ich schwanke hin und her, ich weiß nicht ein und aus,<br>\
+mein Denken geht im Kreis, ich find' nicht mehr heraus.<br>\
+Bei Tag und nachts im Traum seh' ich dein Bild vor mir -<br>\
+Ich bin vor Liebe krank und sehn' mich krank nach dir...<br>\
+<br>\
+Sag, wann bist du bei mir?<br>\
+Wann, bitte, sag es mir!<br>\
+Ich glaub' nicht, daß du weißt,<br>\
+wie sehr ich auf dich warte.<br>\
+Ich seh' die Zeit vergeh'n<br>\
+auf Nimmerwiederseh;n!<br>\
+<br>\
+Ich lieb' dich immer noch, ich lieb' dich immerzu,<br>\
+ich lieb' nur dich allein, wie sehr, das weißt nur du!<br>\
+Doch siehst du das nicht ein und bist nun bald bei mir,<br>\
+Dann mach' ich aus uns zwei'n mein schönstes Souvenir<br>\
+und mach' mich auf den Weg - du weißt, ich reise gern -<br>\
+und richte meinen Kurs nach einem andern Stern.<br>\
+Vor Kummer sterb' ich nicht, da kennst du mich genau,<br>\
+ich hab' nicht die Geduld einer Seemannsfrau!<br>\
+<br>\
+Sag, wann bist du bei mir?<br>\
+Wann, bitte, sag es mir!<br>\
+Du mußt das doch versteh'n:<br>\
+Die Zeit, die wir verlieren,<br>\
+sie wird verweh'n, vergeh'n,<br>\
+auf Nimmerwiederseh'n."})
+
+
 
 lirica.push({"faixa":"Dis, quand reviendras-tu","lirica":lirica[lirica.length-1].lirica}) 
 lirica.push({"faixa":"Dis quand reviendras-tu (v2)","lirica":lirica[lirica.length-1].lirica}) 
