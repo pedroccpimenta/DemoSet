@@ -7,6 +7,30 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+
+lirica.push({"faixa":"Bayuski Bayou","lirica":"Спи, младенец мой прекрасный,<br>\
+Баюшки-баю.<br>\
+Тихо смотрит месяц ясный<br>\
+В колыбель твою.<br>\
+Стану сказывать я сказки,<br>\
+Песенку спою;<br>\
+Ты ж дремли, закрывши глазки,<br>\
+Баюшки-баю.<br>\
+<br>\
+По камням струится Терек,<br>\
+Плещет мутный вал;<br>\
+Злой чечен ползет на берег,<br>\
+Точит свой кинжал;<br>\
+Но отец твой старый воин,<br>\
+Закален в бою:<br>\
+Спи, малютка, будь спокоен,<br>\
+Баюшки-баю.<br>\
+<br>\
+<a href='https://en.wikipedia.org/wiki/Cossack_Lullaby' target='*'>https://en.wikipedia.org/wiki/Cossack_Lullaby</a>"}) 
+
+
+
+
 lirica.push({"faixa":"Core 'ngrato","lirica":"Catari, Catari<br>\
 Pecchè me dici sti parole amare<br>\
 Pecchè me parle e 'o core<br>\
