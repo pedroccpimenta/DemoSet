@@ -6156,6 +6156,33 @@ No saben las tristezas que a mi alma le dejaron<br>\
 aquellos ojos verdes que ya nunca besaré."})
 
 
+lirica.push({"faixa":"Dream a little dream of me","lirica":"Stars shinin' bright above you<br>\
+Night breezes seem to whisper, 'I love you'<br>\
+Birds singin' in the sycamore tree<br>\
+Dream a little dream of me<br>\
+Say, 'Nighty-night' and kiss me<br>\
+Just hold me tight and tell me you'll miss me<br>\
+While I'm alone and blue as can be<br>\
+Dream a little dream of me<br>\
+Stars fadin' but I linger on, dear<br>\
+Still cravin' your kiss<br>\
+I'm longin' to linger 'til dawn, dear<br>\
+Just saying this<br>\
+Sweet dreams 'til sunbeams find you<br>\
+Sweet dreams that leave all worries behind you<br>\
+But in your dreams, whatever they be<br>\
+Dream a little dream of me<br>\
+Stars fadin' but I linger on, dear<br>\
+Still cravin' your kiss<br>\
+I'm longing to linger 'til dawn, dear<br>\
+Just saying this<br>\
+Sweet dreams 'til sunbeams find you<br>\
+Sweet dreams that leave all worries far behind you<br>\
+But in your dreams, whatever they be<br>\
+Dream a little dream of me"})
+
+
+
 lirica.push({"faixa":"Over the rainbow","lirica":"Somewhere over the rainbow<br>\
 Way up high<br>\
 And the dreams that you dreamed of<br>\
