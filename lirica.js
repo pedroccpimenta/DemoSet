@@ -7,6 +7,64 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+lirica.push({"faixa":"Te odio","lirica":"Hay cosas que no tienen razón ni sentido,<br>\
+hay hechos que no tienen explicación...<br>\
+Así, al conocerte, mi gran cariño,<br>\
+sin ley ni motivo, de golpe nació.<br>\
+Viniste a embarullarme la dulce existencia<br>\
+pues yo sin tus engaños ya era feliz.<br>\
+¡Parece mentira que, siendo tan linda,<br>\
+guardés ese fondo tan bajo y tan ruin!<br>\
+<br>\
+Te odio, maldita;<br>\
+te odio como antes te adoré...<br>\
+Dios quiera que un día volvieras a mí<br>\
+buscando refugio, vencida, sin fe.<br>\
+Entonces podría<br>\
+cobrarme tu traición...<br>\
+¡Es tanto lo que te odio<br>\
+que al verte sufrir me vengaré!<br>\
+<br>\
+Sabés que todavía no puedo explicarme<br>\
+por qué placer maldito me hiciste mal,<br>\
+si yo por tu cariño dejé a mi madre,<br>\
+enferma, solita, sin techo, sin pan.<br>\
+Has roto mi existencia. ¡Cobarde y rastrera!<br>\
+¿Por qué voy a tenerte conmiseración?,<br>\
+si cuando agonice será mi postrera<br>\
+palabra una eterna, fatal maldición."})
+
+
+
+
+lirica.push({"faixa":"Acordai 📣","lirica":"Acordai<br>\
+acordai<br>\
+homens que dormis<br>\
+a embalar a dor<br>\
+dos silêncios vis<br>\
+vinde no clamor<br>\
+das almas viris<br>\
+arrancar a flor<br>\
+que dorme na raíz<br>\
+Acordai<br>\
+acordai<br>\
+raios e tufões<br>\
+que dormis no ar<br>\
+e nas multidões<br>\
+vinde incendiar<br>\
+de astros e canções<br>\
+as pedras do mar<br>\
+o mundo e os corações<br>\
+Acordai<br>\
+acendei<br>\
+de almas e de sóis<br>\
+este mar sem cais<br>\
+nem luz de faróis<br>\
+e acordai depois<br>\
+das lutas finais<br>\
+os nossos heróis<br>\
+que dormem nos covais<br>\
+Acordai!"})
 
 lirica.push({"faixa":"Bayuski Bayou","lirica":"Спи, младенец мой прекрасный,<br>\
 Баюшки-баю.<br>\
@@ -162,6 +220,60 @@ pues sé que para siempre<br>\
 habrás de serme fiel,<br>\
 muñequita de trapo,<br>\
 corazón de papel."}) 
+
+lirica.push({"faixa":"Auf Flügeln des Gesanges","lirica":"<b>Auf Flügeln des Gesanges,</b><bR>\
+Herzliebchen, trag ich dich fort,<br>\
+Fort nach den Fluren des Ganges,<br>\
+Dort weiß ich den schönsten Ort.<br>\
+<br>\
+Dort liegt ein rotblühender Garten<br>\
+Im stillen Mondenschein;<br>\
+Die Lotosblumen erwarten<br>\
+Ihr trautes Schwesterlein.<br>\
+<br>\
+Die Veilchen kichern und kosen,<br>\
+Und schaun nach den Sternen empor;<br>\
+Heimlich erzählen die Rosen<br>\
+Sich duftende Märchen ins Ohr.<br>\
+<br>\
+Es hüpfen herbei und lauschen<br>\
+Die frommen, klugen Gazelln;<br>\
+Und in der Ferne rauschen<br>\
+Des heiligen Stromes Welln.<br>\
+<br>\
+Dort wollen wir niedersinken<br>\
+Unter dem Palmenbaum,<br>\
+Und Liebe und Ruhe trinken,<br>\
+Und träumen seligen Traum.<br>\
+ <br>\
+<b>On wings of song</b><br>\
+On wings of song, my darling,<br>\
+I’ll carry you off, and we’ll go<br>\
+Where the plains of the Ganges are calling,<br>\
+To the sweetest place I know.<br>\
+<br>\
+Red flowers are twining and plaiting<br>\
+There in the still moonlight:<br>\
+The lotus flowers are awaiting<br>\
+Their sister acolyte.<br>\
+<br>\
+The violets whisper caresses<br>\
+And gaze to the stars on high;<br>\
+The rose in secret confesses<br>\
+Her sweet-scented tales with a sigh.<br>\
+<br>\
+Around them, listening and blushing,<br>\
+Dance gentle, subtle gazelles;<br>\
+And in the distance rushing<br>\
+The holy river swells.<br>\
+<br>\
+Oh, let us lie down by it,<br>\
+Where the moon on the palm tree beams;<br>\
+And drink deep of love and quiet<br>\
+And dream our happy dreams.<br>\
+<br>\
+<br>\
+<a href='https://oxfordsong.org/song/auf-fl%C3%BCgeln-des-gesanges-2' target='*'>https://oxfordsong.org/song/auf-fl%C3%BCgeln-des-gesanges-2</a>"}) 
 
 lirica.push({"faixa":"Dis quand reviendras-tu","lirica":"<b>Dis quand reviendras-tu</b><br>\
 Voilà combien de jours, voilà combien de nuits,<br>\
@@ -4855,6 +4967,35 @@ lirica.push({"faixa":"Quando os outros te batem, beijo-te eu","lirica":"Se bem q
 	<br>\
 	o fado quando é triste é que é verdade<br>\
 	Quando os outros te batem, beijo-te eu..."})
+
+lirica.push({"faixa":"Contigo aprendi","lirica":"Contigo aprendi<br>\
+Que existem novas e melhores emoções<br>\
+Contigo aprendi<br>\
+A conhecer um mundo novo de ilusões<br>\
+Aprendi<br>\
+Que a semana já tem mais de sete dias<br>\
+Fazer maiores minhas poucas alegrias<br>\
+E a ser alegre, eu contigo aprendi<br>\
+<br>\
+Contigo aprendi<br>\
+Que existe luz na noite mais escura<br>\
+Contigo aprendi<br>\
+Que em tudo existe um pouco de ternura<br>\
+Aprendi que pode um beijo ser mais doce e mais profundo<br>\
+Que posso ir-me amanhã mesmo deste mundo<br>\
+As coisas boas, eu contigo já vivi<br>\
+E contigo aprendi<br>\
+Que eu nasci no dia em que te conheci<br>\
+<br>\
+Contigo aprendi<br>\
+Que existe luz na noite mais escura<br>\
+Contigo aprendi<br>\
+Que em tudo existe um pouco de ternura<br>\
+Aprendi que pode um beijo ser mais doce e mais profundo<br>\
+Que posso ir-me amanhã mesmo deste mundo<br>\
+As coisas boas, eu contigo já vivi<br>\
+E contigo aprendi<br>\
+Que eu nasci no dia em que te conheci"})
 
 lirica.push({"faixa":"Fui dizer-te Adeus ao cais","lirica":"Fui dizer-te adeus ao cais<br>\
 Levado p'lo sentimento<br>\
