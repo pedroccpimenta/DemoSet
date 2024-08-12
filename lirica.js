@@ -7,6 +7,30 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+
+lirica.push({"faixa":"Je crois entendre encore","lirica":"Je crois entendre encore<br>\
+Caché sous les palmiers<br>\
+Sa voix tendre et sonore<br>\
+Comme un chant de ramiers<br>\
+ <br>\
+O nuit enchanteresse<br>\
+Divin ravissement<br>\
+O souvenir charmant,<br>\
+Folle ivresse, doux rêve!<br>\
+ <br>\
+Aux clartés des étoiles<br>\
+Je crois encor la voir<br>\
+Entr’ouvrir ses longs voiles<br>\
+Aux vents tièdes du soir<br>\
+ <br>\
+O nuit enchanteresse<br>\
+Divin ravissement<br>\
+O souvenir charmant,<br>\
+Folle ivresse, doux rêve!<br>\
+ <br>\
+Charmant Souvenir!<br>\
+Charmant souvenir !"})
+
 lirica.push({"faixa":"Te odio","lirica":"Hay cosas que no tienen razón ni sentido,<br>\
 hay hechos que no tienen explicación...<br>\
 Así, al conocerte, mi gran cariño,<br>\
