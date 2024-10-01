@@ -8,6 +8,44 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+
+lirica.push({"faixa":"Tu Ne Te Souviendras","lirica":"Tu ne te souviendras pas<br>\
+De cette nuit où l'on s'aimait,<br>\
+Toutes les nuits, cahin-caha,<br>\
+S'effeuillent au calendrier.<br>\
+<br>\
+Tu ne te souviendras pas<br>\
+De mon visage, de mon nom.<br>\
+Les marionnettes d'ici-bas<br>\
+Font trois petits tours et puis s'en vont.<br>\
+<br>\
+Tu ne te souviendras pas<br>\
+Du vent, des algues, de cette plage,<br>\
+De ce silence, de notre émoi<br>\
+Quand se sont mêlés nos visages.<br>\
+<br>\
+Tu ne te souviendras pas.<br>\
+Nous étions là, émerveillés.<br>\
+J'ai glissé un peu contre toi.<br>\
+Contre toi, tu m'as entraînée.<br>\
+<br>\
+Tu ne te souviendras pas<br>\
+De nos corps couchés sur le sol.<br>\
+Les corps s'enfoncent comme les pas<br>\
+Dans le sable où le vent les vole.<br>\
+<br>\
+Tu ne te souviendras pas.<br>\
+Doucement, la nuit s'est penchée,<br>\
+Traînant dans son manteau de soie<br>\
+Des morceaux de ciel étoilé.<br>\
+<br>\
+L'amour nous menait en voyage.<br>\
+Longtemps, nous avons navigué.<br>\
+La mer se cognait au rivage.<br>\
+Dans tes yeux, je me suis noyée."}) 
+
+
+
 lirica.push({"faixa":"Je crois entendre encore","lirica":"Je crois entendre encore<br>\
 Caché sous les palmiers<br>\
 Sa voix tendre et sonore<br>\
