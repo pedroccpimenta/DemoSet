@@ -972,8 +972,6 @@ lirica.push({"faixa":"Valsecito de antes","lirica":"Valsecito de antes"})
 lirica.push({"faixa":"Una lagrima","lirica":"Una lagrima"})
 lirica.push({"faixa":"Valsecito criollo","lirica":"Valsecito criollo"})
 lirica.push({"faixa":"Sueño florido","lirica":"Sueño florido (INST)"})
-lirica.push({"faixa":"Aroma de amor","lirica":"Aroma de amor"})
-lirica.push({"faixa":"Serenata campera","lirica":"Serenata campera"})
 lirica.push({"faixa":"Loca de amor","lirica":"Loca de amor"})
 lirica.push({"faixa":"El ultimo adios","lirica":"El ultimo adios"})
 lirica.push({"faixa":"Pedacito de cielo","lirica":"Pedacito de cielo"})
@@ -987,6 +985,92 @@ lirica.push({"faixa":"Yo naci para quererte","lirica":"Yo naci para quererte"})
 lirica.push({"faixa":"Mi cotorrito boemio","lirica":"Mi cotorrito boemio"})
 lirica.push({"faixa":"Las quarenta","lirica":"Las quarenta"})
 lirica.push({"faixa":"No quiero verte llorar","lirica":"No quiero verte llorar"})
+
+
+lirica.push({"faixa":"Aroma de amor","lirica":"Aroma de un amor<br>\
+Que mi emoción va dibujando,<br>\
+Aroma de un amor<br>\
+Que vi llegar sólo soñando;<br>\
+Pensar que has de volcar<br>\
+En mi vivir amargo,<br>\
+La luz de un corazón<br>\
+Hecha canción para mí.<br>\
+ <br>\
+Anoche no dormí<br>\
+Y sin querer soñé despierto,<br>\
+Mi anhelo de cariño<br>\
+Febril te buscaba;<br>\
+Y luego en su rumor<br>\
+La noche me besaba,<br>\
+Pidiéndole al Señor<br>\
+Un milagro de amor.<br>\
+ <br>\
+Te escucho muy lejana<br>\
+Y vibra mi ilusión,<br>\
+Suspiran las fontanas<br>\
+Y gime mi canción;<br>\
+Quisiera que las horas<br>\
+Me traigan con la aurora,<br>\
+Como una flor sonora<br>\
+El eco de tu voz.<br>\
+ <br>\
+Quisiera que tus ojos<br>\
+Por mí, llorando estén,<br>\
+Y así que se agigante<br>\
+La fuerza de mi fe;<br>\
+Quisiera que tus labios<br>\
+Lejanos y tan fríos,<br>\
+Repitan con los míos<br>\
+Que me has de querer.<br>\
+ <br>\
+<br>\
+Letra : Carlos Waiss<br>\
+Música : Román Juri"})
+
+
+
+lirica.push({"faixa":"Serenata campera","lirica":"Mi serenata<br>\
+Es la canción<br>\
+La que me inspira<br>\
+Tu corazón.<br>\
+Amor primero<br>\
+Último amor<br>\
+Ya muchas lunas pasaron<br>\
+Y mucho más te amo yo.<br>\
+ <br>\
+Ya galopa, galopando va<br>\
+Mi caballo por el cañadón,<br>\
+Con tu nombre paisanita voy<br>\
+Corazón.<br>\
+ <br>\
+No te duermas que esta noche azul<br>\
+Las estrellas me verán pasar,<br>\
+Mi guitarra bordoneando está<br>\
+Juntito al ventanal.<br>\
+<br>\
+Este vals te lo dedico a ti<br>\
+Con la queja de mi corazón,<br>\
+Que los campos se han dormido ya<br>\
+Óyeme.<br>\
+<br>\
+Como el canto que el jilguero da<br>\
+Y cantando de su nido va,<br>\
+Yo cantando a tu ventana voy<br>\
+Amor.<br>\
+<br>\
+Por el camino<br>\
+Con un cantar<br>\
+A tu ventana<br>\
+Voy a llegar.<br>\
+<br>\
+Mi serenata<br>\
+Te habla de amor<br>\
+Junto a las flores silvestres<br>\
+Que adornan tu rancho en flor.<br>\
+<br>\
+<br>\
+Letra : Lito Bayardo  (Manuel Juan García Ferrari)<br>\
+Música : Feliciano Brunelli"})
 
 
 
