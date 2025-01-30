@@ -24,8 +24,6 @@ b=[
 		"./Cortinas/Regina Spektor - Fidelity.mp3",
 		"./Cortinas/Caetano Veloso - Samba De Verão.mp3"
 
-
-
 	]
 </script>
 
@@ -43,6 +41,7 @@ b=[
 <br>
 <audio id=audio controls autoplay width='100%' style="width:100%">
 	<source src="./mp3/Pavarotti - catari catari.mp3" type="audio/mp3"></audio>
+		<input type=text id=lpt style='width:80%'>
 
 <table><tr>
 <td id=tdlist>
@@ -97,7 +96,8 @@ b=[
         	ah.onclick=function() {
               	//console.log(this.bid);
                 document.getElementById('audio').src=b[this.bid];
-            		document.getElementById('audio').title=this.titulo
+            		document.getElementById('audio').title=b[this.bid]
+            		document.getElementById('lpt').value=b[this.bid]
             }
         	tdlist.appendChild(ah)
         }
@@ -113,10 +113,10 @@ function xw()
         if (width<650)	
         	document.getElementById('ppp').style.width=Math.floor((width-50)/3)
 
-      width = screen.width;
+   	    width = screen.width;
         width = window.innerWidth
         // alert (width);
-       // if (width<650)	
+        // if (width<650)	
         /*
         if (width > 1200)
         {
@@ -129,6 +129,20 @@ function xw()
         }
         */
 
+
+        toad = document.getElementById('tdlist')
+        tov  = document.getElementById('tdlist').value
+        console.log("tov:", tov)
+        for (k in toad.children)
+        {
+        	// console.log(toad.children[k].innerHTML)
+        	if (tov == toad.children[k].innerHTML)
+        	{
+        		console.log("****")
+        		toad.children[k].style.backgroundColor="yellow"	
+        	}
+        }
+
 }
 
 setInterval(xw, 5000)
@@ -136,9 +150,5 @@ setInterval(xw, 5000)
 		
 
 </script>
-
-
-
-
-	</body>
+</body>
 </html>
