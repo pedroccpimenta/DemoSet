@@ -22,8 +22,8 @@ b=[
 		"./Cortinas/Michael Buble - You Don't Know Me.mp3",
 		"./Cortinas/Des'ree - You Gotta Be.mp3",
 		"./Cortinas/Regina Spektor - Fidelity.mp3",
-		"./Cortinas/Caetano Veloso - Samba De Verão.mp3"
-
+		"./Cortinas/Caetano Veloso - Samba De Verão.mp3",
+		"./Cortinas/Lauryn Hill - Can't Take My Eyes Off of You.mp3"
 	]
 </script>
 
@@ -34,76 +34,42 @@ b=[
 <h3>1 Fev 2025</h3>
 <!-- <small>PCP, 2023</small> -->
 <hr color=yellow>
-
-<hr color=gray>
-
 <center>
-<br>
+
 <audio id=audio controls autoplay width='100%' style="width:100%">
-	<source src="./mp3/Pavarotti - catari catari.mp3" type="audio/mp3"></audio>
-		<input type=text id=lpt style='width:80%'>
+	<source src="./Cortinas/Julie Andrews - My Favorite Things(The Sound Of Music).mp3" type="audio/mp3"></audio>
+		<input type=text id=lpt style='width:90%' value='Julie Andrews - My Favorite Things(The Sound Of Music)'>
 
 <table><tr>
 <td id=tdlist>
 </table><br>
 
 <hr color=yellow>
-<small>
-&copy; GMilong, 2025 | <a href='https://github.com/pedroccpimenta/wtcm' target='*'>github</a> 
+<small> &copy; GMilong, 2025 | <a href='https://github.com/pedroccpimenta/Milongadj' target='*'>github</a> 
 </center>
 
-
 <script>
-	document.getElementById('audio').src=b[Math.floor(Math.random()*(b.length))]
-	setTimeout(function(){document.getElementById('audio').play()}, 2000)
-
-</script>
-
-
-<script>
-    window.onload = function() {
+    window.onload = function() 
+    {
     	console.log("onload")
-	/*    	
-      tbs = document.getElementsByTagName('label');
-  		for(var i = 0; i < tbs.length; i++) {
-            tbs[i].border='1';
-            tbs.width='80%'
-      }
-
-        anchors = document.getElementsByClassName('sb');
-        lbs = document.getElementsByTagName('label');
-        for(var i = 0; i < anchors.length; i++) {
-        		console.log(i)
-            sw=Math.floor(Math.random()*b.length)
-            sw=i
-            anchors[i].bid=sw
-            anchors[i].titulo=b[sw].split('/')[2].split(".")[0]
-            lbs[i].innerHTML=b[sw].split('/')[2].split(".")[0] //.substring(0,25)+" (...)"
-            anchors[i].onclick = function() {
-              	console.log(this.bid);
-                document.getElementById('audio').src=b[this.bid];
-            		document.getElementById('audio').title=this.titulo
-            }
-        }
-       */
-
         toad=document.getElementById('tdlist')
         for (k in b)
         {
         	ah = document.createElement('span')
+        	ah.style='width:80%;'
         	ah.innerHTML=b[k].split('/')[2].split(".")[0]+"<br>"
         	ah.bid=k
         	ah.onclick=function() {
               	//console.log(this.bid);
                 document.getElementById('audio').src=b[this.bid];
-            		document.getElementById('audio').title=b[this.bid]
-            		document.getElementById('lpt').value=b[this.bid]
+           		document.getElementById('audio').title=b[this.bid]
+           		document.getElementById('lpt').value=b[this.bid]
             }
         	tdlist.appendChild(ah)
         }
-
-
     }
+
+var tov
 
 function xw()
 {
@@ -130,23 +96,35 @@ function xw()
         */
 
 
-        toad = document.getElementById('tdlist')
-        tov  = document.getElementById('tdlist').value
-        console.log("tov:", tov)
-        for (k in toad.children)
-        {
+        toad = document.getElementById('tdlist').children;
+        tov  = document.getElementById('lpt').value.split('/')[2].split(".")[0]
+        // console.log("tov:", tov)
+        for (k=0; k< toad.length; k++)
+        {	// console.log(k, toad[k].innerHTML)
         	// console.log(toad.children[k].innerHTML)
-        	if (tov == toad.children[k].innerHTML)
+        	if (tov == toad[k].innerHTML.replace('<br>', ''))
         	{
-        		console.log("****")
-        		toad.children[k].style.backgroundColor="yellow"	
+        		// console.log("****", toad[k].style.backgroundColor)
+        		if  (toad[k].style.backgroundColor =='yellow')
+        		{
+        			// toad[k].style.backgroundColor ='cornsilk'	
+        			toad[k].style.backgroundColor ='gold'	
+        		}
+        		else 
+        		{
+        			toad[k].style.backgroundColor ='yellow'	
+        		}
+        	}
+        	else
+        	{
+        		toad[k].style.backgroundColor ="white"	
         	}
         }
 
 }
 
-setInterval(xw, 5000)
-
+rip=setInterval(xw, 1000)
+// clearInterval(rip)
 		
 
 </script>
