@@ -1,0 +1,138 @@
+
+<html>
+<head>
+
+	<meta name="Description" content="Author: GMilong, Category: Messy, Site, Music Price: Free">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Messy</title>
+	<LINK REL="SHORTCUT ICON" HREF="./pics/milongadj.ico">
+
+
+<script>
+
+b=[	
+		"./Cortinas/Julie Andrews - My Favorite Things(The Sound Of Music).mp3",
+		"./Nina Simone/Nina Simone - I put a spell on you.mp3",
+		"./Nina Simone/Nina Simone - Feeling Good.mp3",
+		"./Cortinas/Marvin Gaye & Tammi Terrell - Ain't No Mountain High Enough.mp3",
+		"./Cortinas/Mallu Magalhães - Sambinha bom.mp3",
+		"./Cortinas/Pixies - Where Is My Mind.mp3",
+		"./Cortinas/Alicia Keys - Streets Of New York.mp3"
+
+	]
+</script>
+
+</head>
+	<body align=center style='font-family: montserrat;'><center>
+
+<h1>Messy</h1>
+<h3>1 Fev 2025</h3>
+<!-- <small>PCP, 2023</small> -->
+<hr color=yellow>
+
+<hr color=gray>
+
+<center>
+<br>
+<audio id=audio controls autoplay width='100%' style="width:100%">
+	<source src="./mp3/Pavarotti - catari catari.mp3" type="audio/mp3"></audio>
+
+<table><tr>
+<td id=tdlist>
+</table><br>
+
+<hr color=yellow>
+<small>
+&copy; GMilong, 2025 | <a href='https://github.com/pedroccpimenta/wtcm' target='*'>github</a> 
+</center>
+
+
+<script>
+	document.getElementById('audio').src=b[Math.floor(Math.random()*(b.length))]
+	setTimeout(function(){document.getElementById('audio').play()}, 2000)
+
+</script>
+
+
+<script>
+    window.onload = function() {
+    	console.log("onload")
+	/*    	
+      tbs = document.getElementsByTagName('label');
+  		for(var i = 0; i < tbs.length; i++) {
+            tbs[i].border='1';
+            tbs.width='80%'
+      }
+
+        anchors = document.getElementsByClassName('sb');
+        lbs = document.getElementsByTagName('label');
+        for(var i = 0; i < anchors.length; i++) {
+        		console.log(i)
+            sw=Math.floor(Math.random()*b.length)
+            sw=i
+            anchors[i].bid=sw
+            anchors[i].titulo=b[sw].split('/')[2].split(".")[0]
+            lbs[i].innerHTML=b[sw].split('/')[2].split(".")[0] //.substring(0,25)+" (...)"
+            anchors[i].onclick = function() {
+              	console.log(this.bid);
+                document.getElementById('audio').src=b[this.bid];
+            		document.getElementById('audio').title=this.titulo
+            }
+        }
+       */
+
+        toad=document.getElementById('tdlist')
+        for (k in b)
+        {
+        	ah = document.createElement('span')
+        	ah.innerHTML=b[k].split('/')[2].split(".")[0]+"<br>"
+        	ah.bid=k
+        	ah.onclick=function() {
+              	//console.log(this.bid);
+                document.getElementById('audio').src=b[this.bid];
+            		document.getElementById('audio').title=this.titulo
+            }
+        	tdlist.appendChild(ah)
+        }
+
+
+    }
+
+function xw()
+{
+        width = screen.width;
+        width = window.innerWidth
+        // alert (width);
+        if (width<650)	
+        	document.getElementById('ppp').style.width=Math.floor((width-50)/3)
+
+      width = screen.width;
+        width = window.innerWidth
+        // alert (width);
+       // if (width<650)	
+        /*
+        if (width > 1200)
+        {
+        	document.getElementById('ppp').style.width='500'
+
+        }
+        else 
+        {	
+        	document.getElementById('ppp').style.width=Math.floor((width-50)/3)
+        }
+        */
+
+}
+
+setInterval(xw, 5000)
+
+		
+
+</script>
+
+
+
+
+	</body>
+</html>

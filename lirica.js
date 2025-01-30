@@ -5,8 +5,67 @@ lirica.push({"faixa":"Oh Darling","lirica":"Oh Darling"})
 lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
 lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
+
+
+
+
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
+
+lirica.push({"faixa":"Cereja rosa","lirica":"Será que tu recordas como eu?<br>\
+Aquele tempo tão feliz<br>\
+Quando o destino bom então me deu<br>\
+Tudo o que eu quis<br>\
+Eu pressentia que o teu coração<br>\
+Queria só viver por mim<br>\
+E eu pensei que todo aquele amor<br>\
+Era sem fim<br>\
+<br>\
+Agora fico a pensar<br>\
+No tempo bom que passou<br>\
+E vivo sempre a lembrar<br>\
+Que o sonho já terminou<br>\
+A cerejeira em flor<br>\
+Que tu gostavas de olhar<br>\
+É companheira da dor<br>\
+Do meu amor<br>\
+E a cerejeira não é rosa mais<br>\
+Ficou tão triste com o adeus<br>\
+E agora pra mostrar seu amargor<br>\
+Não tem mais cor"})
+
+
+
+lirica.push({"faixa":"da doo ron ron","lirica":"I met him on a Monday and my heart stood still<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+Somebody told me that his name was Bill<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+Yeah, my heart stood still<br>\
+Yes, his name was Bill<br>\
+And when he walked me home<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+I knew what he was doing when he caught my eye<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+He looked so quiet but my oh my<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+Yeah, he caught my eye<br>\
+Yes, oh my, oh my<br>\
+And when he walked me home<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+<br>\
+He picked me up at seven and he looked so fine<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+Someday soon I'm gonna make him mine<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+Yeah, he looked so fine,<br>\
+Yes, I'll make him mine<br>\
+And when he walked me home<br>\
+Da doo ron-ron-ron, Da doo ron-ron<br>\
+Yeah-yeah-yeah-yeah...<br>\
+Da-doo-ron-ron<br>\
+Da-doo-ron-ron...<br>\
+<br><br>\
+Compositores: Ellie Greenwich / Jeff Barry / Philip Spector"}) 
 
 
 lirica.push({"faixa":"Tu Ne Te Souviendras","lirica":"Tu ne te souviendras pas<br>\
