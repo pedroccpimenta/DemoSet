@@ -12,6 +12,32 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
 
 
+lirica.push({"faixa":"I who have nothing","lirica":"I who have nothing<br>\
+I, I who have no one<br>\
+Adore you and want you so<br>\
+I'm just a no one with nothing to give you but, oh<br>\
+I love you<br>\
+<br>\
+He, he buys you diamonds<br>\
+Bright, sparkling diamonds<br>\
+But, believe me, dear, when I say<br>\
+That he can give you the world but he'll never love you the way<br>\
+I love you<br>\
+<br>\
+He can take you any place he wants<br>\
+To fancy clubs and restaurants<br>\
+But I can only watch you with<br>\
+My nose pressed up against the window pane<br>\
+I, I who have nothing<br>\
+I, I who have no one<br>\
+Must watch you go dancing by<br>\
+Wrapped in the arms of somebody else when, darling, it's I<br>\
+Who loves you<br>\
+<br>\
+I love you<br>\
+I love you<br>\
+I love you"})
+
 lirica.push({"faixa":"Cereja rosa","lirica":"Será que tu recordas como eu?<br>\
 Aquele tempo tão feliz<br>\
 Quando o destino bom então me deu<br>\
