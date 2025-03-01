@@ -9,7 +9,7 @@ I decided to create this github repository since a tool I had setup for my perso
 ## Basic concept and pros
 
 During my experience as Tango / Milonga DJ, I felt that I need something as the following 'player':
-![./logos/milongadj2.png]
+![overview](./logos/milongadj2.png)
 
 the main pros of this 'console' against other media players are:
 
@@ -17,7 +17,7 @@ the main pros of this 'console' against other media players are:
 - a clear, visible, descriptive title for each 'list', coloured accordingly the 'type of music'
 - the possibility to 'open' / 'close' every list
 - some other 'features' / possibilities, viz:
-![./logos/milongadj3.png]
+![features](./logos/milongadj3.png)
 
 -- to change the font of the text
 -- to jump -10 / +10 secs in the music
