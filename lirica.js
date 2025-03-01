@@ -560,6 +560,9 @@ Die Zeit, die wir verlieren,<br>\
 sie wird verweh'n, vergeh'n,<br>\
 auf Nimmerwiederseh'n."})
 
+lirica.push({"faixa":"Dis, quand reviendras-tu","lirica":lirica[lirica.length-1].lirica}) 
+lirica.push({"faixa":"Dis quand reviendras-tu (v2)","lirica":lirica[lirica.length-1].lirica}) 
+lirica.push({"faixa":"Dis quand reviendras-tu (v3)","lirica":lirica[lirica.length-1].lirica}) 
 
 
 lirica.push({"faixa":"Sag, Wann Bist Du Bei Mir","lirica":"\
@@ -615,10 +618,6 @@ sie wird verweh'n, vergeh'n,<br>\
 auf Nimmerwiederseh'n."})
 
 
-
-lirica.push({"faixa":"Dis, quand reviendras-tu","lirica":lirica[lirica.length-1].lirica}) 
-lirica.push({"faixa":"Dis quand reviendras-tu (v2)","lirica":lirica[lirica.length-1].lirica}) 
-lirica.push({"faixa":"Dis quand reviendras-tu (v3)","lirica":lirica[lirica.length-1].lirica}) 
 
 lirica.push({"faixa":"Dame brune","lirica":"Pour une longue dame brune<br>\
 J'ai inventé<br>\

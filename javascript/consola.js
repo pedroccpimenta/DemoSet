@@ -142,7 +142,7 @@ else
 			case "chacarera":
 				citem.style.background="gold";	break; 
 			case "zamba":
-				citem.style.background="purple";	break; 
+				citem.style.background="gold";	break; 
 			default:
 				citem.style.background=kor[((kor.length-1)*Math.random()).toFixed(0)];
 		}
