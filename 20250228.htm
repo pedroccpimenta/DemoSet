@@ -30,10 +30,10 @@ b=[
 
 		["./The Beatles/The Beatles - Twist and Shout.mp3", '<p><font color=gray>The Beatles - Twist and Shout'],
 
-		["./Francisco Lomuto/vals/Francisco Lomuto - Idolatría (Vals) (1937).mp3", '<b><font color=pink>Francisco Lomuto</b> - Idolatría'],
-		["./Francisco Lomuto/vals/Francisco Lomuto - Damisela Encantadora (vals) (Jorge Omar).mp3", '├ <font color=pink>Damisela Encantadora'],
-		["./Francisco Lomuto/vals/Bajo un cielo de estrellas 39850_RP.mp3", '├ <font color=pink>Bajo un cielo de estrellas'],
-		["./Francisco Lomuto/vals/Francisco Lomuto - Luna De Arrabal.mp3", '└ <font color=pink>Luna de arrabal'],
+		["./Francisco Lomuto/vals/Francisco Lomuto - Idolatría (Vals) (1937).mp3", '<b><font color=magenta>Francisco Lomuto</b> - Idolatría'],
+		["./Francisco Lomuto/vals/Francisco Lomuto - Damisela Encantadora (vals) (Jorge Omar).mp3", '├ <font color=magenta>Damisela Encantadora'],
+		["./Francisco Lomuto/vals/Bajo un cielo de estrellas 39850_RP.mp3", '├ <font color=magenta>Bajo un cielo de estrellas'],
+		["./Francisco Lomuto/vals/Francisco Lomuto - Luna De Arrabal.mp3", '└ <font color=magenta>Luna de arrabal'],
 
 		["./The Beatles/The Beatles - Twist and Shout.mp3", '<p><font color=gray>The Beatles - Twist and Shout'],
 		
@@ -76,10 +76,10 @@ b=[
 
 		["./cortinas/Fats Domino -Ain't that a shame.mp3", "<p><font color=gray>Fats Domino -Ain't that a shame"],
 
-		["./Tipica Los Provincianos/Los Provincianos - Lagrimas y flores (Carlos Lafuente).mp3", '<b><font color=pink>Los Provincianos</b> - Lagrimas y flores'],
-		["./Tipica Los Provincianos/Los Provincianos - Un placer (Carlos Lafuente).mp3", '├ <font color=pink>Un placer'],
-		["./Tipica Los Provincianos/Los Provincianos - Samaritana (Alberto Gomez).mp3", '├ <font color=pink>Samaritana'],
-		["./Tipica Los Provincianos/Los Provincianos - Junto al mar (Luis Diaz).mp3", '└ <font color=pink>Junto al mar'],
+		["./Tipica Los Provincianos/Los Provincianos - Lagrimas y flores (Carlos Lafuente).mp3", '<b><font color=magenta>Los Provincianos</b> - Lagrimas y flores'],
+		["./Tipica Los Provincianos/Los Provincianos - Un placer (Carlos Lafuente).mp3", '├ <font color=magenta>Un placer'],
+		["./Tipica Los Provincianos/Los Provincianos - Samaritana (Alberto Gomez).mp3", '├ <font color=magenta>Samaritana'],
+		["./Tipica Los Provincianos/Los Provincianos - Junto al mar (Luis Diaz).mp3", '└ <font color=magenta>Junto al mar'],
 
 
 		["./cortinas/Bobby Solo - Zingara.mp3", '<p><font color=gray>Bobby Solo - Zingara'],
@@ -91,7 +91,7 @@ b=[
 
 		["./cortinas/The Shirelles - Will You Love Me Tomorrow.mp3", '<p><font color=gray>The Shirelles - Will You Love Me Tomorrow'],
 
-		["./Juan d'Arienzo/Tango/Juan D' Arienzo - 40er/Juan d'Arienzo - Paciencia (A. Echague).mp3", "<b>Juan d'Arienzo - Paciencia"],
+		["./Juan d'Arienzo/Tango/Juan D' Arienzo - 40er/Juan d'Arienzo - Paciencia (A. Echague).mp3", "<b>Juan d'Arienzo</b> - Paciencia"],
 		["./Juan d'Arienzo/Juan d' Arienzo - La Bruja (Echague).mp3", "├ La bruja"],
 		["./Juan d'Arienzo/Tango/Juan d´Arienzo - Nada mas (Alberto Echagüe).mp3", "├ Nada más"],
 		["./Juan d'Arienzo/Tango/Juan d' Arienzo - 40er/Farabute (Alberto Echagüe).mp3", "└ Farabute"],
@@ -121,10 +121,10 @@ b=[
 		["./cortinas/christophe - Aline.mp3", "<p><font color=gray>Christophe - Aline"],
 
 
-		["./Francisco Canaro/vals/Francisco Canaro - Muchachita Portena (Francisco Amor).mp3", "<b><font color=pink>Francisco Canaro</b> - Muchachita Porteña"],
-		["./Francisco Canaro/vals/Francisco Canaro - Ojos verdes (Francisco Amor) - Sem ruído.mp3", "├ <font color=pink>Ojos verdes"],
-		["./Francisco Canaro/vals/Francisco Canaro - Muchacha.mp3", "├ <font color=pink>Muchacha"],
-		["./Francisco Canaro/vals/Francisco Canaro - Noche de estrellas (Ernesto Famánonoise).mp3", "└ <font color=pink>Noche de estrellas"],
+		["./Francisco Canaro/vals/Francisco Canaro - Muchachita Portena (Francisco Amor).mp3", "<b><font color=magenta>Francisco Canaro</b> - Muchachita Porteña"],
+		["./Francisco Canaro/vals/Francisco Canaro - Ojos verdes (Francisco Amor) - Sem ruído.mp3", "├ <font color=magenta>Ojos verdes"],
+		["./Francisco Canaro/vals/Francisco Canaro - Muchacha.mp3", "├ <font color=magenta>Muchacha"],
+		["./Francisco Canaro/vals/Francisco Canaro - Noche de estrellas (Ernesto Famánonoise).mp3", "└ <font color=magenta>Noche de estrellas"],
 
 		["./cortinas/Chubby Checker - The twist.mp3", "<p><font color=gray>Chubby Checker - The twist"],
 
@@ -150,20 +150,24 @@ b=[
     	tolist = document.getElementById('lista')
     	for (el in b)
     	{	ane = document.createElement('div')
-    		console.log(b[el])
+    		console.log(el, b[el][0])
     		ane.style.marginTop='-1px'
+    		ane.style.background='white'
     		ane.style.marginBottom='-1px'
     		ane.titulo=b[el][1]
-    		ane.bid=b[el][0]
+    		ane.path=b[el][0]
+    		ane.bid=el
+    		ane.id='x'+el
     		
             toinnerHTML=b[el][1]
             ane.innerHTML=toinnerHTML
             ane.onclick = function() {
-    			document.getElementById('lege').innerHTML='git add -f "'+this.bid+'"'
+    			document.getElementById('bid').innerHTML=this.bid
+    			document.getElementById('lege').innerHTML='git add -f "'+this.path+'"'
             	//document.getElementById('audio').title=this.titulo
 
-              	console.log(this.bid);
-                document.getElementById('audio').src=this.bid;
+              	console.log(this.path);
+                document.getElementById('audio').src=this.path;
             	document.getElementById('audio').play()
             }
             tolist.appendChild(ane)
@@ -173,9 +177,36 @@ b=[
     	
     }
 
+function checkdisplay()
+{		console.log(".")
+    	for (el in b)
+    	{	tot =document.getElementById('x'+el)
+    		if (el==1*document.getElementById('bid').innerHTML)
+    		{
+    				if (tot.style.background=='white')
+    				{
+		    			tot.style.background='#80ef80'	
+    				}
+    				else
+    				{
+		    			tot.style.background='white'	
+
+    				}
+    		}
+    		else
+    		{
+    			tot.style.background='white'	
+    		}
+
+    	}
+}
+
+setInterval(checkdisplay, 1000);
 
 </script>
 </head>
+
+
 <body style="font-family:Lato">
 	<h1>20250228</h1>
 	<center>
@@ -185,7 +216,8 @@ b=[
         <source type="audio/mp3" src="">
         Sorry, your browser does not support HTML5 audio.
     </audio>
-    <span id='lege'></span>
+    <span id='bid' style="display: ;">-1</span>
+    <span id='lege' style="display: none;"></span>
 	
 
 	<tr><td><span id=lista></span>
