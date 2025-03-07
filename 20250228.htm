@@ -99,9 +99,9 @@ b=[
 
 		["./cortinas/James Brown - I Got You (I Feel Good).mp3", "<p><font color=gray>James Brown - I Got You"],
 
-		["./Edgardo Donato/milonga/Edgardo Donato - Ella es asi (Horacio Lagos).mp3", "<b><font color=blue>Edgardo Donato<b> - Ella es así"],
-		["./Edgardo Donato/milonga/02 Sacale Punta (milonga).mp3", "├ <font color=blue>Sacale punta"],
-		["./Edgardo Donato/milonga/Edgardo Donato - La Milonga Que Faltaba.mp3", "└ <font color=blue>La milonga que faltaba"],
+		["./edgardo donato/milonga/Edgardo Donato - Ella es asi (Horacio Lagos).mp3", "<b><font color=blue>Edgardo Donato<b> - Ella es así"],
+		["./edgardo donato/milonga/02 Sacale Punta (milonga).mp3", "├ <font color=blue>Sacale punta"],
+		["./edgardo donato/milonga/Edgardo Donato - La Milonga Que Faltaba.mp3", "└ <font color=blue>La milonga que faltaba"],
 
 		["", '<p><font color=gray>* Interrupção *'],
 
@@ -118,20 +118,20 @@ b=[
 		["./Osvaldo Pugliese/Osvaldo Pugliese - Rondando Tu Esquina (Roberto Chanel).mp3", "├ Rondando tu esquina"],
 		["./Osvaldo Pugliese/Osvaldo Pugliese - Nada Mas Que un Corazon (Roberto Chanel).mp3", "└ Nada más que un corazón"],
 
-		["./cortinas/christophe - Aline.mp3", "<p><font color=gray>Christophe - Aline"],
+		["./cortinas/Christophe - Aline.mp3", "<p><font color=gray>Christophe - Aline"],
 
 
-		["./Francisco Canaro/vals/Francisco Canaro - Muchachita Portena (Francisco Amor).mp3", "<b><font color=magenta>Francisco Canaro</b> - Muchachita Porteña"],
-		["./Francisco Canaro/vals/Francisco Canaro - Ojos verdes (Francisco Amor) - Sem ruído.mp3", "├ <font color=magenta>Ojos verdes"],
-		["./Francisco Canaro/vals/Francisco Canaro - Muchacha.mp3", "├ <font color=magenta>Muchacha"],
-		["./Francisco Canaro/vals/Francisco Canaro - Noche de estrellas (Ernesto Famánonoise).mp3", "└ <font color=magenta>Noche de estrellas"],
+		["./Francisco Canaro/Vals/Francisco Canaro - Muchachita Portena (Francisco Amor).mp3", "<b><font color=magenta>Francisco Canaro</b> - Muchachita Porteña"],
+		["./Francisco Canaro/Vals/Francisco Canaro - Ojos verdes (Francisco Amor) - Sem ruído.mp3", "├ <font color=magenta>Ojos verdes"],
+		["./Francisco Canaro/Vals/Francisco Canaro - Muchacha.mp3", "├ <font color=magenta>Muchacha"],
+		["./Francisco Canaro/Vals/Francisco Canaro - Noche de estrellas (Ernesto Famánonoise).mp3", "└ <font color=magenta>Noche de estrellas"],
 
 		["./cortinas/Chubby Checker - The twist.mp3", "<p><font color=gray>Chubby Checker - The twist"],
 
 		["./Carlos Di Sarli/Carlos di Sarli - Viviani.mp3", "<b>Carlos di Sarli</b> - Viviani"],
 		["./Carlos Di Sarli/Carlos Di Sarli - Bar Exposición.mp3", "├ Bar Exposición"],
 		["./Carlos Di Sarli/CARLOS DI SARLI - UNA FIJA.mp3", "├ Una fija"],
-		["./Carlos Di Sarli/Carlos Di Sarli - Nueve Puntos.mp3", "└ Nueve puntos"],
+		["./Carlos Di Sarli/Carlos di Sarli - Nueve Puntos.mp3", "└ Nueve puntos"],
 
 		["./cortinas/Glenn Miller - In The Mood.mp3", "<p><font color=gray>Glenn Miller - In The Mood"],
 
@@ -164,6 +164,8 @@ b=[
             ane.onclick = function() {
     			document.getElementById('bid').innerHTML=this.bid
     			document.getElementById('lege').innerHTML='git add -f "'+this.path+'"'
+				if (window.location.hostname=="")
+					document.getElementById('lege').style.display=""
             	//document.getElementById('audio').title=this.titulo
 
               	console.log(this.path);
@@ -196,6 +198,8 @@ function checkdisplay()
     		}
     	}
 }
+
+console.log( window.location.hostname)
 
 setInterval(checkdisplay, 555);
 
