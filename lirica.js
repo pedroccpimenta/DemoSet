@@ -9129,7 +9129,9 @@ que es mi querer,<br>\
 desengañarme así<br>\
 será más cruel.<br>\
 <br>No… no me repitas ese adiós…<br>\
-que esto lo sepa sólo Dios!, el cielo, y tú…"}) 
+que esto lo sepa sólo Dios!, el cielo, y tú…<br><br>\
+<a href='https://www.hermanotango.com.ar/LetrasTangos/TU%20%20EL%20CIELO%20Y%20TU.htm' target='*'>Hermano Tango</a>"
+}) 
 
 
 

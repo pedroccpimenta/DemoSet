@@ -1,6 +1,32 @@
 
 filename="";
 
+////////////////////////////////////////////////////
+
+async function sharetanda()
+{		t=document.getElementById("tanda").value
+		b=document.getElementById("brano").value
+		url = "http://127.0.0.1:5353/page2?tandacorrente="+c[t][0].nome+"&brano='"+c[t][b].file+"'"
+		console.log(url)
+		try {
+          fetch(url)
+              .then(response => {
+                  if (!response.ok) {
+                      throw new Error('Network response was not ok ' + response.statusText);
+                  		}
+                      return response.json();
+              })
+              .then(data => {
+              	console.log(data)
+              })
+    }
+    catch (error) {
+            console.log('Error fetching data');
+            throw error;
+    }
+}
+    /////////////////////////////////////////////////////////////
+
 function go1(){
 	t=	document.getElementById("audio2");
 	t.addEventListener('ended',function(e){
@@ -301,6 +327,7 @@ function cambiai(x){
 		t=0+t*1.0
 		console.log('tanda:'+t)	
 		
+
 		if(t==ot)
 		{	console.log("autoplay")
 		}
