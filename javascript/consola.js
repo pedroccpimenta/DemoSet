@@ -2,11 +2,34 @@
 filename="";
 
 ////////////////////////////////////////////////////
+var ehst=0
+function  bsharetanda()
+{
+		bs = document.getElementById("sharetanda").style.background
+		//alert(bs)
+		if (bs=='silver')
+		{
+			document.getElementById("sharetanda").style.background='lime'
+			document.getElementById("sharetanda").value='sharing'
+			sharetanda();
+			ehst=setInterval(sharetanda, 3000)
+			// clearInterval(ehst)
+		}
+		else
+		{
+			document.getElementById("sharetanda").style.background='silver'
+			document.getElementById("sharetanda").value='not sharing'
+			clearInterval(ehst)
+		}
+}
+
 
 async function sharetanda()
-{		t=document.getElementById("tanda").value
+{			
+		t=document.getElementById("tanda").value
 		b=document.getElementById("brano").value
-		url = "http://127.0.0.1:5353/page2?tandacorrente="+c[t][0].nome+"&brano='"+c[t][b].file+"'"
+		url = encodeURIComponent("http://127.0.0.1:5353/page2?tandacorrente="+c[t][0].nome+"&brano="+c[t][b].file)
+		url = encodeURI ("http://127.0.0.1:5353/page2?tandacorrente="+c[t][0].nome+"&brano="+c[t][b].file)
 		console.log(url)
 		try {
           fetch(url)
@@ -24,6 +47,25 @@ async function sharetanda()
             console.log('Error fetching data');
             throw error;
     }
+		url = encodeURI ("https://tandacorrente.onrender.com/page2?tandacorrente="+c[t][0].nome+"&brano="+c[t][b].file)
+		console.log(url)
+		try {
+          fetch(url)
+              .then(response => {
+                  if (!response.ok) {
+                      throw new Error('Network response was not ok ' + response.statusText);
+                  		}
+                      return response.json();
+              })
+              .then(data => {
+              	console.log(data)
+              })
+    }
+    catch (error) {
+            console.log('Error fetching data');
+            throw error;
+    }
+
 }
     /////////////////////////////////////////////////////////////
 
@@ -169,6 +211,8 @@ else
 				citem.style.background="gold";	break; 
 			case "zamba":
 				citem.style.background="gold";	break; 
+			case "cortina":
+				citem.style.background="whitesmoke";	break; 
 			default:
 				citem.style.background=kor[((kor.length-1)*Math.random()).toFixed(0)];
 		}

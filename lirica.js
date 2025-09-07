@@ -6,10 +6,422 @@ lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
 lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
+lirica.push({"faixa":"La danse de Zorba","lirica":"Là-bas, Zorba, dans son pays<br>\
+S'élance, il danse, le sirtaki<br>\
+Déjà, la joie conduit ses pas<br>\
+Vient il nous tend les bras<br>\
+Si tu veux couvrir de roses tous ceux que tu vois en gris<br>\
+Si tu es vraiment morose vient danser le sirtaki<br>\
+Si tu veux que disparaissent tes soucis et tes tracas<br>\
+Si tu cherches ta jeunesse vient danser avec Zorba<br>\
+Vient danser pour qu'on oublie que le jour se lèveraLe<br>\
+Vent, d'orient, vient d'apporter<br>\
+Des notes, qui flottent<br>\
+Au ciel d'été<br>\
+Déjà<br>\
+Je sens que cet air-là<br>\
+Va soulever nos pas<br>\
+Là-bas, déjà, la nuit descend, les jours<br>\
+Sont courts, pour les amants<br>\
+L'été, va bientôt nous quitter<br>\
+Il faut en profiter<br>\
+Si tu es celui qui vole au temps des instants d'oubli<br>\
+Qui se méfie des paroles vient danser le sirtaki<br>\
+Si tu es celui qui pense et au milieu de ces tracas<br>\
+Au bateau qui se balance viens danser avec Zorba<br>\
+Si tu es celui qui vide le bonheur jusqu'à lie<br>\
+En se moquant bien des rides vient danser le sirtaki<br>\
+Si tu es celui qui use être fier d'un cœur qui bat<br>\
+En regardant une rose vient danser avec Zorba<br>\
+Viens danser avec Zorba<br>\
+Vient danser avec Zorba"})
+
+
+lirica.push({"faixa":"Il venait d'avoir 18 ans","lirica":"Il venait d'avoir dix-huit ans<br>\
+Il était beau comme un enfant<br>\
+Fort comme un homme<br>\
+C'était l'été, évidemment<br>\
+Et j'ai compté en le voyant<br>\
+Mes nuits d'automne<br>\
+<br>\
+J'ai mis de l'ordre à mes cheveux<br>\
+Un peu plus de noir sur mes yeux<br>\
+Ça l'a fait rire<br>\
+<br>\
+Quand il s'est approché de moi<br>\
+J'aurais donné n'importe quoi<br>\
+Pour le séduire<br>\
+<br>\
+Il venait d'avoir dix-huit ans<br>\
+C'était le plus bel argument<br>\
+De sa victoire<br>\
+<br>\
+Il ne m'a pas parlé d'amour<br>\
+Il pensait que les mots d'amour<br>\
+Sont dérisoires<br>\
+<br>\
+Il m'a dit `j'ai envie de toi`<br>\
+Il avait vu au cinéma<br>\
+<a href='https://fr.wikipedia.org/wiki/Le_Bl%C3%A9_en_herbe' target=_new>Le blé en herbe</a><br>\
+<br>\
+Au creux d'un lit improvisé<br>\
+J'ai découvert, émerveillée<br>\
+Un ciel superbe<br>\
+<br>\
+Il venait d'avoir dix-huit ans<br>\
+Ça le rendait presque insolent<br>\
+De certitude<br>\
+<br>\
+Et pendant qu'il se rhabillait<br>\
+Déjà vaincue, je retrouvais<br>\
+Ma solitude<br>\
+<br>\
+J'aurais voulu le retenir<br>\
+Pourtant, je l'ai laissé partir<br>\
+Sans faire un geste<br>\
+<br>\
+Il m'a dit `c'était pas si mal`<br>\
+Avec la candeur infernale<br>\
+De sa jeunesse<br>\
+<br>\
+J'ai mis de l'ordre à mes cheveux<br>\
+Un peu plus de noir sur mes yeux<br>\
+Par habitude<br>\
+J'avais oublié simplement<br>\
+Que j'avais deux fois<br>\
+Dix-huit ans"})
+
+
+
+lirica.push({"faixa":"Tu n'as pas merité","lirica":"Tu n'as pas mérité le mal que je t'ai fait<br>\
+Mais je ne veux plus que tu ais de la peine<br>\
+Et je voudrais que tu reviennes<br>\
+Je ne peux m'expliquer ce qui est arrivé<br>\
+Non je n'avais pas de reproche à te faire<br>\
+Et ton amour était sincère<br>\
+<br>\
+Il faut me pardonner car je t'aime encore<br>\
+Ce soir je reconnais que c'est moi<br>\
+Qui ai tous les torts notre amour avoue le<br>\
+Méritait beaucoup mieux<br>\
+Alors oublions tout ce qui nous sépare<br>\
+Et recommençons notre histoire d'amour<br>\
+<br>\
+Il faut me pardonner car je t'aime encore<br>\
+Ce soir je reconnais que c'est moi<br>\
+Qui ai tous les torts<br>\
+Notre amour avoue le méritait beaucoup mieux<br>\
+Alors oublions tout ce qui nous sépare<br>\
+Et recommençons notre histoire d'amour<br>\
+A mon réveil amore"})
+
+
+lirica.push({"faixa":"La cumparsita","lirica":"Yo busco, Luna, tu esplendor,<br>\
+Bésame como ayer.<br>\
+Cuando en los brazos del amor<br>\
+Veía mi esperanza florecer.<br>\
+Hay recuerdos que suelen torturar<br>\
+Y en la triste soledad, mi corazón,<br>\
+Sufre y calla su dolor que no podrá ocultar.<br>\
+ <br>\
+Tú sabes de la ingratitud de ese amor que se fue<br>\
+Y sufre hoy mi juventud, que ya perdió la fe.<br>\
+De recuerdo un lirio me quedó,<br>\
+Fiel testigo del tiempo de ayer<br>\
+En que mi alma viviendo, un placer cantó.<br>\
+ <br>\
+“Toma esta flor”, dijo la boca que yo había besado<br>\
+En ella va el más noble cariño lacerado.<br>\
+Pero mintió, pobre de mí que todo lo creía<br>\
+Y aún su lirio blanco yo beso noche y día.<br>\
+Hoy, junto a mí, ese fatal recuerdo del pasado<br>\
+Tan marchitado está, como el amor que perdí."})
+
+
+lirica.push({"faixa":"La cumparsita","lirica":"Una vez más quisiera estar contigo<br>\
+En el lado oscuro que tiene la luna<br>\
+Que tu mirada me sirva de abrigo<br>\
+Quiero sentir que sigo siendo tuya<br>\
+Dejemos que el viento de la madrugada<br>\
+Siembre caricias de color violeta<br>\
+Escribe tu nombre aquí en mi piel desnuda<br>\
+Y cuida mi sueños mientras yo me duerma<br>\
+<br>\
+Una vez más quiero romper el cielo<br>\
+Y desatar una lluvia de estrellas<br>\
+Quiero escuchar el grito del silencio<br>\
+Y congelar el tiempo hasta que vuelvas<br>\
+Te esperaré, deseándote<br>\
+Con el corazón en las manos<br>\
+Mi mente en tus labios<br>\
+Con la pasión quemándome las venas<br>\
+<br>\
+Te esperaré, donde una vez<br>\
+Me arrancaste la vida<br>\
+Sin pedirme permiso<br>\
+Donde el amor volvió a nacer<br>\
+Ahí te esperaré<br>\
+<br>\
+Tu eres de marte y yo vengo de venus<br>\
+Eso no impide que este amor sea eterno<br>\
+Que sin hablar digamos tantas cosas<br>\
+Con el lenguaje que hablan nuestros cuerpos<br>\
+<br>\
+Una vez más quiero romper el cielo<br>\
+Y desatar una lluvia de estrellas<br>\
+Quiero escuchar el grito del silencio<br>\
+Y congelar el tiempo hasta que vuelvas<br>\
+Te esperaré, deseándote<br>\
+Con el corazón en las manos<br>\
+Mi mente en tus labios<br>\
+Con la pasión quemándome las venas<br>\
+Te esperaré, donde una vez<br>\
+Me arrancaste la vida<br>\
+Sin pedirme permiso<br>\
+Donde el amor volvió a nacer<br>\
+<br>\
+Ahí te esperaré<br>\
+Ahí te esperaré<br>\
+Ahí te esperaré<br>\
+Te esperaré, deseándote<br>\
+Con el corazón en las manos<br>\
+Mi mente en tus labios<br>\
+Con la pasión quemándome las venas<br>\
+Te esperaré, donde una vez<br>\
+Me arrancaste la vida<br>\
+Sin pedirme permiso<br>\
+Donde el amor volvió a nacer<br>\
+Ahí te esperaré"})
+
+
+lirica.push({"faixa":"La Lopez Pereyra","lirica":"Yo quisiera olvidarte<br>\
+Me es imposible<br>\
+Mi bien, mi bien<br>\
+Tu imagen me persigue<br>\
+Tuya es mi vida<br>\
+Mi amor también<br>\
+<br>\
+Y cuando pensativo<br>\
+Yo solo estoy<br>\
+Deliro con la falsía<br>\
+Con que ha pagado<br>\
+Tu amor, tu amor<br>\
+Deliro con la falsía<br>\
+Con que ha pagado<br>\
+Tu amor, tu amor<br>\
+<br>\
+Yo quisiera tenerte<br>\
+A mi lado todo el día<br>\
+De mis ocultos amores<br>\
+Paloma, te contaría<br>\
+Pero, es inútil mi anhelo<br>\
+Jamás, jamás<br>\
+<br>\
+Vivo sólo para amarte<br>\
+Callado y triste<br>\
+Llorar, llorar<br>\
+Vivo sólo para amarte<br>\
+Callado y triste<br>\
+Llorar, llorar<br>\
+<br>\
+Yo bien sé que no me quieres<br>\
+Pero eso no es un motivo<br>\
+Me privas de tus mirada'<br>\
+Mi alma y sin ella no vivo<br>\
+<br>\
+Voy a esconderme a una selva sólo a llorar<br>\
+Pueda ser que en mi destierro<br>\
+Tus ojos negros pueda olvidar<br>\
+Pueda ser que en mi destierro<br>\
+Tus ojos negros pueda olvidar<br>\
+<br>\
+Un día, de mañanita<br>\
+Al cielo azul miré, miré<br>\
+Contemplando las estrellas<br>\
+A la más bella le pregunté<br>\
+Si ella era la que alumbraba<br>\
+Mi amor, mi amor<br>\
+<br>\
+Para pedir por ella<br>\
+Al Dios piadoso, resignación (se acaba)<br>\
+Para pedir por ella<br>\
+Al Dios piadoso, resignación"})
+
+
+lirica.push({"faixa":"Zamba de mi esperanza","lirica":"Zamba de mi esperanza<br>\
+Amanecida como un querer<br>\
+Sueño, sueño del alma<br>\
+Que a veces muere sin florecer<br>\
+<br>\
+Zamba, a ti te canto<br>\
+Porque tu canto derrama amor<br>\
+Caricia de tu pañuelo<br>\
+Que va envolviendo mi corazón<br>\
+<br>\
+Estrella, tú que miraste<br>\
+Tú que escuchaste mi padecer<br>\
+Estrella, deja que cante<br>\
+Deja que quiera como yo sé<br>\
+Estrella, deja que cante<br>\
+Deja que quiera como yo sé<br>\
+<br>\
+<br>\
+El tiempo que va pasando<br>\
+Como la vida no vuelve más<br>\
+El tiempo me va matando<br>\
+Y tu cariño se irá, se irá<br>\
+<br>\
+Hundido en horizontes<br>\
+Soy polvadera que al viento va<br>\
+Zamba, ya no me dejes<br>\
+Yo sin tu canto no vivo más<br>\
+<br>\
+Estrella, tú que miraste<br>\
+Tú que escuchaste mi parecer<br>\
+Estrella, deja que cante<br>\
+Deja que quiera como yo sé<br>\
+Estrella, deja que cante<br>\
+Deja que quiera como yo sé"})
 
 
 
 lirica.push({"faixa":"Yuyo verde","lirica":"Yuyo verde"}) 
+
+
+lirica.push({"faixa":"Quando os outros te batem, beijo-te eu","lirica":"Se bem que não me ouviste e foste embora<br>\
+E tudo em ti decerto me esqueceu<br>\
+Como ontem, o meu grito diz-te agora<br>\
+Quando os outros te batem, beijo-te eu<br>\
+<br>\
+Se bem que às minhas maldições fugiste<br>\
+Por te haver dado tudo o que era meu<br>\
+Como ontem, o meu grito agora viste<br>\
+Quando os outros te batem, beijo-te eu<br>\
+<br>\
+Mas há-de vir o dia em que a saudade<br>\
+Te lembre quem por ti já se perdeu<br>\
+O fado quando é triste é que é verdade<br>\
+Quando os outros te batem, beijo-te eu"})
+
+
+lirica.push({"faixa":"En último trago","lirica":"Tómate esta botella conmigo<br>\
+Y en el último trago nos vamos<br>\
+Quiero ver a qué sabe tu olvido<br>\
+Sin poner en mis ojos tus manos<br>\
+Esta noche no voy a rogarte<br>\
+Esta noche te vas de a de veras<br>\
+Qué difícil tener que dejarte<br>\
+Sin que sienta que ya no me quieras<br>\
+Nada me han enseñado los años<br>\
+Siempre caigo en los mismos errores<br>\
+Otra vez a brindar con extraños<br>\
+Y a llorar por los mismos dolores<br>\
+Tómate esta botella conmigo<br>\
+Y en el último trago me besas<br>\
+Esperamos que no haya testigos<br>\
+Por si acaso te diera vergüenza<br>\
+Si algún día sin querer tropezamos<br>\
+No te agaches ni me hables de frente<br>\
+Simplemente la mano nos damos<br>\
+Y después que murmure la gente<br>\
+Nada me han enseñado los años<br>\
+Siempre caigo en los mismos errores<br>\
+Otra vez a brindar con extraños<br>\
+Y a llorar por los mismos dolores<br>\
+Tómate esta botella conmigo<br>\
+Y en el último trago nos vamos"}) 
+
+
+
+
+
+lirica.push({"faixa":"Donde estás corazón","lirica":"Yo le quería con toda el alma<br>\
+Como se quiere sólo una vez<br>\
+Pero el destino cambió mi suerte<br>\
+Quiso dejarme sin su querer<br>\
+<br>\
+Una mañana de frío invierno<br>\
+Sin darme cuenta se echó a volar<br>\
+Y desde entonces aún le espero<br>\
+No me resigno a la soledad<br>\
+<br>\
+¿dónde estás, corazón?<br>\
+No oígo tu palpitar<br>\
+Es tan grande el dolor<br>\
+Que no puedo llorar<br>\
+Yo quisiera llorar<br>\
+Y no tengo más llanto<br>\
+Le quería yo tanto y se fue<br>\
+Para nunca volver<br>\
+<br>\
+Yo le quería con toda el alma<br>\
+Como se quiere sólo una vez<br>\
+Pero el destino cambió mi suerte<br>\
+Quiso dejarme sin su querer<br>\
+Tan sólo el tiempo borrar podría<br>\
+Aquellos años de tanto amor<br>\
+Y una mañana de frío invierno<br>\
+La luz del alba se oscureció<br>\
+<br>\
+¿dónde estás, corazón?<br>\
+No oígo tu palpitar<br>\
+Es tan grande el dolor<br>\
+Que no puedo llorar<br>\
+Yo quisiera llorar<br>\
+Y no tengo más llanto<br>\
+Le quería yo tanto y se fue<br>\
+Para nunca volver"}) 
+
+
+lirica.push({"faixa":"Anillo de bodas","lirica":"Anillo de bodas que puse en tu mano<br>\
+Anillo que es símbolo de nuestro amor<br>\
+Que unió para siempre y por toda la vida<br>\
+A nuestras dos almas delante de Dios<br>\
+<br>\
+Hoy vives sufriendo nomás por mi culpa<br>\
+Perdona lo injusto que fui sin querer<br>\
+Creyendo que sólo con mucho cariño<br>\
+Podía darte todo maldita mi fe<br>\
+<br>\
+Anillo de compromiso cadena de nuestro amor<br>\
+Anillo de compromiso que la suerte quiso<br>\
+Que uniera a los dos<br>\
+<br>\
+Soy pobre muy pobre y tú ya lo haz visto<br>\
+Te he dado miseria te he dado dolor<br>\
+Y aunque yo te quiera que vale el cariño<br>\
+Si no puedo hacerte feliz con amor<br>\
+<br>\
+Si algún día recuerdas al pobre que sueña<br>\
+Que lucha y se arrastra por querer vivir<br>\
+Jamás lo maldigas que al fin fue un mendigo<br>\
+Que quiso elevarse por llegar a ti"}) 
+
+
+
+lirica.push({"faixa":"noche de mi mal","lirica":"No quiero ni volver a oír tu nombre<br><br>\
+No quiero ni saber a donde vas<br>\
+Así me lo dijiste aquella noche<br>\
+Aquella negra noche de mi mal<br>\
+Si yo te hubiera dicho no te vayas<br>\nQue triste me esperaba el porvenir<br>\
+Si yo te hubiera dicho no, no me dejes<br>\
+Mi propio corazón se iba a reír<br>\
+Por eso fue que me viste tan tranquilo<br>\
+Caminar serenamente bajo un cielo mas que azul<br>\
+Después ya ves, me aguante hasta donde pude<br>\
+Termine llorando a mares donde no me vieras tú<br>\
+Si yo te hubiera dicho no te vayas<br>\
+Qué triste me esperaba el porvenir<br>\
+Si yo te hubiera dicho no me dejes<br>\
+Mi propio corazón se iba a reír<br>\
+Por eso fue que me viste tan tranquilo<br>\
+Caminar serenamente bajo un cielo mas que azul<br>\
+Después ya ves, me aguante hasta donde pude<br>\
+Termine llorando a mares donde no me vieras tú<br>\
+Si yo te hubiera dicho no te vayas<br>\
+Qué triste me esperaba el porvenir<br>\
+Si yo te hubiera dicho no me dejes<br>\
+Mi propio corazón se iba a reír"}) 
 
 
 lirica.push({"faixa":"I who have nothing","lirica":"I who have nothing<br>\
@@ -4437,6 +4849,7 @@ Cerné de barricades<br>\
 Tu entends je suis malade"})
 
 
+lirica.push({"faixa":"Je suis malade - v0","lirica": lirica[len(lirica)-1]['lirica'] })
 
 
 lirica.push({"faixa":"Una voce poce fa","lirica":"Una voce poco fa<br>\
@@ -5821,9 +6234,6 @@ Que fue el canto de mi flor.<br>\
 <br>\
 Letra : Mario Batistella  (Mario Batti–Stella Zoppi)<br>\
 Música : Mario Melfi  (Antonio Mario Melfi)"})
-
-lirica.push({"faixa":"Remembranzas","lirica":lirica[lirica.length-1]["lirica"]}) 
-
 
 
 
