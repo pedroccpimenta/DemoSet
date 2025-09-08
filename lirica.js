@@ -6,6 +6,42 @@ lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
 lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
+lirica.push({"faixa":"Concerto pour une voix","lirica":"Chaque Nuit<br>\
+Quand l'oiseau de Paradis fait sa ronde<br>\
+J'ouvre la porte à mon amour<br>\
+Et tous les deux nous voyageons loin du monde<br>\
+En attendant le retour<br>\
+Des premiers rayons du soleil et de l'ombre<br>\
+Dans la chambre nue<br>\
+Où tous nos gestes sont un monde inconnu<br>\
+Chaque nuit<br>\
+Nous échangeons des colliers de promesses<br>\
+Nous échangeons des anneaux d'or<br>\
+Des rivières et des diamants de jeunesse<br>\
+Et puis nous quittons le port<br>\
+Comme des rois sur des bateaux de tendresse<br>\
+Pour mille pays<br>\
+Que tu fais naître de ma main chaque nuit<br>\
+Et nos yeux ne trouvent pas le sommeil<br>\
+Comment s'endormir quand l'arbre est en feu<br>\
+Devant le soleil<br>\
+Dieu<br>\
+Que je t'aime chaque nuit<br>\
+Que tu m'aimes chaque nuit<br>\
+Que la route est belle chaque nuit<br>\
+<br>\
+Chaque Nuit<br>\
+Quand l'oiseau de Paradis fait sa ronde<br>\
+J'ouvre la porte à mon amour<br>\
+Et tous les deux nous voyageons loin du monde<br>\
+En attendant le retour<br>\
+Des premiers rayons du soleil et de l'ombre<br>\
+Dans la chambre nue<br>\
+Où tous nos gestes sont un monde inconnu<br>\
+<br>\
+Mon amour<br>\
+Je ne veux plus jamais voir le jour"})
+
 lirica.push({"faixa":"La danse de Zorba","lirica":"Là-bas, Zorba, dans son pays<br>\
 S'élance, il danse, le sirtaki<br>\
 Déjà, la joie conduit ses pas<br>\
