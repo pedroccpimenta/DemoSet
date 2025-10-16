@@ -6,6 +6,65 @@ lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
 lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
+
+lirica.push({"faixa":"Maria Madalena","lirica":"Quem por amor se perdeu<br>\
+Não chore, não tenha pena<br>\
+Uma das santas do céu<br>\
+Foi Maria Madalena<br>\
+<br>\
+Desse amor que nos encanta<br>\
+Até Cristo padeceu<br>\
+Para poder tornar santa<br>\
+Quem por amor se perdeu<br>\
+<br>\
+Jesus só nos quis mostrar<br>\
+Que o amor não se condena<br>\
+Por isso, quem sabe amar<br>\
+Não chore, não tenha pena<br>\
+<br>\
+A Virgem Nossa Senhora<br>\
+Quando o amor conheceu<br>\
+Fez da maior pecadora<br>\
+Uma das santas do céu<br>\
+<br>\
+E de tanta que pecou<br>\
+Da maior à mais pequena<br>\
+Aquela que mais amou<br>\
+Foi Maria Madalena"})
+
+
+lirica.push({"faixa":"Beijos de fogo","lirica":"Silêncio nem uma pena<br>\
+Quero a minha alma serena<br>\
+Sem soluços na cidade<br>\
+<br>\
+Sequei meus olhos chorados<br>\
+Pus no peito cadeados<br>\
+Pra não entrar a saudade<br>\
+<br>\
+Sequei meus olhos chorados<br>\
+Pus no peito cadeados<br>\
+Pra não entrar a saudade<br>\
+<br>\
+Numa atitude mais louca<br>\
+Pousei sobre a minha boca<br>\
+Rosas fogo de quem ama<br>\
+<br>\
+Pra se me vencer a fome<br>\
+De querer gritar teu nome<br>\
+Meus lábios fiquem em chama<br>\
+<br>\
+Pra se me vencer a fome<br>\
+De querer gritar teu nome<br>\
+Meus lábios fiquem em chama<br>\
+<br>\
+Mas a noite é um segredo<br>\
+Confesso que tenho medo<br>\
+E ao mesmo tempo desejos<br>\
+Ouvir silêncios rasgados<br>\
+De quebrar os cadeados<br>\
+De te queimar com meus beijos"})
+
+
 lirica.push({"faixa":"Concerto pour une voix","lirica":"Chaque Nuit<br>\
 Quand l'oiseau de Paradis fait sa ronde<br>\
 J'ouvre la porte à mon amour<br>\
