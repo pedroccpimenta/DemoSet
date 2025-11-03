@@ -8,7 +8,7 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
 
 
-lirica.push({"faixa":"Que te vaya bonito","lirica":"Ojalá que te vaya bonito<br>\
+lirica.push({"faixa":"Que te vaya bonito 👈","lirica":"Ojalá que te vaya bonito<br>\
 Ojalá que se acaben tus penas<br>\
 Que te digan que yo ya no existo<br>\
 Que conozcas personas más buenas<br>\
@@ -240,7 +240,7 @@ Et recommençons notre histoire d'amour<br>\
 A mon réveil amore"})
 
 
-lirica.push({"faixa":"La cumparsita","lirica":"Yo busco, Luna, tu esplendor,<br>\
+lirica.push({"faixa":"Lirio Blanco","lirica":"Yo busco, Luna, tu esplendor,<br>\
 Bésame como ayer.<br>\
 Cuando en los brazos del amor<br>\
 Veía mi esperanza florecer.<br>\
@@ -262,7 +262,7 @@ Hoy, junto a mí, ese fatal recuerdo del pasado<br>\
 Tan marchitado está, como el amor que perdí."})
 
 
-lirica.push({"faixa":"La cumparsita","lirica":"Una vez más quisiera estar contigo<br>\
+lirica.push({"faixa":"Te esperaré","lirica":"Una vez más quisiera estar contigo<br>\
 En el lado oscuro que tiene la luna<br>\
 Que tu mirada me sirva de abrigo<br>\
 Quiero sentir que sigo siendo tuya<br>\
@@ -4973,7 +4973,7 @@ Cerné de barricades<br>\
 Tu entends je suis malade"})
 
 
-lirica.push({"faixa":"Je suis malade - v0","lirica": lirica[len(lirica)-1]['lirica'] })
+lirica.push({"faixa":"Je suis malade - v0","lirica": lirica[lirica.length-1]['lirica'] })
 
 
 lirica.push({"faixa":"Una voce poce fa","lirica":"Una voce poco fa<br>\
