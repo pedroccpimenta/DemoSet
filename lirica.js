@@ -7,6 +7,35 @@ lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
 
+
+lirica.push({"faixa":"Que te vaya bonito","lirica":"Ojalá que te vaya bonito<br>\
+Ojalá que se acaben tus penas<br>\
+Que te digan que yo ya no existo<br>\
+Que conozcas personas más buenas<br>\
+Que te den lo que no pude darte<br>\
+Aunque yo te haya dado de todo<br>\
+Nunca más volveré a molestarte<br>\
+Te adoré, te perdí, ya ni modo<br>\
+Cuantas cosas quedaron prendidas<br>\
+Hasta dentro del fondo de mi alma<br>\
+Cuantas luces dejaste encendidas<br>\
+Yo no sé como voy a apagarlas<br>\
+Ojalá que mi amor no te duela<br>\
+Y te olvides de mí para siempre<br>\
+Que se llenen de sangre tus venas<br>\
+Y te vista la vida de suerte<br>\
+Yo no sé si tu ausencia me mate<br>\
+Aunque tengo mi pecho de acero<br>\
+Pero nadie me llame cobarde<br>\
+Sin saber hasta donde la quiero<br>\
+Cuantas cosas quedaron prendidas<br>\
+Hasta dentro del fondo de mi alma<br>\
+Cuantas luces dejaste encendidas<br>\
+Yo no sé como voy a apagarlas<br>\
+Ojalá que te vaya bonito"})
+
+
+
 lirica.push({"faixa":"Maria Madalena","lirica":"Quem por amor se perdeu<br>\
 Não chore, não tenha pena<br>\
 Uma das santas do céu<br>\
