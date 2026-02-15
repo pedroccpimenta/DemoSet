@@ -8,6 +8,56 @@ lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
 
 
+lirica.push({"faixa":"The end of the world","lirica":"Why does the sun go on shining?<br>\
+Why does the sea rush to shore?<br>\
+Don't they know it's the end of the world?<br>\
+'Cause you don't love me any more<br>\
+<br>\
+Why do the birds go on singing?<br>\
+Why do the stars glow above?<br>\
+Don't they know it's the end of the world?<br>\
+It ended when I lost your love<br>\
+<br>\
+I wake up in the morning and I wonder<br>\
+Why everything's the same as it was<br>\
+I can't understand, no, I can't understand<br>\
+How life goes on the way it does<br>\
+<br>\
+Why does my heart go on beating?<br>\
+Why do these eyes of mine cry?<br>\
+Don't they know it's the end of the world?<br>\
+It ended when you said goodbye<br>\
+<br>\
+Why does my heart go on beating? Hmm, hmm<br>\
+Why do these eyes of mine cry? Hmm, hmm<br>\
+Don't they know it's the end of the world?<br>\
+It ended when you said goodbye"})
+
+
+lirica.push({"faixa":"a dear John letter","lirica":"Dear John, Oh, how I hate to write<br>\
+Dear John, I must let you know tonight<br>\
+That my love for you has died away like grass upon the lawn<br>\
+And tonight I wed another, Dear John<br>\
+<br>\
+Recitation:<br>\
+<br>\
+I was overseas in battle when the postman came to me<br>\
+And he handed me a letter, I was happy as I could be<br>\
+For the fighting was all over and the battle had been won<br>\
+Then I opened up the letter and it started, 'Dear John.'<br>\
+Dear John, Oh, how I hate to write<br>\
+Dear John, I must let you know tonight<br>\
+That my love for you has died away like grass upon the lawn<br>\
+And tonight I wed another, Dear John<br>\
+<br>\
+Recitation:<br>\
+Will you please send back my picture, my husband wants it now<br>\
+When I tell you who I'm wedding, you won't care, dear, anyhow<br>\
+Now the ceremony has started and I'll wed your brother Don<br>\
+Will you wish us happiness forever, Dear John"}
+)
+
+
 lirica.push({"faixa":"Que te vaya bonito 👈","lirica":"Ojalá que te vaya bonito<br>\
 Ojalá que se acaben tus penas<br>\
 Que te digan que yo ya no existo<br>\
