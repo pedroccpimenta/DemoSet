@@ -6,7 +6,37 @@ lirica.push({"faixa":"Portero suba y diga","lirica":"Portero suba y diga"})
 lirica.push({"faixa":"Tu vieja ventana","lirica":"Tu vieja ventana"})
 lirica.push({"faixa":"La cumparsita","lirica":"La cumparsita"})
 
-
+lirica.push({"faixa":"Merci","lirica":"Pour tous ces jours et ces nuits<br>\
+Que je t'ai volé<br>\
+Avant que tu ne m'oublie<br>\
+Je voulais te dire merci<br>\
+<br>\
+Pour ta bouche qui riait<br>\
+Que j'ai fait crier<br>\
+Tes yeux que j'ai fait pleurer<br>\
+Je voulais te dire merci<br>\
+<br>\
+N'attends pas de moi<br>\
+Que j'implore, que je supplie<br>\
+N'espère pas de moi<br>\
+Les larmes du repentir<br>\
+Je veux simplement te dire merci<br>\
+<br>\
+Pour ton corps que j'ai aimé<br>\
+Jusqu'à le tromper<br>\
+Pour ton coeur que j'ai cassé<br>\
+Je voulais te dire merci<br>\
+<br>\
+Pour ce morceau de ta vie<br>\
+Que j'ai dévoré<br>\
+Ce séjour au paradis<br>\
+Je voulais te dire merci<br>\
+<br>\
+N'attends pas de moi<br>\
+Que je rampe comme un chien<br>\
+N'espère pas de moi<br>\
+Que je t'avoue mon chagrin<br>\
+Je veux simplement te dire merci"})
 
 lirica.push({"faixa":"The end of the world","lirica":"Why does the sun go on shining?<br>\
 Why does the sea rush to shore?<br>\
