@@ -47,7 +47,9 @@ async function sharetanda()
             console.log('Error fetching data');
             throw error;
     }
-		url = encodeURI ("https://tandacorrente.onrender.com/page2?tandacorrente="+c[t][0].nome+"&brano="+c[t][b].file)
+		// url = encodeURI ("https://tandacorrente.onrender.com/page2?tandacorrente="+c[t][0].nome+"&brano="+c[t][b].file)
+		url = encodeURI ("https://tandacorrente-p1rq.onrender.com/page2?tandacorrente="+c[t][0].nome+"&brano="+c[t][b].file)
+
 		console.log(url)
 		try {
           fetch(url)
